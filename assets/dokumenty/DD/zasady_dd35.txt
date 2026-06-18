@@ -1,0 +1,177 @@
+Oto ustrukturyzowana Baza Wiedzy (Knowledge Base) dotycząca mechaniki gry Dungeons & Dragons 3.5, oparta na dostarczonym dokumencie SRD. Została ona zaprojektowana jako podręczne kompendium dla Mistrza Podziemi oraz Graczy.
+
+---
+
+# BAZA WIEDZY: Dungeons & Dragons 3.5 (SRD)
+
+## 1. Wprowadzenie i Mechanika Podstawowa
+Sercem mechaniki d20 jest wykonywanie testów opartych na rzucie kostką dwudziestościenną (1k20). Każde działanie obarczone ryzykiem niepowodzenia rozwiązuje się za pomocą poniższej formuły:
+
+**`Rzut 1k20 + Modyfikatory ≥ Skala Trudności (ST)`**
+*   **Sukces:** Jeśli wynik jest równy lub wyższy niż ST (lub Klasa Pancerza w walce).
+*   **Modyfikatory:** Premie (dodatnie) lub kary (ujemne) wynikające z atrybutów, rasy, klasy, atutów, ekwipunku czy sytuacji.
+*   **Zasada „1” i „20” (w walce i rzutach obronnych):** Wyrzucenie naturalnej „1” to zawsze porażka. Wyrzucenie naturalnej „20” to zawsze sukces (i potencjalne trafienie krytyczne). Nie dotyczy to testów umiejętności.
+
+---
+
+## 2. Atrybuty
+Każda postać posiada 6 atrybutów. Wartość atrybutu determinuje jego modyfikator według wzoru: `(Wartość - 10) / 2` (zaokrąglając w dół).
+
+| Atrybut | Modyfikator wpływa na: | Ważny dla: | Rzucanie Czarów |
+| :--- | :--- | :--- | :--- |
+| **Siła (S)** | Ataki wręcz, obrażenia, udźwig, umiejętności siłowe (Skakanie, Pływanie). | Wojownik, Barbarzyńca | Brak |
+| **Zręczność (Zr)** | Ataki dystansowe, KP, inicjatywa, rzuty na Refleks, umiejętności zręcznościowe. | Łotrzyk, Tropiciel | Brak |
+| **Budowa (Bd)** | Punkty Wytrzymałości (PW), rzuty na Wytrwałość, opieranie się truciznom. | Każda klasa | Brak |
+| **Intelekt (Int)** | Punkty umiejętności, języki poboczne. | Czarodziej, Łotrzyk | **Czarodziej** (moc i liczba czarów) |
+| **Roztropność (Rzt)** | Rzuty na Wolę, umiejętności oparte na percepcji (Spostrzegawczość, Nasłuchiwanie). | Kapłan, Druid, Mnich | **Kapłan, Druid, Paladyn, Tropiciel** |
+| **Charyzma (Cha)**| Umiejętności społeczne (Dyplomacja, Blefowanie), odpędzanie nieumarłych. | Bard, Zaklinacz, Paladyn | **Bard, Zaklinacz** |
+
+*Wymagania magii:* Aby rzucić czar, atrybut powiązany z magią musi wynosić min. `10 + poziom czaru`.
+
+---
+
+## 3. Rasy
+Wybór rasy determinuje bazowe modyfikatory, rozmiar, szybkość oraz zdolności wrodzone.
+
+*   **Ludzie:** Szybkość 9m. +1 dodatkowy atut na start, +4 pkt umiejętności na 1. poziomie (+1 na kolejnych). *Ulubiona klasa: Dowolna.*
+*   **Elfy:** +2 Zr, -2 Bd. Szybkość 9m. Odporność na uśpienie, widzenie w słabym świetle, biegłość w mieczach i łukach. +2 do Nasłuchiwania, Przeszukiwania, Spostrzegawczości. *Ulubiona klasa: Czarodziej.*
+*   **Krasnoludy:** +2 Bd, -2 Cha. Szybkość 6m (pancerz/obciążenie nie zwalnia). Widzenie w ciemnościach (18m). Skalny zmysł, +2 vs trucizny i czary, +4 do KP vs Giganci. *Ulubiona klasa: Wojownik.*
+*   **Gnomy:** +2 Bd, -2 S. Mały rozmiar (+1 KP/Atak, mniejsza broń). Szybkość 6m. Widzenie w słabym świetle, +2 do rzutów vs iluzje, +1 do ataków vs goblinoidy. Zdolności czaropodobne. *Ulubiona klasa: Bard.*
+*   **Niziołki:** +2 Zr, -2 S. Mały rozmiar. Szybkość 6m. +2 do Cichego poruszania, Wspinaczki, Skakania. +1 do rzutów obronnych, +1 do ataków bronią rzucaną. *Ulubiona klasa: Łotrzyk.*
+*   **Półelfy:** Szybkość 9m. Krew elfów, odporność na uśpienie, widzenie w słabym świetle, +2 do Dyplomacji i Zbierania informacji. *Ulubiona klasa: Dowolna.*
+*   **Półorkowie:** +2 S, -2 Int, -2 Cha. Szybkość 9m. Widzenie w ciemnościach (18m). Krew orków. *Ulubiona klasa: Barbarzyńca.*
+
+---
+
+## 4. Klasy Postaci (Podstawowe)
+| Klasa | KW | Atak (BAB) | Dobre Rzuty Obr. | Kluczowe Zdolności |
+| :--- | :---: | :--- | :--- | :--- |
+| **Barbarzyńca** | k12 | Wysoki | Wytrwałość | Szał, Szybkie poruszanie, Nieświadomy unik, Redukcja obrażeń. |
+| **Bard** | k6 | Średni | Ref, Wola | Muzyka bardów, Wiedza bardów, Czary wtajemniczeń (spontaniczne). |
+| **Czarodziej** | k4 | Niski | Wola | Czary wtajemniczeń (księga), Chowaniec, Atuty premiowe. |
+| **Druid** | k8 | Średni | Wytr, Wola | Czary objawień, Zwierzęcy towarzysz, Kształty natury, Leśny krok. |
+| **Kapłan** | k8 | Średni | Wytr, Wola | Czary objawień, Domeny, Odpędzanie/karcenie nieumarłych, Leczenie. |
+| **Łotrzyk** | k6 | Średni | Refleks | Podstępny atak, Wykrywanie pułapek, Uchylanie, Mnóstwo umiejętności. |
+| **Mnich** | k8 | Średni | Wytr, Ref, Wola | Atak bez broni, Grad ciosów, Premia z Rzt do KP, Ki, Szybkość. |
+| **Paladyn** | k10 | Wysoki | Wytrwałość | Aura dobra, Nakładanie rąk, Ugodzenie zła, Czary objawień, Wierzchowiec. |
+| **Tropiciel** | k8 | Wysoki | Wytr, Ref | Preferowany wróg, Tropienie, Styl walki, Zwierzęcy towarzysz, Czary. |
+| **Wojownik** | k10 | Wysoki | Wytrwałość | Atuty premiowe (co 2 poziomy), Biegłość we wszystkich zbrojach i broni. |
+| **Zaklinacz** | k4 | Niski | Wola | Czary wtajemniczeń (spontaniczne), Chowaniec. Mniej znanych czarów niż mag. |
+
+---
+
+## 5. Postacie Wieloklasowe i Klasy Prestiżowe
+*   **Wieloklasowość:** Sumuje bazowe premie do ataku, rzuty obronne i PW. Klasa o najwyższym poziomie determinuje kary do PD (o ile występuje różnica >1 poziomu), chyba że jest to *Ulubiona klasa* rasy.
+*   **Klasy Prestiżowe:** Zapewniają unikalne zdolności, wymagają spełnienia określonych warunków (atuty, rangi w umiejętnościach, BAB).
+    *   *Arcymag:* Ekspert magii, zyskuje wyższe arkana, modyfikuje obszar lub moc czarów kosztem komórek czarów.
+    *   *Skrytobójca:* Zła postać polegająca na atakach z ukrycia. Zyskuje Zabójczy atak, stosowanie trucizn i czary.
+    *   *Szermierz:* Zyskuje zręcznościowe premie obronne (gdy bez pancerza) i precyzyjne ciosy punktowe.
+*   **Klasy BN (Bohaterów Niezależnych):** Słabsze klasy dla obywateli świata (Adept, Arystokrata, Fachowiec, Plebejusz, Zbrojny). Nie zalecane dla postaci Graczy.
+
+---
+
+## 6. Bohaterowie Epiccy
+Poziomy 21+. Skalowanie postaci zmienia się, aby zapobiec „psuciu” matematyki d20.
+*   **Brak progresji BAB/Rzutów Obr.:** Powyżej 20. poziomu postać nie otrzymuje standardowej premii. Zyskuje *Epicką Premię do Ataku* oraz *Epicką Premię do Rzutów Obronnych* (wzrasta co parzysty poziom).
+*   **Atuty Epickie:** Potężne zdolności do wzięcia co 3 poziomy (oraz jako atuty premiowe klas). Wymagają poziomu epickiego.
+*   **Wzrost Atrybutów:** Nadal przyznawany co 4 poziomy postaci.
+
+---
+
+## 7. Umiejętności i Atuty
+**Zasady Testów:**
+*   **Zasada "Brania 10":** Poza walką, bez presji, można założyć, że na k20 wypadło 10.
+*   **Zasada "Brania 20":** Kiedy brak konsekwencji porażki (np. przeszukiwanie pokoju), przyjmuje się wynik 20. Zajmuje to 20x więcej czasu.
+*   **Synergia:** 5 lub więcej rang w danej umiejętności daje stałą premię +2 do określonych umiejętności pokrewnych (np. +2 do Dyplomacji za 5 rang w Blefowaniu).
+
+**Atuty:** 
+Pasywne lub aktywne ulepszenia mechaniki. Wybierane na 1., 3., 6., 9... poziomie postaci.
+Dzielą się na: *Ogólne*, *Tworzenia Przedmiotów* oraz *Metamagiczne* (wzmacniają czary kosztem slotu wyższego poziomu).
+
+---
+
+## 8. Ekwipunek i Bogactwa
+*   **Waluta:** 1 Sztuka Złota (SZ) = 10 Sztuk Srebra (SS) = 100 Sztuk Miedzi (SM). (Istnieją też Sztuki Platyny = 10 SZ).
+*   **Broń:** Dzieli się na Prostą, Żołnierską, Egzotyczną. Typy obrażeń: Cięte, Kłute, Miażdżone. Rzuty na trafienie krytyczne zależą od progu zagrożenia (np. 19-20 lub x3).
+*   **Zbroja:** Dzieli się na Lekką, Średnią, Ciężką. Zapewnia premię do KP, ale obniża max premię z Zr, wymusza karę do testów fizycznych i spowalnia postać.
+*   **Przedmioty Mistrzowskie:** Doskonale wykonane. Broń daje +1 do testu ataku. Zbroja zmniejsza karę do testów z pancerza o 1. Wymagane jako podstawa do umagicznienia.
+
+---
+
+## 9. Walka - Kluczowe Mechaniki
+*   **Inicjatywa:** `1k20 + mod. z Zr.`
+*   **Zaskoczenie:** Przed pierwszą rundą istoty świadome zagrożenia wykonują "Rundę Zaskoczenia" (1 akcja standardowa lub ruchu). Pozostali są *nieprzygotowani* (tracą premie Zr do KP).
+*   **Klasa Pancerza (KP):** `10 + Pancerz + Tarcza + mod. Zr + mod. Rozmiaru + Defleksja + Naturalny Pancerz + Unik`.
+*   **Ataki Okazyjne:** Akcja darmowa na intruza, który w twoim zasięgu zagrożenia:
+    *   Wychodzi poza twoje pole.
+    *   Wykonuje rozpraszającą akcję (pije eliksir, rzuca czar, strzela z łuku).
+*   **Akcje w rundzie:** 
+    *   *Standardowa* (atak, rzucenie czaru),
+    *   *Ruchu* (przemieszczenie, dobycie broni),
+    *   *Całorundowa* (pełny atak, bieg),
+    *   *Darmowa/Szybka* (słowo, upuszczenie).
+*   **Flankowanie i Osłona:** 
+    *   *Flankowanie:* Atak z dwóch przeciwnych stron daje +2 do ataku (i umożliwia podstępny atak).
+    *   *Osłona:* Różne stopnie, np. +4 do KP i +2 do Refleksu. *Ukrycie:* powoduje szansę na chybienie (20% dla półmroku, 50% dla niewidzialności).
+*   **Stan Punktów Wytrzymałości (PW):**
+    *   `0 PW` – Okaleczony (tylko 1 akcja na rundę, uszkodzenia ją kończą).
+    *   `-1 do -9 PW` – Umierający (traci 1 PW co rundę, nieprzytomny).
+    *   `-10 PW` – Martwy.
+*   **Manewry (Ataki Specjalne):**
+    *   *Zwarcie (Grapple):* Atak dotykowy -> Atak okazyjny -> Test sporny. Ogranicza KP i ataki.
+    *   *Szarża:* Ruch + Atak. Daje +2 Atak, -2 KP.
+    *   *Obalenie, Rozbrojenie, Szarża byka* – często prowokują atak okazyjny bez odpowiednich atutów.
+
+---
+
+## 10. Zagrożenia, Stany i Zdolności Specjalne
+*   **Odporność na Czary (SR):** Zdolność działająca jak KP dla czarów. Rzucający musi wykonać test: `1k20 + Poziom Czarującego ≥ SR celu`.
+*   **Trucizny i Choroby:** Wymagają testów na Wytrwałość. Trucizna zadaje obrażenia początkowe i drugorzędne (po 1 minucie). Choroby mają okres wylęgania, rzut wykonuje się co dzień, obniżają atrybuty.
+*   **Redukcja Obrażeń (DR):** Zapis np. "5/magia". Ignoruje 5 punktów obrażeń fizycznych z każdego ataku, chyba że użyto broni magicznej. Ogień, Kwas itp. ignorują DR.
+*   **Wysączenie Energii:** Daje „Negatywne poziomy”. Każdy to: -1 do testów ataku/umiejętności/rzutów, -5 PW, -1 poziom czarów. Może stać się permanentne po 24 godzinach.
+
+---
+
+## 11. Eksploracja, Udźwig i Środowisko
+*   **Obciążenie:** Limit wagi postaci zależy od Siły. Dzeli się na: Lekkie (brak kar), Średnie i Duże (ogranicza max Zr, daje karę do testów, zmniejsza szybkość np. z 9m na 6m).
+*   **Szybkość i zmęczenie:** Marsz na duże odległości trwający >8h (Forsowny marsz) wymaga rzutów Wytrwałości, by zapobiec zmęczeniu stłuczeniom.
+*   **Brak powietrza (Tonięcie/Duszenie):** Można wstrzymać oddech przez `Budowa x 2` rund. Potem testy, aż do spadku na 0 PW w 1 rundę, potem śmierć w 3 rundzie.
+*   **Ekstremalne Temperatury:** Niskie i wysokie temperatury bez zabezpieczenia powodują odnoszenie stłuczeń co godzinę lub minuty, prowadząc do zgonu.
+
+---
+
+## 12. Świat Gry
+*   **Rodzaje terenu:** Dżungle, bagna, góry, pustynie. Trudny teren kosztuje 2-krotność ruchu, uniemożliwia szarżę i bieg, modyfikuje trudność testów (głównie skradanie, akrobatyka).
+*   **Pułapki:** 
+    *   *Mechaniczne:* Rozbrajane testem Unieszkodliwiania mechanizmów. 
+    *   *Magiczne:* Wykrywalne tylko przez łotrzyków lub klasy z tą zdolnością, rozbrajane j.w. lub czarem Rozproszenie magii.
+*   **Miasta:** Zawierają straż i obwarowania prawne (zakazy noszenia ciężkiej broni czy agresywnej magii). Łatwy handel magicznym ekwipunkiem.
+*   **Plany Egzystencji:** 
+    *   *Materialny* (standardowy).
+    *   *Przechodnie* (Eteryczny - byty duchowe/przenikanie przez ściany, Astralny - podróże mentalne, Cieni - mroczne skróty).
+    *   *Wewnętrzne* (Zdominowane przez 1 żywioł/energię, skrajnie niebezpieczne).
+    *   *Zewnętrzne* (Skupione na charakterze: Dobro/Zło/Chaos/Prawo).
+
+---
+
+## 13. Magiczne Przedmioty i Skarby
+*   **Skarby generuje się na podstawie SW (Skali Wyzwania) potworów.**
+*   **Używanie:** Magiczne przedmioty aktywuje się przez: słowo rozkazu, użycie, ukończenie czaru (zwoje) lub uruchomienie czaru (różdżki).
+*   **Identyfikacja:** Wymaga testów Czarostwa lub rzucenia czarów *Identyfikacja* / *Analiza Dweomeru*.
+*   **Tworzenie:** Wymaga atutu (np. Warzenie Eliksirów), odpowiedniego poziomu twórcy, czasu (1 dzień za każde 1000 sz wartości), złota za surowce (połowa wartości) i punktów doświadczenia (PD) w liczbie równej `Wartość / 25`.
+*   **Kategorie:** Eliksiry, Zwoje, Różdżki, Laski, Pancerze, Broń, Pierścienie i Cudowne przedmioty.
+    *   *Przedmioty Przeklęte:* Niosą ukryte kary.
+    *   *Artefakty:* Unikaty o niesamowitej mocy, niemożliwe do wytworzenia przez graczy.
+    *   *Inteligentne przedmioty:* Posiadają własne atrybuty mentalne i własne cele (Ego), mogą przejąć kontrolę nad postacią.
+
+---
+
+## 14. Czary (Magia)
+*   **Wtajemniczenia (Czarodzieje, Bardi, Zaklinacze):**
+    *   Mag zależy od *księgi zaklęć*, z której przygotowuje czary w czasie odpoczynku. W pancerzu grozi im *niepowodzenie czaru wtajemniczeń* (% szansy na utratę czaru przy rzucaniu).
+    *   Bardi i Zaklinacze nie muszą przygotowywać magii (rzucają spontanicznie ze znanej puli).
+*   **Objawienia (Kapłani, Druidzi, Paladyni, Tropiciele):**
+    *   Moc zesłana przez bogów/naturę. Modlą się o dany zestaw czarów raz dziennie. 
+    *   Nie podlegają rzutom na niepowodzenie czaru ze względu na założony pancerz.
+*   **Domeny Kapłańskie:** Wybierane dwie z racji wyznawanego bóstwa. Każda daje dodatkową zdolność (zesłaną moc) oraz po 1 specjalnym zaklęciu każdego poziomu dziennie.
+*   **Zasady Rzucania:** Wymagają Skupienia. Zranienie podczas czarowania wymusza test Koncentracji. Przerwanie czaru (np. atakiem okazyjnym) to utrata slotu magii bez efektu.

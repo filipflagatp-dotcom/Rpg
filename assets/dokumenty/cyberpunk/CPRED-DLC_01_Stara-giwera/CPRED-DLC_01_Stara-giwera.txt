@@ -1,0 +1,193 @@
+﻿ILUSTRACJA: RICHARD BAGNALL
+1
+EDYCJA ANGIELSKA
+EDYCJA POLSKA
+Projekt i autorzy: Mike Pondsmith, James Hutt, Cody Pondsmith, and J Gray
+Kierownictwo artystyczne: Jaye Kovach
+Zarządzanie przedsiębiorstwem: Lisa Pondsmith • Skład: J Gray
+Redaktor naczelny: Andrzej Ross
+Redakcja: Andrzej Ross, Lidka Migalska
+Koordynatorka projektu: Daria Pilarczyk
+Wydawca: Michał Lisowski
+Tłumacz: Janek Sielicki
+Skład: Marcin Bieliński
+Korekta: Małgorzata Góraj-Ptak
+Copyright © 2020 by R. Talsorian Games, Inc., Cyberpunk is a registered trademark of CD Projekt Red S.A. All rights reserved under the Universal Copyrights Convention.
+Wszystkie opisane sytuacje, rządy i ludzie są fikcyjni. Wszelkie podobieństwa są przypadkowe i nie mają na celu satyry.
+STARA GIWERA
+NIGDY NIE UMIERA
+KONWERSJA BRONI Z CYBERPUNKA 2020
+NA CYBERPUNKA RED
+STARA GIWERA NIGDY NIE UMIERA
+2
+Poniżej przedstawiono zasady konwersji broni
+z Cyberpunka 2020 na zasady Cyberpunka
+RED.
+K
+rok 0
+K r o k z e r o K r o k z e r o
+Jeśli twoja broń nie wystrzeliwuje pocisków, naboi
+śrutowych, strzał ani ładunków wybuchowych, lub
+nie jest typową bronią palną, ani taką do walki
+wręcz (na przykład ma określone wymagania lub
+korzysta z zasad specjalnych), to jest bronią egzo-
+tyczną. Sprawdź następnie czy nie ma już podobnej
+lub porównywalnej broni egzotycznej w rozdziałach
+o wyposażeniu we wszystkich wydanych do tej pory
+podręcznikach do Cyberpunka RED. Jeśli nic
+takiego nie znajdujesz, spytaj MG, czy możesz ją
+opracować. Trzeba jednak uważać, by nie zakłócić
+równowagi zasad. Nie każdy rodzaj broni spraw-
+dzi się w każdej kampanii. Następnie przejdź do
+kolejnego kroku.
+K
+rok 1
+K r o k p i e r w s z y k r o k
+W Cyberpunku RED znajdź najbliższy odpo-
+wiednik typu broni. Typ broni określa wszystko prócz
+celności oraz zawodności, która zależy od jakości
+danego przedmiotu. Oznacza to, że obrażenia od
+pojedynczego strzału, mnożnik Ognia ciągłego (jeśli
+broń posiada taki tryb), pojemność standardowego
+magazynka, typ amunicji, Liczbę Ataków, wymaganą
+liczbę rąk, cenę i możliwość ukrycia trzeba zmienić
+tak, by pasowały do typu broni, zgodnie z zasadami
+głównego podręcznika Cyberpunka RED.
+K
+rok 2
+K r o k d r u g i K r o k d r u g i
+Zrównaj celność broni. Jeśli w Cyberpunku
+2020 celność broni wynosiła -1 lub mniej, ta sama
+broń w Cyberpunku RED ma celność 0. Jeśli
+w Cyberpunku 2020 celność wynosiła +1 lub
+więcej, w Cyberpunk RED ma celność +1, co czyni
+ją bronią doskonałej jakości.
+K
+rok 3
+K r o k t r z e c i K r o k
+Zrównaj zawodność. Wszystkie bronie
+z Cyberpunka 2020 o zawodności „zawodna
+(ZW)” stają się w Cyberpunku RED broniami
+niskiej niezawodności, co oznacza, że gdy dojdzie
+do Krytycznej Porażki (wyrzucisz 1 w Teście broni),
+dochodzi do usterki. Jest to nowa charakterystyka
+broni, która została wprowadzona na potrzebę
+konwersji. Zanim z broni będzie można ponownie
+skorzystać, należy najpierw, w ramach Akcji, usunąć
+usterkę np. odblokować broń, poprawić obluzowaną
+rękojeść itp. Możliwe, że po konwersji otrzymasz broń
+doskonałej jakości, która i tak się będzie zacinać,
+bo będzie miała niską niezawodność. Twój MG
+(i zapewne także twój Fixer) powinien wziąć to pod
+uwagę ustalając cenę tego przedmiotu.
+K
+rok 4
+K r o k c z w a r t y K r o k
+Określ jakość broni. Cenę broni zawsze ustala się
+patrząc na cenę najwyższego typu jakości broni,
+do której się kwalifikuje. By to określić, skorzystaj
+z wyników Kroków 2 i 3 oraz poniższej tabeli.
+Jakość broni
+Kwalifikacja
+Niska
+Niska niezawodność
+oraz +0 do celności broni
+Zwykła
++0 do celności i broń nie jest
+z niską niezawodnością
+Doskonała
++1 do celności broni, nawet jeśli jest
+z niską niezawodnością
+K
+rok 5
+K r o k p i a t y K r o k p i a t y
+Usuń z broni wszystkie stare dodatki. W ich miejsce
+umieść podobne dodatki z Cyberpunka RED. Jeśli
+standardowy magazynek broni z Cyberpunka
+2020 mieści więcej pocisków niż podano dla tego
+typu broni w Cyberpunku RED, rozważ dodanie
+Wydłużonego magazynku lub Magazynku bęb-
+nowego. W Cyberpunku RED wszystkie bronie
+dystansowe (prócz broni egzotycznych) mają trzy
+gniazda na dodatki. Jeśli odwzorowanie broni
+z Cyberpunka 2020 wymagałoby zainstalowa-
+nia więcej niż trzech gniazd na dodatki, taka broń
+powinna być bronią egzotyczną. Warto zauważyć,
+że niektóre dodatki do broni, takie jak Wydłużony
+magazynek, mogą zmienić możliwość ukrycia broni
+(z TAK na NIE).
+K
+rok 6
+K r o k s z o s t y K r o k
+Twój MG ustala cenę nowej broni, biorąc pod uwagę
+jej wartość rynkową. Dzwoń do swojego Fixera. Być
+może będzie ją nieco trudniej znaleźć niż kiedyś.
+STARA GIWERA NIGDY NIE UMIERA
+3
+P
+rzykład
+p r z y k l a d p r z y k l a d p r z y k l a d p r z y k l a d
+Az postanawia, że następne zadanie Ekipy będzie polegać na znalezieniu kontenera starego uzbrojenia
+neorosyjskiego z czasów 4. Wojny Korporacji. Domyślając się, że ekipa zapewne zgarnie jeden lub dwa
+karabiny dla siebie, Az zabiera się do konwersji kilku neorosyjskich giwer z dodatku Mordercza Stal do
+Cyberpunka 2020 na zasady Cyberpunka RED. Zaczyna od karabinu szturmowego Stolbovoy St-5,
+modelu ze standardowo wbudowanym złączem smartguna. W Cyberpunku 2020 karabin miał nastę-
+pujące statystyki:
+Celność: -1
+Możliwość ukrycia: Nie można jej ukryć
+Dostępność: Przeciętna lub Rzadka, w zależności od części świata
+Obrażenia: 5k6 (5.45 mm)
+Pojemność magazynka: 30
+Szybkostrzelność: 1/30
+Zawodność: Niezawodna
+Zasięg: 400 m
+Cena: 1800 ed
+Cechy: Złącze smartguna
+Broń jest oczywiście karabinem szturmowym, więc Az porównuje statystyki St-5 z Cyberpunka 2020
+z typem broni karabin szturmowy w Cyberpunku RED. Możliwość ukrycia oraz obrażenia od jednego
+strzału nie zmieniają się. Dostępność nie ma znaczenia, więc nie jest brana pod uwagę. Szybkostrzelność 1/30
+staje się po prostu LA 1. W Cyberpunku RED ogień ciągły działa inaczej, więc druga wartość nie ma zna-
+czenia, ponieważ wszystkie karabiny szturmowe mają LA 1. Pojemność magazynka wynosi 30, ale standar-
+dowy magazynek karabinu szturmowego w Cyberpunku RED mieści 25 pocisków. Az notuje sobie, by do
+tego wrócić, gdy zacznie zastanawiać się nad dodatkami. Wszystkie karabiny szturmowe w Cyberpunku
+RED korzystają z tego samego wiersza Tabeli zasięgu, więc zasięg 400 m nie ma znaczenia. Cena spada
+z 1800 ed do 500 ed, ale Az wie, że jeszcze się zmieni w dalszej części procesu konwersji.
+St-5 w Cyberpunku 2020 ma celność -1. W Cyberpunku RED zostaje ona wyrównana do wartości +0.
+Jakość broni jest niezawodna. Dla konwersji znaczenie miałaby tylko broń zawodna, więc tu nic nie jest
+zmieniane. Zerkając na tabelę z Kroku 4, Az widzi, że St-5 Stolbovoy to broń zwykłej jakości, ponieważ
+ma +0 do celności i broń nie ma niskiej niezawodności.
+Jak na razie, cena 500 ed nie ulega zmianie. Jednak St-5 ma jedną cechę: złącze smartguna.
+W Cyberpunku RED istnieje dodatek do broni Złącze smartguna, więc Az dodaje go do statystyk broni.
+W ten sposób cena broni zwiększa się do 1000 ed. Az postanawia też pochylić się nad różnicą w pojemności
+magazynka St-5 z Cyberpunka 2020 i standardowego karabinu szturmowego z Cyberpunka RED,
+dodając do opracowywanej broni dodatek Wydłużony magazynek. Zwiększa to pojemność magazynka
+do 35 oraz wartość St-5 w 2045 roku na Nocnym do 1100 ed.
+▶ Stolbovoy St-5
+Typ broni
+Umiejętność
+Obrażenia
+od 1 strza-
+łu
+Standardowy
+magazynek
+Liczba
+ataków
+(LA)
+Liczba
+rąk
+Czy można
+ukryć?
+Cena
+Karabin
+szturmowy
+Broń długa
+5k6
+35
+(Karabinowa)
+1
+2
+NIE
+1100 ed
+Inne tryby ognia oraz cechy specjalne:
+• Ogień ciągły (4) • Ogień zaporowy
+• Złącze smartguna • Wydłużony magazynek

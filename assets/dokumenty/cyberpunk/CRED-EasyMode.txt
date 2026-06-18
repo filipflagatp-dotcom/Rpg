@@ -1,0 +1,4768 @@
+﻿EASY MODE
+TWOJE ZAPROSZENIE DO MROCZNEJ PRZYSZŁOŚCI
+2
+EASY MODE
+A
+cóż to jest?
+W h a t i s t h i s w h a t i s t h i s
+A proszę ja kogo, TO jest Cyberpunk
+RED Easy Mode! Wprowadzenie,
+chciałoby się rzec przewodnik, po osa-
+dzonej w Mrocznej Przyszłości narra-
+cyjnej grze wyobraźni Cyberpunk
+RED. Poza tą książką, aby rozpocząć
+rozgrywkę, potrzeba będzie dodatkowo
+zaopatrzyć się w następujące utensylia:
+• Jeden Mistrz Gry
+• Do pięciu Graczy
+• Kostka dziesięciościenna dla
+każdego Gracza (k10)
+• Wiadro kaszóstek (sześciościennych
+kości/k6)
+Ż
+ycie Cyberpuncze
+b e i n g c y b e r p u n k b e i n g c y b e r p u n k
+Świat Cyberpunka jest brutalnym
+i niebezpiecznym miejscem, pełnym
+ludzi, którzy tylko marzą o tym, by
+wyrwać ci ręce i wtranżolić je choćby
+na surowo… Po strasznej wojnie między
+Megakorporacjami, zakończonej
+atomowym inferno, świat Cyberpunka
+to wciąż połączenie dzikości i wyra-
+fi nowania, nowoczesności i zacofania.
+Piękni jak z obrazka Rockerzy mijają się
+z pobliźnionymi i zakutymi w pancerze
+wojownikami szos. Cała ta pstrokata
+i chromowana zbieranina miesza się
+z tłumem na nieczułych i okrutnych ulicach
+najgorszej miejscówy po tej stronie strza-
+skanego nuklearnym holokaustem świata
+— skąpanego w oleju i neonowym świetle
+giganta, Night City.
+Jako Cyberpunk chwytasz technologię
+za gardło i nie puszczasz. Najnowsze
+„ulepszenia”, cybertechnologie i zdobycze
+bioinżynierii łykasz wielkimi haustami
+i spijasz do ich pokrytego patyną dna.
+Masz złącza interfejsu w nadgarstkach,
+uzbrojenie wbudowane w ramiona,
+lasery w oczach i programy z bioczipów
+w mózgu. Stajesz się prowadzonym
+przez ciebie samochodem, pilotowaną
+aerodyną, giwerą, z której strzelasz.
+Skaczesz na główkę i nurkujesz prosto
+w głębię systemów komputerowych,
+wykorzystując swój umysł, by z prędkością
+światła przemierzać królicze nory
+Architektur Sieci. Cyberpalcami łamiesz
+zabezpieczenia elektronicznych zamków.
+Dzięki palecie poszerzonych zmysłów
+spoglądasz bez wahania w Przyszłość.
+Cyberpunk to także poza. Nosisz
+najmodniejsze ciuchy, znasz, kogo
+trzeba, i idziesz tam, gdzie dzieją się
+ważne rzeczy. Swoje skoki i operacje
+planujesz w elitarnych klubach i barach;
+twoi wrogowie to armie Korporacji,
+scyborgizowane gangi motocyklowe,
+skrytobójcy w zbrojach wspomaganych
+i okablowani po uszy Netrunnerzy.
+Uzbrojony jesteś w pewność siebie,
+obycie na ulicy, brawurę i smartgun
+Minami 10 przy biodrze. Myślisz, że
+jesteś na to wszystko gotowy? No jasne,
+że tak. Już przebierasz serwomotorami
+z niecierpliwości.
+Jesteś Cyberpunkiem i twoim życiem
+rządzą trzy zasady:
+#1 STYLÓWA PONAD SENS
+Nieważne, czy jesteś w czymś dobry
+– ważne, jak się nosisz i jak się wozisz.
+A jeśli zawalisz sprawę, upewnij się, że
+wszyscy będą myśleć, że dokładnie taki
+był plan. Zwykle w grach fabularnych
+ubrania i wygląd nie mają większego
+znaczenia. Jednak w tym świecie skó-
+-rzana kurtka kuloodporna i lustrzanki
+to absolutne minimum.
+#2 LICZY SIĘ TYLKO NASTAWIENIE
+Taka prawda. Masz niebezpieczne myśli
+– jesteś niebezpieczny. Myślisz o swoich
+słabościach – jesteś słaby. Pamiętaj,
+w XXI wieku każdy obwieszony jest
+EDYCJA ANGIELSKA
+Projekt i autorzy:
+Mike Pondsmith, James Hutt,
+Cody Pondsmith, J Gray,
+i David Ackerman
+Redakcja:
+Lisa Pondsmith
+i Aron Tarbuck
+Kierownictwo
+artystyczne:
+Jaye Kovach
+Opieka nad projektem:
+Lisa Pondsmith
+Projekt grafi czny:
+J Gray
+Ilustracja z okładki:
+Anselm Zielonka
+Pozostałe ilustracje:
+Neil Branquinho, J Gray,
+Maskym Harahulin, Adrian
+Marc i Eddie Mendoza
+Projekt map:
+Matt Henderson
+(Loke Battle Mats)
+EDYCJA POLSKA
+Redaktor naczelny:
+Marcin Życzkowski
+Redaktorka pomocnicza:
+Lidka Migalska
+Koordynator projektu:
+Adam Wieczorek
+Tłumacze:
+Marcin Życzkowski, Janek Sielicki
+Korekta:
+Kasia Wieczorek
+Skład:
+Kamil Kacperak
+Copyright © 2020 by R. Talsorian Games,
+Inc., Cyberpunk is a registered trademark
+of CD Projekt Red S.A. All rights reserved
+under the Universal Copyrights Convention.
+Wszystkie opisane sytuacje, rządy i ludzie
+są fi kcyjni. Wszelkie podobieństwa są
+przypadkowe i nie mają na celu satyry.
+3
+EASY MODE
+zabójczym sprzętem. Postać Gracza ma określoną
+Rolę, czyli obraz, jaki narzuca obserwatorom, tak
+by brali go za prawdziwy. Twój nowy smartgun
+Militechu nie zrobi na nikim wrażenia, chyba że
+wejdziesz do klubu dumnym krokiem, wyglądając,
+jakbyś umiał z niego skorzystać… i tylko szukał do
+tego okazji. Nigdy nie wchodź, jeśli możesz wkro-
+czyć. Nigdy nie patrz w oczy, chyba że będzie to
+twoje najlepsze „zabójcze” spojrzenie. Wykorzystaj
+swój najlepszy uśmiech mówiący „jestem zajebisty,
+a ty nie”. Czekając na kolejną robotę, nie siedź
+na tyłku w mieszkaniu czy kapsule. Wyjdź na miasto,
+odwiedź kluby i knajpy. Bądź tam, gdzie trzeba, gdy
+zaczyna się impreza.
+#3 KRAWĘDZIUJ CAŁYM ŻYCIEM!
+Krawędź to niedookreślony obszar, odwiedzany
+przez ludzi lubiących ryzyko i duże nagrody. Na
+Krawędzi rzucasz na szalę swoją kasę, reputację,
+a nawet życie, dążąc do słabo zdefiniowanych
+ideałów albo po prostu po to, żeby dużo zarobić.
+Jako Cyberpunk chcesz być w akcji, wszczynać
+rebelie, rozniecać płomienie. Dołączasz do ważnych
+ruchów i walczysz o wielkie sprawy. Nigdy nie jedź
+wolno, jeśli możesz pędzić na złamanie karku.
+Rzucaj się w środek burzy i bierz wyzwania na klatę.
+Nigdy nie zachowuj zbyt wiele ostrożności. I zawsze
+dąż do Krawędzi.
+W
+itamy w mrokach
+Mrocznej Przyszłości
+w e l c o m e t o t h e d a r k f u t u r e
+Cyberpunk RED rozgrywa się w alternatywnej
+przyszłości, w której świat stał się areną nisz-
+czycielskiej globalnej wojny stoczonej pomiędzy
+Megakorporacjami. Poniżej znajduje się krótkie
+kalendarium wydarzeń, zamieszczone tu, by osadzić
+rozgrywkę w pewnym kontekście historycznym…
+Ale także po to, aby unaocznić wam dobitnie, jak
+wszystko się solidnie spierdzieliło.
+UPADEK AMERYKI
+Z końcem lat 80. XX wieku stało się jasne, że Stany
+Zjednoczone miały kłopoty. Większość norm
+społecznych zniknęła pod wszechogarniającą falą
+rozmaitych grup nacisku, nakręcanych przez media
+chwilowych trendów i powszechnego egoizmu.
+W 1994 roku liczba bezdomnych na ulicach kraju
+osiągnęła zawrotną liczbę 21 milionów. Rewolucja
+technologiczna jeszcze bardziej podzieliła społec-
+zeństwo, tworząc dwie drastycznie różne klasy:
+bogatą, stechnicyzowaną i dążącą do zdobycia dóbr
+materialnych grupę ludzi Korporacji oraz podrzędną
+klasę bezdomnych, niewyszkolonych pracowników
+fi zycznych. Klasa średnia właściwie przestała istnieć.
+Była to jednak dopiero ponura uwertura zmian, do
+których doszło w Ameryce na początku XXI wieku.
+Oto kilka z głównych powodów upadku Stanów
+Zjednoczonych.
+▶ Upadek miast ◀
+W dużych miastach czyste, schludne i dobrze oświe-
+tlone dzielnice biznesowe, wolne od przestępczości
+i ubóstwa, znajdowały się pod kontrolą potężnych
+Korporacji. Bezpieczny obszar wewnętrzny otaczały
+Strefy Walki, czyli zrujnowane, nędzne, wypalone
+getta, w których pleniły się gangi i lubujący się
+w przemocy socjopaci. Obrzeża miast także należały
+do Korporacji. To na tych względnie bezpiecznych
+i dobrze strzeżonych połaciach ziemi mieszkali wraz
+z rodzinami wyżsi rangą pracownicy Korporacji.
+▶ Nieskuteczny i skorumpowany rząd ◀
+Pod skorumpowanymi rządami Bandy Czworga
+(klika czterech agencji rządowych: NSA, CIA, DEA
+i FBI pod wodzą błyskotliwego i psychopatycznego
+wiceprezydenta) rząd amerykański zamienił się
+w organizację o charakterze mafi jnym. Dążąc po
+trupach do osiągnięcia swojego celu, czyli niele-
+galnych zysków, Banda wydrenowała od środka
+systemy ubezpieczeń społecznych i opieki zdrowot-
+nej, zupełnie wyeliminowała zasiłki (prócz świadczeń
+związanych ze „swoimi” Korporacjami), a także na
+potęgę plądrowała zasoby kraju, traktując USA jak
+osobistą świnkę skarbonkę. Jedynym pozostawionym
+w spokoju sektorem rządowym było wojsko, na które
+Banda hojnie łożyła, zapewniając sobie lojalność
+dowódców i jednocześnie fi nansując politykę impe-
+rialistycznej ekspansji poprzez działania zbrojne.
+Gdy Bandy wreszcie udało się pozbyć, senat
+amerykański właściwie nie funkcjonował, bo przez
+lata Banda albo zastraszyła, albo przekupiła jego
+członków. Z powodu rosnącej liczby „Wolnych
+Jak nietrudno
+się domyślić,
+to tylko
+skrótowiec. Całe
+tony wiedzy o
+świecie znaleźć
+można w
+podręczniku
+głównym do
+Cyberpunk RED.
+4
+EASY MODE
+Stanów”, Sądowi Najwyższemu podlegało coraz
+mniej kraju, a większość federalnego systemu
+biurokratycznego legła w gruzach, przez co państwo
+nie było w stanie sobie poradzić z niszczycielskim
+wpływem kryzysu na obywateli.
+▶ Powstanie Wolnych Stanów ◀
+Poszczególne stany, zmęczone nieskutecznością
+i dyktatorskimi zapędami waszyngtońskiej biurokra-
+cji (oraz niedawno ujawnionymi intrygami Bandy
+Czworga), jeden po drugim zaczęły odłączać się
+od państwa. Pierwsza zrobiła to Kalifornia Północna,
+potem Południowa, następnie Teksas, Oregon,
+Waszyngton i obie Dakoty. Te nowe „Wolne Stany”
+ustanowiły własne prawa (w większości niespecjalnie
+odmienne od wcześniej obowiązujących) i umowy
+handlowe, a co najważniejsze, przestały wysyłać
+zebrane podatki do Waszyngtonu, co jeszcze bardziej
+przyspieszyło proces upadku USA.
+▶ Wielka Kurzawa ◀
+Ogromne połacie półkuli północnej nie były
+gotowe na globalne ocieplenie, a tym bardziej
+na efekt tego procesu, czyli okres nieprzerwanej
+suszy. Na środkowym zachodzie Stanów ludzie
+opuścili wiele małych miasteczek po tym, jak susza
+doprowadziła do upadku miejscowych gospodarstw
+rolnych, fi rm i banków, a także spowodowała głód
+i chaos gospodarczy. Farmy, którym udało się
+przetrwać, zostały wykupione przez ogromne
+Agrokorporacje kontrolujące studnie, pracowników
+najemnych, maszyny rolnicze i utrzymujące zastępy
+dobrze wyposażonych strażników. Ten okres nie
+oszczędził też miast środkowego zachodu, które
+ucierpiały nie od suszy, ale w wyniku załamania
+rynku pracy wytwórczej i migracji zarobkowej do
+Azji i Afryki. Niekontrolowane fuzje i przejęcia
+zdestabilizowały całe sektory gospodarki. Próbując
+spłacić narastające długi, bogaci inwestorzy
+kupowali dobrze prosperujące fi rmy tylko po to, by
+złupić ich zasoby i sprzedać wyssane do cna resztki
+za marne centy.
+Wydrenowanie centrum kraju miało jeszcze
+jeden skutek: miliony ludzi zostały bez dachu
+nad głową i tak jak w połowie lat 30. XX wieku,
+w okresie okrzykniętym mianem Wielkiej Kurzawy,
+tłumy bezdomnych tułały się po drogach, szukając
+schronienia w miastach. Bezkresne autostrady
+wkrótce stały się polem bitwy między uchodźcami
+i watahami uzbrojonych gangerów, którzy niczym
+zmechanizowani Wizygoci podróżowali między
+miastami, łupiąc i grabiąc.
+ILUSTRACJA EDDIE MENDOZA
+5
+EASY MODE
+▶ Zarazy ◀
+Ledwo zipiąca służba zdrowia kompletnie padła
+pod ciężarem kilku ogólnoświatowych pandemii.
+Łatwe i szybkie podróże międzynarodowe, gęsto
+zaludnione obszary miejskie i uporczywa tendencja
+upadających rządów tego okresu do ignorowania lub
+lekceważenia kryzysów zdrowotnych doprowadziły
+do tego, że choroby rozprzestrzeniały się jak podlany
+wysokooktanową benzyną pożar, dewastując całe
+kontynenty. Na przykład Wyniszczająca Zaraza
+z 1999 roku była straszliwą chorobą atakującą jelita,
+przez co jej ofi ary umierały z głodu bez względu na
+ilość przyjętego pokarmu. Zaraza przeorała Europę
+i dotarła do Stanów, gdzie – zignorowana w chaosie
+rządów Bandy Czworga – zabiła około 14 milionów
+ludzi, zanim wreszcie w Japonii wynaleziono szcze-
+pionkę. A była to tylko jedna z kilku epidemii tego
+okresu – niektóre z nich powstały naturalnie, ale inne
+były efektem projektów bioinżynieryjnych różnych
+państw. Każda okazała się kolejnym gwoździem do
+trumny społeczeństwa, które i tak już ledwo przędło.
+▶ Cyberświt ◀
+Ludzkość zawsze przekraczała narzucone jej granice.
+Słaby wzrok? Załóż okulary. Problemy ze słuchem?
+Użyj implantu ślimakowego. Biodra już nie te?
+Wymień je na stalowe. Jednak pod koniec XX wieku
+gwałtowne postępy w dziedzinie cybernetyki (ang.
+cybernetics: cyber = maszyna + netics = kontrola)
+otworzyły wrota do świata zupełnie nowych możli-
+wości. Nagle pojawiły się bardziej zaawansowane
+rozwiązania. Słaby wzrok? Wymień zwykłe oczy
+na cyberoptykę, dzięki której dostrzeżesz szczegóły
+z odległości kilku kilometrów, w ciemności, a może
+nawet strzelisz z niej laserami jak superbohater.
+Problemy ze słuchem? Czas podbić stawkę i zain-
+stalować sobie zestaw cyberaudio, który pozwoli
+ci słyszeć dźwięki z zakresów słyszalnych dla psów
+lub waleni. Biodra już nie te? Wymień cały szkielet na
+taki z niezniszczalnej stali. To nowa epoka i możesz
+stać się jej częścią, bez końca ulepszając swoje ciało.
+Jednak ten nowy, wspaniały świat okazał się
+pułapką. Korporacje i rządy zaczęły korzystać
+z ulepszonych cyborgizacjami służb, które patrolowały
+ulice miast i walczyły w wojnach. Ludzie z ulepsze-
+niami nie mieli cierpliwości do osób bez cyborgizacji
+i ich powolnego (dla scyborgizowanych) życia.
+Cybernetyczna szybkość jeszcze bardziej podkręciła
+tempo zmian, czy też raczej tempo interakcji z pory-
+wistym potokiem nieskończonych informacji, i świat
+znów przyspieszył, powodując szok technologiczny
+(patrz niżej) w społeczeństwie. U ludzi z cyborgiza-
+cjami pojawiły się objawy zaburzeń psychotycznych,
+które w końcu doprowadzały do napadów morder-
+czego szału, wkrótce nazwanego cyberpsychozą.
+I tak do pożogi pochłaniającej społeczeństwa końca
+XX wieku dorzucono kolejną porcję paliwa.
+▶ Niekończąca się wojna ◀
+Dysponując nieograniczonym budżetem wojskowym
+oraz cybernetycznie zmodyfi kowanymi superżoł-
+nierzami, Banda Czworga wszczęła kilka wojen
+poza granicami USA, rozpoczynając nową epokę
+imperializmu. Jednak mimo tak wielkiej przewagi
+Ameryka ugrzęzła w rozmaitych rozwlekłych
+konfl iktach zbrojnych, wybrzmiewających echami
+radzieckiej interwencji w Afganistanie i tak bolesnej
+dla Dawnych Stanów wojny w Wietnamie. Sytuacja
+pogorszyła się jeszcze bardziej, gdy zaatakowane
+kraje odpowiedziały atakami terrorystycznymi,
+m.in. eksplozją kieszonkowego ładunku atomowego
+w Nowym Jorku. Gdy dziesięć tysięcy Cyberżołnierzy
+wreszcie wydostało się z południowoamerykańskiego
+piekła, obywatele Stanów Zjednoczonych mieli już
+serdecznie dość niekończących się bitew, o których
+bez przerwy informowały wiadomości.
+▶ I wreszcie: Szok technologiczny ◀
+Szok technologiczny następuje, gdy postęp technolo-
+giczny jest tak szybki, że ludzie przestają go rozumieć
+i tracą zdolność dostosowywania swojego życia do
+zmian. Zjawisko to było jednym z głównych czynni-
+ków przyczyniających się do chaosu społecznego,
+który doprowadził do upadku świata sprzed epoki
+Cyberpunka. Szok technologiczny zawsze zaczyna się
+niewinnie. Pojawia się przydatny gadżet lub narzędzie.
+Potem nowa, bardzo bezpośrednia metoda komuni-
+kacji. Systemy informatyczne pozwalające rządom
+i Megakorporacjom śledzić cię i obserwować
+poprzez system kamer. Spersonalizowane reklamy,
+dla twojego dobra dostarczające to, co chcesz,
+nawet jeśli nie wiesz, że tego chcesz. Maszyny
+wpływające na twoje poczucie czasu i miejsca, żeby
+usprawnić swoje działanie. I to wszystko dzieje się
+coraz szybciej i szybciej, tak prędko, że twój mózg
+6
+EASY MODE
+nie jest w stanie przetwarzać zmian i ich wpływu na
+ciebie. Im jesteś młodszy, tym łatwiej przystosowujesz
+się do przyspieszającej rewolucji – przyzwyczajasz
+się, bo nowe technologie są z tobą od dziecka.
+Jednak prędzej czy później nawet młodzi przestają
+nadążać. Nagle ludziom odbija. Zaczynają działać
+nieracjonalnie, są skłonni do przemocy. Rozpadają
+się rodziny i związki. Ludzie czują się bezsilni
+w obliczu Wszechświata. W końcu całe społeczeń-
+stwo powoli zamiera, stając się ofiarą masowej
+psychozy. Większość ludzi, choć ich życie legło
+w gruzach lub przeszło nieodwracalne przemiany,
+biernie czeka, aż ich przywódcy doradzą, co robić
+dalej. W tej nowej, niepojętej rzeczywistości
+Megakorporacje zaoferowały neo-feudalną alter-
+natywę. Niewielka grupka próbowała cofnąć czas,
+formując podstawy ruchu, który dziś nazywamy
+neoluddyzmem. Jednak inni postanowili zanurzyć
+się w technologicznych innowacjach. Poradzili sobie,
+częściowo stając się maszynami, ulepszając swoje
+zdolności i zmysły, dzięki czemu zrównali się z osza-
+łamiającym tempem zmian.
+Pozostali ludzie zaczęli ich nazywać
+„Krawędziarzami” lub „Cyberpunkami”.
+DROBNYMI KROCZKAMI KU CIEMNOŚCI
+KALENDARIUM MROCZNEJ PRZYSZŁOŚCI
+▶ 1990–1994 ◀
+• Banda Czworga, czyli koalicja agencji rządowych
+pod wodzą wiceprezydenta, w tajemnicy przej-
+muje władzę nad krajem, co właściwie oznacza
+koniec demokracji federalnej w USA. Wiele
+stanów zaczyna ignorować władze federalne
+i deklaruje się „Wolnymi Stanami”.
+• Wybuch pierwszego konfliktu w Ameryce
+Środkowej. Pod płaszczykiem wojny z komuni-
+zmem, terroryzmem i narkotykami amerykańskie
+zapędy imperialistyczne doprowadzają do
+śmierci setek tysięcy ludzi. Weterani wracają
+do kraju okaleczeni i pozbawieni kończyn, co
+zwiększa popyt na cyborgizacje.
+• Biotechnica opracowuje CHOOH2.
+• W Monachium (Zjednoczone Niemcy) powstają
+pierwsze czipy interfejsu biologicznego TRC.
+• Krach Giełdy Światowej w 1994 roku. Inne
+państwa przyłapują USA na manipulowaniu
+giełdami europejską i amerykańską, a ujawnienie
+tych informacji prowadzi do krachu fi nansowego
+na globalną skalę.
+▶ 1995–1996 ◀
+• Upadek Stanów Zjednoczonych. Osłabione
+Krachem Światowym i przytłoczone bezrobociem,
+bezdomnością i korupcją, kolejne lokalne władze
+upadają lub bankrutują. Rząd amerykański, spętany
+oszałamiającym defi cytem budżetowym i intrygami
+Bandy Czworga, kompletnie sobie nie radzi.
+• Ogólnokrajowe zamieszki zainicjowane przez
+Nomadów. Już jedna czwarta Amerykanów jest
+bezdomna. W całym kraju setki tysięcy ludzi biorą
+udział w zamieszkach na tle mieszkaniowym,
+a na zachodnim wybrzeżu pojawiają się watahy
+Nomadów, które szybko rozprzestrzeniają się
+po całym kraju.
+• Dochodzi do zawieszenia konstytucji USA. Władze
+wprowadzają stan wojenny.
+▶ 1997–1999 ◀
+• W Anglii ginie legendarny przedstawiciel „popu-
+-listycznego rocka”, „Rockerboy” Manson. Jego
+pseudonim, także w wersji skróconej, staje się
+nazwą określającą muzyków i innych artystów
+walczących o lepsze jutro.
+▶ 2000 ◀
+• Pojawiają się pierwsze pozergangi symulujące
+„rodziny wielopokoleniowe”.
+• • Wyniszczająca Zaraza zabija miliony ludzi
+w Europie i USA.
+▶ 2001–2002 ◀
+• Budowa systemu WorldSat tworzy podwaliny
+Sieci.
+▶ 2003 ◀
+• Druga Wojna Środkowoamerykańska. USA
+dokonuje inwazji na Kolumbię, Ekwador, Peru
+i Wenezuelę. Wojna okazuje się katastrofą,
+7
+EASY MODE
+w której ginie wielu amerykańskich żołnierzy,
+a tysiące pozostałych muszą samodzielnie
+wrócić do domu.
+• Fala reform zmiata to, co zostało z Bandy
+Czworga. Znów odbywają się wybory,
+choć bardzo dużą rolę odgrywają w nich
+Megakorporacje.
+▶ 2004 ◀
+• Pierwsza Wojna Korporacji (która potrwa
+do 2006 r.). Epokę bezpośrednich konfliktów
+zbrojnych pomiędzy Korporacjami otwierają EBM
+i Orbital Air, prowadząc wymierzone w rywala
+operacje sił specjalnych i ataki w cyberprzestrzeni.
+▶ 2005–2007 ◀
+• Wynalezienie cybermodemu.
+• Na Uniwersytecie Santa Cruz uczeni opracowują
+pierwszy braindance
+▶ 2008–2010 ◀
+• Druga Wojna Korporacji. SovOil i Petrochem
+nie są w stanie dojść do porozumienia
+w sprawie nowo odkrytych złóż ropy na Morzu
+Południowochińskim, więc zaczynają do siebie
+strzelać. Nawet najwięksi cynicy są w szoku,
+widząc skalę przemocy tego konfl iktu.
+▶ 2011–2012 ◀
+• <Dane uszkodzone. Wymagana synchronizacja
+z danymi źródłowymi.>
+▶ 2013 ◀
+• 13 kwietnia 2013 r. w Night City koncert Johnny’ego
+Silverhanda doprowadza do zamieszek. Uczestnicy
+zabijają 18 osób, ranią 51 i doszczętnie niszczą
+wnętrze starego wieżowca Arasaki.
+• Powstaje wirus Duszobójca. Jego autorką jest
+Altiera Cunningham z fi rmy ITS. Program pier-
+wotnie miał służyć do implantowania nagranych
+osobowości w ludzkie klony. Choć technologia
+transferu okazuje się wadliwa, szpiedzy Arasaki
+dowiadują się o programie i porywają
+Cunningham, zmuszając, by zmieniła swoje
+dzieło w broń.
+• W kalifornijskim ośrodku Microtechu w Sunnyvale
+powstaje pierwsza prawdziwa Sztuczna Inteligencja.
+▶ 2014 ◀
+• Transformacje Ihara-Grubba (I-G) przemode-
+lowują Sieć. W tym okresie Netrunner renegat
+Rache Bartmoss umieszcza wirusa DataKrash
+w Architekturze Sieci.
+▶ 2015 ◀
+• <Dane uszkodzone. Wymagana synchronizacja
+z danymi źródłowymi.>
+▶ 2016 ◀
+• Trzecia Wojna Korporacji. Nieznani cyberterroryści
+atakują korporacyjne Sieci na całym świecie, powo-
+dując straty sięgające miliardów eurodolarów.
+▶ 2017–2020 ◀
+• <Dane uszkodzone. Wymagana synchronizacja
+z danymi źródłowymi.>
+▶ 2021 ◀
+• Europejska Akwakorporacja CINO próbuje
+doprowadzić do bankructwa Akwakorporacji
+IHAG. Trzecia Akwakorporacja, OTEC, próbuje
+odegrać w tym wrogim przejęciu rolę „białego
+rycerza”. Gdy obie Korporacje zbierają sojusz-
+ników, rozpoczyna się niebezpieczna wojna,
+toczona na morzach i w głębinach.
+▶ 2022 ◀
+• Próbując ugrać coś na konfl ikcie pomiędzy CINO i
+OTEC, Arasaka Security i Militech wymieniają ciosy,
+przeprowadzając liczne tajne operacje wojskowe.
+• W korporacyjnym uderzeniu ginie Rache Bartmoss,
+jeden z najlepszych Netrunnerów na świecie. Dwa
+tygodnie później uruchamia się wirus DataKrash
+– pośmiertna zemsta Bartmossa.
+• Czwarta Wojna Korporacji. Tajne operacje
+zamieniają się w otwartą wojnę, gdy Arasaka
+i Militech wprowadzają do walki jednostki
+frontowe. Konflikt rozlewa się po świecie,
+a w wielu dużych miastach dochodzi do
+ciężkich walk.
+8
+EASY MODE
+• DataKrash opanował już 78,2% Sieci. Rozumiejąc
+zagrożenie ze strony wirusa, Saburo Arasaka
+postanawia utworzyć w nowych Wieżach Arasaki
+w Night City bezpieczną i niezarażoną bazę
+danych zbierającą wszelką wiedzę.
+▶ 2023 ◀
+• Kompletne załamanie handlu międzynarodo-
+wego. Transport powietrzny i morski przestają
+działać. Zapasy i żywność czekają na wyładu-
+nek i załadunek. Towary i surowce nie docie-
+rają do sklepów, fabryk i dostawców. Wiele
+Megakorporacji upada.
+• 20 sierpnia 2023 r.: Holokaust Night City.
+Grupa uderzeniowa pod wodzą Solo Morgana
+Blackhanda i Rockera Johnny’ego Silverhanda,
+próbując ukraść lub zniszczyć główną bazę
+danych, wdziera się do Wież Arasaki. W czasie
+walk dochodzi do eksplozji antydostępowego
+ładunku atomowego, który niszczy prawie całe
+centrum miasta. Umiera ponad pół miliona ludzi,
+a kolejne 250 tysięcy ginie w wyniku konsekwencji
+wybuchu. Amerykańska prezydent Elizabeth Kress
+nacjonalizuje Militech, powołując do czynnej służby
+CEO Militechu, generała Donalda Lundee’ego.
+• Początek Czasu Czerwieni. Zanieczyszczenia
+atmosferyczne powstałe w wyniku eksplozji
+w Night City, chmury pyłów po atakach orbitalnych
+i zwykłych wybuchach oraz dymy spowodowane
+pożarami unicestwiającymi miasta i obszary
+rolnicze tworzą ogólnoświatowy efekt niezwykłego,
+czerwonego nieba.
+▶ 2024 ◀
+• <Dane uszkodzone. Wymagana synchronizacja
+z danymi źródłowymi.>
+▶ 2025 ◀
+• Koniec Czwartej Wojny Korporacji. Końcówka
+wojny przeciąga się na trzy lata, w czasie których
+Militech i armie narodowe likwidują ostatnie
+ogniska oporu. Choć w trakcie konfl iktu doszło
+tylko do jednej eksplozji atomowej, światowa
+infrastruktura mocno ucierpiała – ale przetrwała.
+• Nie ma wątpliwości, że Sieć nie działa. W ruinach
+zniszczonego bioatakiem miasta Alt Cunningham
+zakłada Świat Duchów.
+• Rząd Japonii prawie upada. Jednak wyparcie
+się Arasaki ratuje twarz kraju.
+▶ 2026–2029 ◀
+• Początek diaspory. Ludzie, którzy uciekli ze
+zrujnowanych miast, postanawiają odzyskać
+pobliskie miasta, opuszczone od czasów Upadku
+w 1990 roku.
+• Na ogromną skalę łupi się stare technologie
+i opuszczone magazyny. Te Korporacje, które
+wciąż działają, mają bardzo ograniczony zasięg.
+• To, co zostało z USA, przeistacza się w dyktaturę.
+W przewodzonym przez prezydent Elizabeth
+Kress państwie panuje ciągły stan wyjątkowy.
+▶ 2030–2034 ◀
+• Zasiedlenie podmiejskich obszarów Night City.
+Z czasem Night City zostanie odbudowane, ale
+na razie na wzgórzach i w miasteczkach wokół
+metropolii tłoczą się uchodźcy z radioaktywnych
+ruin dawnej Strefy Korporacyjnej.
+• Ponowne uruchomienie Szlaków Nomadów.
+Nomadzi obsadzają porty i kontenerowce.
+Korporacje działają głównie na skalę lokalną,
+ale wraz z pojawieniem się handlowych sieci
+Nomadów tworzą się miejscowe fi lie Korporacji.
+• Powstają CitiNety, czyli oparte na VPN Sieci
+działające na ograniczonym obszarze niektórych
+Miast Odzyskanych.
+• Początek Odbudowy Night City. Z radioaktywnych
+ruin centrum miasta wywozi się gigatony gruzu.
+Wypełnia on większość starej Zatoki.
+▶ 2035–2044 ◀
+• Przy wsparciu lokalnych władz i wciąż istniejących
+Megakorporacji Miasta Pierwszej Fali zaczynają
+Odbudowę. Miasta do rekonstrukcji dobierane są
+według klucza ilości zasobów potrzebnych przy
+odbudowie. Im mniej, tym lepiej.
+• Korporacje, lokalne organizacje i osoby pry-
+watne zaczynają odbudowę starych fabryk,
+stopniowo wypełniając rynkową pustkę po
+starych technologiach nowymi. Z ruin Czwartej
+Wojny Korporacji powstają Nowe Korporacje.
+9
+EASY MODE
+• Netwatch podejmuje próbę eliminacji R.A.B.I.D.-ów
+i odbudowy Dawnej Sieci. Po trwającej trzy lata
+przegranej batalii organizacja kapituluje i wyłącza
+wszystkie główne Węzły.
+• Tworzy się pierwsze Banki Danych, czyli serwery
+informacyjne i systemy wymiany, oferujące
+otwarty dostęp w granicach miasta.
+• Budowa pierwszych Megabudowli, które mają
+pomóc w rozwiązaniu problemu bezdomności.
+Arkologie zaprojektowano tak, by szybko
+stworzyć bezpieczne strefy mieszkalne ze
+„wszystkim na miejscu”.
+▶ 2045 ◀
+• Czasy obecne.
+N
+ight City
+n i g h t c i t y n i g h t c i t y
+Usytuowane na styku Północnej i Południowej
+Kalifornii Night City stanowi domyślną lokalizację dla
+historii osadzonych w świecie Cyberpunk RED.
+To, przynajmniej jak na standardy miast, dość
+młoda aglomeracja. Przed 1994 rokiem cały teren
+przyszłego megapolis zawierał w sobie niewiele
+więcej niż zbieraninę porozrzucanych bezładnie
+miasteczek i luźnej zabudowy. Wszystko zmieniło
+się jednak, gdy w czasie Upadku przedsiębiorczy
+urbanista Richard Night wykupił większość
+okolicznych gruntów. Jego marzeniem było
+stworzenie nowoczesnej, czystej i bezpiecznej
+korporacyjnej metropolii, wolnej od przestępczości
+i innych plag toczących zwykle obszary miejskie.
+Niestety, sam Richard Night padł ofi arą zamachu,
+a wyśniony przez niego Eden szybko przekształcił się
+w przedsionek piekła.
+Do 2020 roku Night City stało się szybko rosnącą
+aglomeracją miejską, która wciąż zmagała się
+z wysoką przestępczością, ale w sektorze gospodarczym
+odnotowywała ciągły wzrost dzięki obecności
+przedstawicielstw rozlicznych Megakorporacji.
+Noszące miano uosobienia cyberpunkowej przyszłości
+miasto zostało niemal doszczętnie zdewastowane
+w czasie Czwartej Wojny Korporacyjnej, gdy jego
+tętniące życiem korporacyjne serce zostało rozerwane
+na strzępy – dosłownie i w przenośni – wraz z detonacją
+głowicy jądrowej w Arasaka Tower.
+Czas Czerwieni to dla Night City czas lizania ran
+i powolnego uprzątania gruzów ostatnich burzliwych
+dekad. Jednocześnie, jak większość Ameryki, miasto
+skrywa pod wierzchnią warstwą przeraźliwej biedy,
+przestępczości i społecznych nierówności zastępy
+zdeterminowanych i ciężkozbrojnych ludzi gotowych
+zrobić wszystko, aby przeżyć. Przechadzając się
+po sztywnych od tłoku ulicach miasta, równie
+często ujrzeć można obywateli taszczących ciężkie
+nesesery korposzczurów jak i tych obarczonych
+ciężarem broni i kamizelek kuloodpornych. Dla
+wszystkich jasne jest, że może i najgorsze już
+minęło, ale zagrożenie nie przestało być boleśnie
+namacalne. Skoro bowiem porządek społeczny
+mógł załamać się raz, może zrobić to ponownie,
+a historia zdaje się być zawsze o jednego szajbusa
+od powtórki. Jeżeli jakakolwiek nauczka została
+wyciągnięta z goryczy świtu dwudziestego
+pierwszego tysiąclecia, to taka, że zawsze jest
+gdzieś kolejny klub zbirów gotowych na wszystko,
+aby doszarpać się swego.
+Ostatnimi czasy nie możesz już sobie, obywatelu,
+pośmigać po zakamarkach NET-u sięgającego
+krawędzi atmosfery ani polecieć na wczasy do
+Kryształowego Pałacu. To, co możesz, to wyłapać
+losową kulę, wychodząc zza węgła, albo utknąć
+kilometry od domu w zablokowanym przejściu
+podziemnym w trakcie powrotu z pracy. O ile masz
+jakąś pracę. Usługi są umiarkowanie dostępne,
+a prawo umiarkowanie obecne. Nie ma jednak
+tragedii. Miasto każdego dnia podnosi się
+z popiołów, próbując przywrócić do użytku
+przynajmniej bazowe udogodnienia. Może nie uda
+ci się zdobyć najnowszej cyfrowej wersji Agenta ani
+najlepszego uzbrojenia (wciąż są ogromne problemy
+z liniami zaopatrzenia, zerwanymi podczas wojny),
+ale dzięki rozkwitającym wszędzie dachowym
+i ściennym ogrodom, kolektorom energii słonecznej
+i przyjaznym Technikom z sąsiedztwa, zawsze
+gotowym do naprawy starego sprzętu, tak naprawdę
+jesz lepsze jedzenie niż kiedyś (jeśli coś jesz), masz
+stały dostęp do elektryczności i sprzętu, a nawet
+możesz liczyć na miejscowego Fixera, który załatwi
+ci nowe prochy i cyborgizacje prosto z (szemranych
+zakątków) Ulicy.
+Nie są to złote lata 20., choomba. Ale Ulica wciąż
+daje radę.
+10
+EASY MODE
+PRZEWODNIK PO NIGHT CITY
+W swoim niekończącym się procesie odbudowy Night
+City lat 40. to pogmatwany i wiecznie zmieniający
+swój kształt labirynt ruin i placów budowy. Jednak
+można nakreślić pewne ogólne ramy poszczególnych
+stref i dzielnic. Oto one:
+Dawny kwartał bankowy (Bank Block):
+Dawniej siedziba najważniejszych banków w Night
+City, Bank Block to obecnie gruzowisko, którego
+nikt nigdy ofi cjalnie nie oczyścił.
+Dawne Centrum (City Center): Śródmiejski
+zgiełk zastąpiły radioaktywne ruiny.
+Dawne Centrum Korporacyjne: Niegdyś główny
+teren działań Korporacji w Night City, ale w ruinach
+nie zachował się nawet cień dawnej chwały.
+Dawne Centrum Medyczne: Na tym wciąż
+mocno napromieniowanym terenie mieściły się
+liczne szpitale, teraz pogrzebane pod gruzami.
+Glen: Rosnąca w szybkim tempie nowa dzielnica,
+na której terenie znalazła się większość ważnych
+budynków rządowych władz Night City.
+Little Europe: Podzielona dzielnica złożona ze
+zżytych ze sobą społeczności. Zabudowa to głównie
+stare ceglane domy i niebosiężne wieżowce.
+Baza wojskowa NorCal: Mocno ufortyfi kowana
+baza wojskowa leżąca na północ od Night City,
+obsadzona głównie żołnierzami Militechu. Zwykle
+odcięta od spraw miasta.
+Pacifi ca Playground: Dzielnica utrzymująca się
+głównie z dotacji korporacyjnych, zbudowana
+wokół parku rozrywki „Playland by the Sea”, która
+intensywnie się rozbudowuje.
+Upper Marina: Kipiąca życiem część miasta będąca
+mieszanką stref przemysłowych i zgentryfi kowanych
+osiedli w „stylach z całego świata”, otaczających
+utrzymaną w dobrym stanie marinę.
+Dzielnica uniwersytecka: Wąski pas terenu
+na skraju Stref Walki, na którym stoi jedyny wciąż
+działający w mieście uniwersytet.
+Watson Development: Dzielnica w rozbudowie,
+mieszcząca wciąż powstające megabudowle
+i arkologie, które staną się domem dla ludzi
+pozbawionych przez wojnę dachu nad głową.
+Większość mieszkańców Night City pochodzenia
+azjatyckiego przeniosła się do części Watson
+potocznie zwanej Kabuki.
+Strefa Korporacyjna: Nowa Strefa z tylko jedną
+dzielnicą dla korpoelit, umieszczoną na otwartych
+wzgórzach okalających miasto.
+Dawne Japantown: Niegdyś popularny ośrodek
+kultury japońskiej, który w czasie wojny pogrążył się
+w chaosie i uległ zniszczeniu. Większość mieszkańców
+przeniosła się do Watson i obecnie jest to obszar
+opustoszały, choć często chronią się tu gangi.
+Little China: Rozległa i niebezpieczna chińska dzielnica
+z wieloma małymi społecznościami, które walczą
+o przetrwanie i odpierają ataki gangów ze Stref Walki.
+Stara Strefa Walki: Ta dzielnica to ziarno,
+z którego wyrosły pozostałe Strefy Walki. Już dawno
+temu zostawiono ją na pastwę gangów i psycholi.
+Południowe Night City: Rozległe obszary
+uprzemysłowione, pełne zawsze szukających zaczepki
+gangów i opuszczonych magazynów, przerobionych
+na kryjówki i siedziby grup przestępczych.
+11
+EASY MODE
+Heywood: Przeładowany i zatłoczony sektor
+miasta, zamieszkany przez znaczny procent
+populacji Night City. Już zaczął się dzielić według
+bogactwa i wpływów obywateli – bogaci osiedlili
+się na północy, biedota na południu (przez
+żyjących tam ludzi zwanym Santo Domingo).
+Strefa przemysłowa Heywood: Największy
+obszar przemysłowy w mieście, wypełniony po
+brzegi magazynami, sprzętem budowlanym,
+fabrykami i nawet porzuconymi okrętami
+transportowymi.
+New Westbrook: Obszar miejski powstały na
+pozostałościach po dawnej Strefi e Korporacyjnej.
+Wciąż lśni, błyszczy i zachwyca, ale teraz
+szczelnie wypełniają go bezdomni obywatele,
+którzy uciekli z innych części Night City z powodu
+wojny lub musieli niedawno opuścić gentryfi kujące
+się Centrum w odbudowie.
+Rancho Coronado: Rozległe tereny jednakowych
+osiedli korporacyjnych, które teraz zniknęły wśród
+miasteczek namiotowych i stref przemysłowych
+wyrosłych z trupów miniaturowych centrów
+handlowych.
+NEO- I MEGAKORPORACJE NIGHT CITY
+Oto lista najbardziej prominentnych korporacji
+w Night City.
+Biotechnica: Twórcy CHOOH2, prawdziwi monopoliści
+na rynku biotechnologii i inżynierii genetycznej.
+Continental Brands: Hegemoni produkcji
+spożywczej i właściciele sieci supermarketów Oasis.
+Znani z brutalnego pozbywania się konkurencji.
+Danger Gal: Prywatna fi rma detektywistyczno-
+wywiadowcza z nutką J-Popu.
+Militech: Prawdziwe amerykańska Megakorporacja
+wyspecjalizowana w przemyśle zbrojeniowym,
+aprowizowaniu jednostek operacyjnych i usługach
+sił kontraktorskich. Korporacyjne ramię amerykań-
+skich sił zbrojnych.
+Network 54: Gigant medialny i największa
+na świecie spółka audiowizualna. Największy
+w Night City producent treści informacyjnych.
+Petrochem: Wiodący na rynku światowym
+producent CHOOH2, podstawowego paliwa
+Mrocznej Przyszłości.
+ILUSTRACJA MAKSYM HARAHULIN
+12
+EASY MODE
+Rocklin Augmentics: Producent cybernetycznych
+struktur wzmacniających wydolność organizmu
+i cyber-protetyki na użytek medyczny i osobisty.
+SovOil: Światowy gigant produktów przetwórstwa
+petrochemicznego.
+Trauma Team: Oparta na abonamencie sieć usług
+paramedycznych i transportu medycznego.
+Zhirafa: Wytwórca dronów, robotów samosterujących
+i mechów konstrukcyjnych.
+Ziggurat: Kręgosłup współczesnej komunikacji oraz
+przesyłu i składowania danych.
+GANGI NIGHT CITY
+Night City jest królestwem rozlicznych gangów
+i syndykatów splątanych ze sobą w nieustającej
+walce o wpływy i terytorium. Oto zaledwie kilka
+z bardziej istotnych.
+6th Street: To gang samozwańczych stróżów
+prawa, utworzony przez weteranów Czwartej
+Wojny Korporacji.
+Bozos: Wataha śmiertelnie nieśmiesznych,
+sadystycznych psycholi, którzy poddali się serii
+ciałorytniczych modyfi kacji mających przeobrazić
+ich w klaunów.
+Inquisitors: Sekta religijnych fanatyków dogłębnie
+przekonanych o bluźnierczej naturze wszelkiej
+cybernetyki. Są gotowi wykorzeniać „zło”
+wszędzie tam, gdzie je napotkają, nawet jeżeli
+oznaczałoby to wyrywanie wszczepów prosto
+z ciał ich krzyczących ofi ar.
+Maelstrom: Hołdujący klasycznym wartościom
+boostergang, w którym siła to prawo, a ciało
+zawsze ustępuje stali.
+Philharmonic Vampyres: Okryci aurą
+tajemniczości estetyczni partyzanci gotyckiego
+stylu stąpający po cienkiej granicy między
+teatralną hiperbolą a farsą. Lubią wampirze kły
+i peleryny.
+Piranhas: Gang imprezowych socjopatów łojących
+zarówno grzmota, jak i losowo napotkanych
+przechodniów, zgodnie z doktryną „jebłem to
+jebłem, i co mi zrobisz?”.
+Reckoners: Kult „Dni Ostatnich”, bezgranicznie
+oddany przygotowaniom do zbliżającego się Żniwa
+Dusz. Z radością przyjmują w swoje szeregi (każdego
+bez wyjątku), przyjmują też wszelkie datki na zbożny
+cel (także te złupione z martwych ciał donatorów)
+i oczekują przyjścia końca świata. A jeżeli ten będzie
+się opóźniał, to spróbują zrobić własny.
+Tyger Claws: Gang honorowych mścicieli i obroń-
+ców, a przy tym najemników. Tak jak dawniej jakuza,
+członkowie gangu zarówno swój honor, jak i zdolno-
+ści niesienia pomsty oferują tym, którzy mają czym
+za takie dobra i usługi zapłacić. Znani z niesamowi-
+tego refl eksu, biegłości we wschodnich sztukach walki
+i karkołomnych wyczynów na motorach.
+P
+opularne zwroty ze Slangu Ulicy
+s e l e c t e c s t r e
+e t s l a n g
+Oto kilka zwrotów wybranych spośród, zdałoby
+się, niewyczerpanego repertuaru nowomowy, którą
+usłyszeć można na Ulicy. Powinny one pomóc wczuć
+się w atmosferę i styl Cyberpunk RED.
+Czas Czerwieni: slangowe określenie okresu od
+2023 r. do schyłku lat 40. Pochodzi od czerwonego
+zabarwienia nieba, które było jedną z konsekwencji
+Czwartej Wojny Korporacji.
+Chombatta (Choomba): Neo-afroamerykański
+slang oznaczający przyjaciela lub członka rodziny.
+CHOOH2: (Wym. „czu-tu” lub „chuch”). Uliczne
+określenie alkoholu wykorzystywanego w silnikach
+pojazdów. Znaczna większość pojazdów w Czasie
+Czerwieni napędzana jest zaawansowanym rodzajem
+alkoholu, który spala się w wyższej temperaturze niż
+zwykły metanol.
+Dopasowany: Partner lub partnerka w poważnym
+związku z tobą.
+Egzotyk: Człowiek ze zwierzęcymi częściami ciała:
+futrem, długimi uszami, kłami itp.
+Ganger: Członek gangu, wyposażony w cyborgizacje,
+skórzane ubrania i chęć do przemocy.
+Nocny: Nielegalne, tymczasowe nocne targowisko
+zorganizowane przez grupę Fixerów z dobrymi
+znajomościami. W Czasie Czerwieni to najlepsze
+miejsce do zakupu nowego sprzętu i wszczepów.
+Poniższe gangi
+to zaledwie
+kropla
+w rozległym
+oceanie Night
+City. Więcej
+o tych i innych
+organizacjach
+znaleźć można
+w głównym
+podręczniku do
+Cyberpunk RED.
+13
+EASY MODE
+Odpał: Wybrać rozwiązanie siłowe, zaatakować
+kogoś bez powodu.
+Pozergang: Dowolna grupa, której członkowie
+obierają określony wygląd, styl lub rzeźbę ciała.
+Ripperdoc: Chirurg specjalizujący się w implantowaniu
+nielegalnego cybersprzętu.
+Ronin: Działający na własną rękę skrytobójca lub
+najemnik. Zwykle uważany za niewiarygodnego.
+Samuraj: Korporacyjny skrytobójca lub najemnik,
+wynajęty do ochrony korporacyjnej własności
+lub zaatakowania innej Korporacji.
+Scyborgizowany: Osoba z maksymalną możliwą
+ilością sprzętu cybernetycznego, o krok przed
+przekroczeniem Krawędzi.
+Sprzęgać się: Kupować cybersprzęt po raz pierwszy.
+Dołączać do jakiejś grupy. Podłączać się do maszyny.
+Sieciować: Sprzęgać się z Architekturą Sieci
+i włamywać się do jej programów i procedur
+kontrolnych. Także o działaniu w Starej Sieci przed
+wybuchem Czwartej Wojny Korporacji.
+Twarz: Reprezentant Megakorporacji w sprawach
+prawnych.
+Wypłaszczyć: Zabić. Także o człowieku lub nie-
+działającym przedmiocie.
+Zatracić się: Uprawiać seks. Także zapomnieć o czymś.
+C
+zas zagrać w grę
+p l a y i n g t h e g a m e p l a y i n g t h e g a m e
+Teraz, kiedy powiedzieliśmy już co nieco o świecie
+Cyberpunk RED, czas na garść zasad, które
+umożliwią rozgrywkę.
+CECHY
+Każda postać w Cyberpunk RED ma dwie główne
+kategorie atrybutów: Cechy i Umiejętności.
+Cechy to wartości liczbowe opisujące możliwości
+twojej Postaci w świecie gry, w porównaniu do
+wszystkich innych rzeczy we wszechświecie. Dzięki
+temu łatwo da się porównać Cechy różnych Postaci,
+co często ma znaczenie w czasie gry.
+Na przykład ktoś z Cechą 5 jest lepszy od osoby
+z Cechą 4, ale nie dorównuje innej Postaci z Cechą
+6. Cechy zwykle mają wartość od 1 do 8, ale mogą
+być wyższe.
+W Cyberpunk RED mamy do czynienia
+z dziesięcioma oddzielnymi Cechami:
+Budowa Ciała (BC): Twój rozmiar, wytrzymałość,
+zdolność przeżycia i zachowania przytomności
+dzięki masie, budowie lub innym czynnikom.
+Charakter (CHA): Zdolność robienia wrażenia
+na ludziach i wpływania na nich charyzmą
+i osobowością.
+Empatia (EMP): Określa zdolność odczytywania
+i rozumienia emocji i uczuć innych osób oraz
+reakcje na te uczucia.
+Inteligencja (INT): Określa ogólną sprawność
+rozumowania.
+Refl eks (REF): Szybkość reakcji i koordynacja ruchowa.
+Ruch (RUCH): Szybkość, z jaką się przemieszczasz,
+biegnąc, skacząc, pływając itp.
+Siła Woli (SW): Twoja determinacja i zdolność
+radzenia sobie z niebezpieczeństwem lub stresem.
+Szczęście (SZ): Cecha specjalna. Zobacz
+Używanie Szczęścia [STRONA 17] aby
+poznać szczegóły.
+Technika (TECH): Zdolność obsługi narzędzi
+i instrumentów.
+Zwinność (ZW): Ogólna sprawność fizyczna
+pozwalająca utrzymać równowagę, skakać,
+zeskakiwać, walczyć i wykonywać inne podobne
+czynności.
+UMIEJĘTNOŚCI
+Umiejętności reprezentują rzeczy, które twoja postać
+może robić poprzez trening i naukę. Im wyższy poziom,
+tym lepiej wyszkolony jesteś w tej Umiejętności. Każda
+Umiejętność jest powiązana z konkretną Cechą. Na
+przykład Umiejętność Broń biała jest powiązana
+z Cechą Zwinności (ZW). Aby uzyskać więcej
+informacji o tym, jak współdziałają, zobacz
+Rozpatrywanie Umiejętności [STRONA 16].
+14
+EASY MODE
+W ramach Cyberpunk RED Easy Mode
+wykorzystane są następujące Umiejętności:
+Aktorstwo.............................................CHA
+Umiejętność wejścia w rolę, przebrania się za praw-
+dziwą lub wymyśloną osobę, udawania emocji i nastroju.
+Atletyka.................................................ZW
+Skoki, wspinaczka, rzucanie, pływanie, podnoszenie
+ciężarów itp.
+Bijatyka................................................ZW
+Umiejętność walki i zapasów przy użyciu brutalnej siły.
+Biurokracja.............................................INT
+Umiejętność postępowania z biurokratami, wiedza,
+z kim porozmawiać, żeby coś załatwić, i jak dotrzeć
+do takiej osoby, a także wiedza, jak wydobyć
+informacje chronione biurokratycznymi barierami.
+Broń biała..............................................ZW
+Umiejętność walki bronią białą.
+Broń długa...........................................REF
+Umiejętność prowadzenia skutecznego ostrzału
+z długiej broni miotającej, w tym strzelb i karabinów.
+Broń krótka ...........................................REF
+Umiejętność prowadzenia skutecznego ostrzału
+z broni krótkiej miotającej, takiej jak pistolety.
+Dedukcja ...............................................INT
+Zdolność znajdywania połączeń pomiędzy wska-
+zówkami oraz dochodzenia do nieoczywistych
+wniosków i diagnoz lekarskich.
+Elektronika i zabezpieczenia (×2)..........TECH
+Identyfi kowanie, rozumienie zasad działania, naprawa,
+przeciwdziałanie i montaż złożonych urządzeń elek-
+tronicznych, takich jak: komputery, cyberdeki, elektro-
+nika osobista, elektroniczne systemy bezpieczeństwa,
+pluskwy i lokalizatory, płyty naciskowe, laserowe
+potykacze itp
+Fałszerstwo.........................................TECH
+Umiejętność tworzenia i wykrywania fałszywych
+dokumentów i identyfi katorów.
+Fotografi a/Film...................................TECH
+Umiejętność robienia zdjęć, fi lmów i braindance’u.
+Gra na instrumencie..............................TECH
+Umiejętność profesjonalnej gry na instrumencie
+muzycznym. Podnosząc tę Umiejętność, wybierasz
+dany instrument, który rozwijasz. Przykładowe instru-
+menty to: struny głosowe, gitara, perkusja, skrzypce,
+fortepian itp.
+Kieszonkostwo.....................................TECH
+Umiejętność potajemnego zdobywania przedmiotów,
+które ma przy sobie inna osoba; kradzież drobnych
+rzeczy ze sklepów.
+Komponowanie .....................................INT
+Umiejętność pisania piosenek, artykułów i opowiadań
+na profesjonalnym poziomie.
+Koncentracja .........................................SW
+Zdolność skupienia się i wykorzystania swojego
+umysłu i pamięci, przypominanie sobie rzeczy,
+ignorowanie rzeczy rozpraszających uwagę, a także
+mistrzowska kontrola własnego ciała.
+ILUSTRACJA ADRIAN MARC
+15
+EASY MODE
+Konwersacja.........................................EMP
+Umiejętność wyciągania informacji z ludzi w trakcie
+rozmowy, tak by rozmówca się nie zorientował.
+Kryminologia ........................................INT
+Umiejętność zdobywania wskazówek dzięki odciskom
+palców, badaniom balistycznym, analizie dowodów
+i przeszukiwaniu akt policyjnych.
+Kryptografi a .........................................INT
+Umiejętność kodowania i odkodowywania wiadomości.
+Księgowość ...........................................INT
+Umiejętność prowadzenia ksiąg, fałszowania ich
+i wykrywania takich fałszerstw, żonglowania pieniędzmi,
+tworzenia budżetów i zajmowania się codziennymi
+fi nansami fi rmy.
+Moda i styl...........................................CHA
+Wiedza, w co się ubrać i kiedy co nosić.
+Odczytywanie emocji............................EMP
+Umiejętność odczytywania mimiki twarzy i mowy
+ciała, by odkryć stan emocjonalny rozmówcy, wykryć
+kłamstwa lub próby oszustwa.
+Odporność na tortury/narkotyki...........SW
+Umiejętność opierania się bolesnym zabiegom, w tym
+torturom i wpływowi narkotyków.
+Otwieranie zamków............................TECH
+Umiejętność otwierania zamków mechanicznych.
+Percepcja..............................................INT
+Zdolność spostrzegania ukrytych wskazówek, pułapek,
+osób korzystających z Umiejętności Skradanie się – ale
+nie rzeczy ukrytych za pomocą Umiejętności Ukrycie/
+Znalezienie przedmiotu.
+Perswazja............................................CHA
+Zdolność przekonywania i wpływania na ludzi.
+Pierwsza pomoc...................................TECH
+Umiejętność stosowania zabiegów medycznych mają-
+cych na celu zapobieganie skutkom najczęstszych
+Ran Krytycznych i ratowanie życia poszkodowanych.
+Prowadzenie pojazdów.......................... REF
+Umiejętność prowadzenia i manewrowania pojazdami
+lądowymi.
+Przekupstwo.........................................CHA
+Potrafi sz rozpoznać osoby podatne na przekupstwo,
+wiesz, jak je podejść i ile zaoferować.
+Przesłuchiwanie..................................CHA
+Umiejętność wyciągania informacji z ludzi metodami
+siłowymi.
+Przeszukiwanie baz danych................... INT
+Umiejętność korzystania z baz danych, Banków
+Danych, bibliotek i innych zbiorczych źródeł informacji.
+Robienie interesów.................................INT
+Znajomość podstawowych p raktyk biznesowych,
+praw podaży i popytu, umiejętność zarządzania
+pracownikami, znajomość zasad zaopatrzenia,
+sprzedaży i marketingu.
+Ratownictwo medyczne (×2).................TECH
+Umiejętność stosowania zabiegów medycznych mają-
+cych na celu zapobieganie skutkom wszystkich Ran
+Krytycznych niewymagających Chirurgii (Chirurgia
+jest dostępna tylko dla Medyków w ramach Zdolności
+Specjalnej Medycyna).
+Skradanie się........................................ZW
+Umiejętność bezszelestnego skradania się, ukrywania
+i wykonywania Akcji w dyskretny sposób, unikanie
+wykrycia. Inne Postacie mogą próbować cię znaleźć
+za pomocą Umiejętności Percepcja.
+Taktyka.................................................INT
+Umiejętność efektywnego i wydajnego zarządzania
+dużymi bitwami. Postać z tą Umiejętnością zwykle
+wie, co należy robić, by przewodzić w bitwie, i potrafi
+przewidzieć możliwe reakcje wroga.
+Taniec....................................................ZW
+Umiejętność tańca na poziomie profesjonalisty.
+Tropienie................................................INT
+Umiejętność podążania śladem kogoś, kto zostawił
+tropy lub inne wskazówki.
+16
+EASY MODE
+Ukrycie/Znalezienie przedmiotu............INT
+Umiejętność ukrywania przedmiotów i znajdywania
+ukrytych rzeczy. Przydaje się do ukrywania broni pod
+ubraniem i wykrywania tak schowanego uzbrojenia.
+Unik.......................................................ZW
+Umiejętność zejścia z linii ataku w czasie walki
+w zwarciu. Postać z REF 8 lub więcej może wykorzystać
+tę Umiejętność, by unikać ataków z broni dystansowych.
+Wiedza lokalna......................................INT
+Świetna znajomość określonego obszaru i celów
+zamieszkujących go frakcji – zarówno grup politycznych,
+jak i przestępczych. Za każdym razem, gdy podnosisz tę
+Umiejętność, wybierz konkretny obszar, który nie może
+być większy od osiedla lub wspólnoty.
+Wykształcenie.......................................INT
+Wiedza ogólna na poziomie szkoły podstawowej:
+potrafi sz czytać, pisać, znasz podstawy matematyki
+i historii na tyle, by sobie poradzić.
+Znajomość półświatka..........................CHA
+Ustanawianie i korzystanie ze znajomości, by zdobyć
+nielegalne towary, rozmowa z przestępcami i unikanie
+niebezpiecznych sytuacji w gorszych dzielnicach miast.
+ROZPATRYWANIE UMIEJĘTNOŚCI
+RDZEŃ CYBERPUNKA: TESTY UMIEJĘTNOŚCI
+Za każdym razem, gdy twoja postać próbuje coś
+zrobić, zawsze pojawia się pytanie, czy odniesie
+sukces, czy poniesie porażkę. Czasami zadanie jest
+tak proste, że aż oczywiste – na przykład zrobienie
+kroku do przodu bez upadku. W takich przypadkach
+powiedz MG, co robisz, a rzut kostką nie jest
+potrzebny. Ale jeśli próbujesz zrobić krok na pokładzie
+statku kołyszącego się dziko podczas szalejącej burzy,
+chodzenie może być naprawdę bardzo trudne. Są to
+sytuacje, które wymagają testu Umiejętności.
+Testy Umiejętności można wykonać
+na dwa sposoby.
+Pierwszy z nich stosujesz, przeciwstawiając swoją
+Umiejętność Umiejętności innej osoby (na przykład
+próbujesz kogoś przekonać, by coś dla ciebie zrobił).
+Aby sprawdzić, czy ci się udało, ty – Atakujący – doda-
+jesz wartość odpowiedniej Cechy + Umiejętność + rzut
+1k10, a twój przeciwnik (zwany Broniącym) dodaje
+swoją Cechę + Umiejętność + rzut 1k10. Wynik rzutu
+Broniącego w zasadach gry nazywa się Poziomem
+Trudności (PT). Twój rzut Cechy + Umiejętność + 1k10
+musi być wyższy od PT, by twoja Akcja się powiodła.
+W przypadku remisu, Broniący zawsze wygrywa.
+Cecha + Umiejętność + 1k10
+Atakującego przeciw Cecha
++ Umiejętność + 1k10 Broniącego
+Drugi rodzaj Testu Umiejętności stosuje się, gdy
+trudność wynika z danej sytuacji (np. trzeba otworzyć
+zamek lub prowadzić samochód). MG określa, ile
+czasu zajmie wykonanie danej czynności, i korzystając
+z tabeli znajdującej się na kolejnej stronie, ustala
+Poziom Trudności (PT) tego zadania. Następnie
+sumujesz odpowiednią Cechę, Umiejętność i rzut 1k10,
+licząc na to, że wynik będzie większy od Poziomu
+Trudności (PT), który ustalił MG.
+Cecha + Umiejętność + 1k10 Atakującego
+przeciw Poziomowi Trudności (PT)
+ILUSTRACJA NIEL BRANQUIHNO
+17
+EASY MODE
+▶ Krytyczny sukces ◀
+Gdy na k10 wypadnie 10, odnosisz Krytyczny sukces.
+Rzuć kolejną k10 i dodaj wynik do wyniku pierwszego
+rzutu. Jeśli znów wypadnie 10, nie osiągasz kolejnego
+Krytycznego sukcesu.
+▶ Krytyczna porażka ◀
+Gdy na k10 wypadnie 1, odnosisz Krytyczną porażkę.
+Rzuć kolejną k10 i odejmij uzyskany wynik od sumy
+Testu Umiejętności (Cecha + Umiejętność + pierwszy
+rzut). Jeśli znów wypadnie 1, nie osiągasz kolejnej
+Krytycznej porażki.
+▶ Kolejna próba ◀
+Jeśli Test Umiejętności nie powiódł się, nie można
+podejmować kolejnej próby, chyba że z jakiegoś powodu
+szanse powodzenia zwiększyły się, bo na przykład
+poświęcasz więcej czasu na wykonanie zadania,
+używasz lepszych narzędzi lub wykonałeś (bądź twój
+kolega wykonał) Wspierający Test Umiejętności.
+▶ Umiejętności Wspierające ◀
+Wspierający Test Umiejętności to sytuacja, w której
+wykorzystanie jednej Umiejętności wpływa na wyko-
+rzystanie kolejnej Umiejętności. Za zgodą MG, udany
+Test jednej Umiejętności (który może wykonać także
+inna Postać) może dodać modyfi kator +1 do kolejnego
+wykorzystania powiązanej Umiejętności, o ile takie
+dopełnienie dwóch różnych Umiejętności ma sens.
+Premię +1 można dodać do drugiego rzutu tylko raz,
+a premie z Testów Wspierających nie kumulują się.
+▶ Poświęcanie dodatkowego czasu ◀
+Jeśli na wykonanie czynności poświęcisz dodatkowy
+czas, zwiększą się szanse powodzenia Testu. Gdy MG
+poinformuje cię o czasie potrzebnym do wykonania
+danej czynności, otrzymasz jednorazową premię +1
+do Testu Umiejętności, jeśli na wykonanie jej poświęcisz
+cztery razy więcej czasu.
+▶ Używanie Szczęścia ◀
+Zanim rzucisz 1k10, możesz poświęcić część punktów
+Szczęścia pozostałych w twojej Puli Szczęścia (która
+liczy tyle punktów Szczęścia, ile wynosi wartość twojej
+Cechy Szczęście, i która odnawia się na początku
+każdej sesji). Punkty te dodajesz do wyniku Testu,
+który rośnie o 1 za każdy tak wydany punkt Szczęścia.
+SZCZĘŚCIE to potężna siła, pozwalająca ci robić
+rzeczy, które wydają się niemożliwe do osiągnięcia.
+▶ Gdy nie masz Umiejętności ◀
+Jeśli nie masz danej Umiejętności, ale chcesz spróbować
+coś zrobić, po prostu używasz Cechy, z którą jest
+powiązana dana Umiejętność, a następnie dodajesz
+do niej wynik rzutu 1k10. Innymi słowy, nie dodajesz
+(nieposiadanej) Umiejętności i polegasz tylko na Cesze.
+WALKA
+Skoro już wiesz, jak polegać na swoich Umiejętnościach,
+czas omówić sytuacje, w których należy złapać odpał
+i zaaplikować zdrową dawkę przemocy.
+▶ Inicjatywa i czas bitewny ◀
+Czas bitewny mierzy się w Turach, a każda z nich
+to około 3 sekund. Natomiast Runda to okres,
+w czasie którego każda istota biorąca udział
+w walce wykonała swoją Turę. Ponieważ Akcje
+dzieją się mniej więcej jednocześnie, jedna Runda
+to także około 3 sekund.
+▶ POZIOMY TRUDNOŚCI (PT)
+Rodzaj Trudności
+Opis
+PT
+Codzienny
+Czynności, które wykona większość ludzi nieposiadających specjalnego przeszkolenia.
+13
+Trudny
+Czynności trudne do wykonania bez wyszkolenia lub naturalnych predyspozycji.
+15
+Profesjonalny
+Wykonanie takiej czynności wymaga wyszkolenia, a kogoś, kto robi coś takiego, uznaje się za profesjonalistę w tej dziedzinie.
+17
+Heroiczny
+Niezwykle trudny wyczyn, pułap osiągalny tylko dla najlepszych z najlepszych.
+Poziom gwiazd sportu lub innych cenionych specjalistów.
+21
+Niewiarygodny
+Nadzwyczajne osiągnięcie. Zrobienie czegoś takiego sprawi, że nawet koledzy
+po fachu uznają cię za najlepszego. Masz iście olimpijski talent.
+24
+18
+EASY MODE
+Gdy rozpoczyna się walka, wszyscy uczestnicy
+rzucają na Inicjatywę
+Twoja Inicjatywa = REF + 1k10
+Uczestnicy walki ustalają kolejność według
+wyników rzutów na Inicjatywę, od najwyższego
+do najniższego, tworząc Kolejkę Inicjatywy. Remisy
+należy rozstrzygnąć ponownym rzutem. W czasie
+walki uczestnicy działają według ustalonej kolejności
+i każdy z nich odbywa swoją Turę. Gdy ostatni
+uczestnik odbędzie swoją Turę, rozpoczyna się
+kolejna Runda i znów działa uczestnik z uprzednio
+ustaloną najwyższą Inicjatywą
+▶ Akcje ◀
+Akcje stanowią esencję każdej Tury Cyberpunk RED.
+Twoja Tura = 1 Akcja Ruchu + 1 inna Akcja
+W każdej Turze postać otrzymuje
+1 Akcję Ruchu i 1 Akcję
+Poniżej opisano podstawowe zastosowania Akcji
+w walce. Akcje szczególnie przydatne w walce
+opisano szczegółowo w dalszej części tego rozdziału.
+Akcja Ruchu: Przemieszczasz się o tyle metrów,
+ile wynosi twój RUCH x 2 (lub o liczbę pól równą
+wartości Ruchu).
+Atak: Wykonujesz atak dystansowy lub wręcz.
+Bieg: Wykonujesz dodatkową Akcję Ruchu, ale tylko
+wtedy, jeśli w tej Turze już wykonałeś Akcję Ruchu.
+Duszenie: Dusisz przeciwnika, którego Pochwyciłeś.
+Pochwycenie: Łapiesz i trzymasz przeciwnika lub
+chwytasz przedmiot trzymany przez przeciwnika.
+Przeładowanie: Załadowujesz magazynek do pełna
+jednym rodzajem amunicji i wymieniasz go w broni.
+Rzut: Rzucasz Pochwyconego przeciwnika na ziemię
+lub ciskasz przedmiotem.
+Ustabilizowanie: Stabilizujesz cel, by mógł się
+rozpocząć proces naturalnego leczenia, lub ratujesz
+mu życie, znosząc Stan Śmiertelnie ranny.
+Użycie przedmiotu: Użycie przedmiotu
+niewymagające rzutu na Umiejętność. Sięgnięcie
+wolną ręką po łatwo dostępną broń lub
+upuszczenie trzymanej broni (ale nie tarczy) na
+podłogę nie wymagają Akcji, ale schowanie
+trzymanej broni do kabury czy kieszeni już tak.
+Użycie Umiejętności: Wykorzystaj swoją
+Umiejętność, by wykonać szybką czynność.
+Dłuższe zadanie wymaga wykonania serii Akcji
+w ciągu kilku Tur, ale rzut wykonuje się raz, gdy
+wykonywanie czynności dobiegnie końca (licząc
+w trzysekundowych odcinkach).
+Wstanie: Wstajesz po Przewróceniu. Przewrócona
+postać nie może wykonywać Akcji Ruchu, dopóki
+nie wykona Akcji Wstania.
+Podręcznik główny
+do Cyberpunk RED
+zawiera w sobie
+szczegółowe reguły
+dotyczące strzałów
+mierzonych, sztuk
+walki, sieciowania
+i starć przy
+użyciu pojazdów!
+Wszystko, co może
+być niezbędne
+w trakcie zabawy
+w piątkowy wieczór.
+BY NEIL BRANQUINHO
+19
+EASY MODE
+Wstrzymanie Akcji: Czekasz, by wykonać Akcję
+później w tej Rundzie. Należy opisać, co spowoduje
+wykonanie wstrzymywanej Akcji, lub wybrać
+konkretną wartość w Kolejce Inicjatywy, przy
+której Postać wykona tę Akcję. Ponadto należy
+zadeklarować cel tej Akcji.
+▶ Poruszanie się ◀
+▶ AKCJA RUCHU
+W każdej Turze Postać otrzymuje Akcję Ruchu,
+w ramach której może tylko przemieścić się maksymalnie
+na odległość równą RUCH x 2 (w metrach) lub liczbę
+pól równą RUCHOWI (w tym także po skosie). Jeśli
+wykorzystujecie siatkę taktyczną, Postaciom nie wolno
+zatrzymywać się pomiędzy polami.
+▶ INNE TYPY RUCHU:
+Pływanie, Wspinaczka i Skok z rozbiegu kosztują 2 metry
+Ruchu za każdy pokonany metr lub 2 pola za każde
+przebyte pole. Skacząc z miejsca, możesz pokonać
+połowę odległości, którą przeskoczysz z rozbiegu.
+▶ PRZEWRÓCENIE
+Gdy jesteś Przewrócony, nie możesz wykonywać Akcji
+Ruchu, dopóki nie wykonasz Akcji Wstania.
+▶ WYKONYWANIE AKCJI W TRAKCIE RUCHU
+Walka w Cyberpunk RED jest płynna i dynamiczna.
+Gdy przemieszczasz się za pomocą Akcji Ruchu,
+możesz wykonać Akcję w trakcie tego Ruchu, a potem
+kontynuować przemieszczanie się. W terminologii
+gry takie działanie nazywamy „rozdzielaniem”
+i wykorzystuje się je nie tylko do Akcji Ruchu. Niektóre
+ataki przeprowadza się szybciej niż inne – można
+uderzyć lub wystrzelić dwa razy w ramach jednej
+Akcji Ataku.
+Takie ataki zapisuje się jako LA 2 (czyli Liczba Ataków 2).
+Ataki oznaczone jako LA 2 można „rozdzielić”, czyli
+wykonać w różnych punktach dystansu pokonywanego
+w ramach Akcji Ruchu. Możesz się ruszyć, strzelić,
+ruszyć, strzelić, ruszyć. Możesz nawet wykonać atak
+z dwóch różnych broni z LA 2, „rozdzielając” swoje
+dwa ataki pomiędzy te bronie, co pozwala użyć
+każdej z nich w tej samej Turze. Czyli tak, możesz
+strzelić z trzymanego w lewej ręce Ciężkiego pistoletu
+w kogoś w głębi korytarza, a potem przejść tym
+obrzydliwym korytarzem, żeby dobić postrzelony cel
+maczetą, trzymaną w prawej ręce.
+Ataki bronią z LA 1 są wolniejsze i zabierają całą Akcję
+Ataku, ale można rozdzielić ruch tak, by wykonać
+atak, przemieszczając się.
+▶ WALKA DYSTANSOWA
+Walka dystansowa to każdy atak wykonany
+na odległość. Używając Akcji Ataku z bronią
+dystansową, wykonujesz liczbę ataków równą
+LA (Liczbie Ataków) broni. Walkę dystansową
+przeprowadza się w następujący sposób:
+Atakujący rzuca na REF
++ odpowiednia Umiejętność strzelecka
++ 1k10 przeciw PT, który zależy
+od odległości od celu i danej broni.
+Jeśli rzucisz więcej, niż wynosi PT
+(Broniący wygrywa remisy),
+zadajesz obrażenia Broniącemu.
+Pancerz Broniącego zmniejsza zadane obrażenia,
+co dokładnie wyjaśniono w dalszej części tego
+rozdziału [STRONA 21].
+▶ POZIOMY TRUDNOŚCI W WALCE DYSTANSOWEJ
+Typ broni
+0–6 m
+7–12 m
+13–25 m 26–50 m
+51–100 m 101–200 m 201–400 m 401–800 m
+Pistolety
+13
+15
+20
+25
+30
+30
+Nd.
+Nd.
+Strzelby
+13
+15
+20
+25
+30
+35
+Nd.
+Nd.
+Karabiny
+szturmowe
+17
+16
+15
+13
+15
+20
+25
+30
+20
+EASY MODE
+▶ WALKA BRONIĄ BIAŁĄ
+Walka Bronią białą obejmuje różne bronie i techniki
+ich wykorzystania, na przykład szermierkę, walkę na
+noże, korzystanie z pałek i innych broni tępych, nawet
+lasek i kijów baseballowych.
+Używając Akcji Ataku Bronią białą, wykonujesz
+liczbę ataków równą LA (Liczbie Ataków) broni.
+Dodatkowo, zadając obrażenia, wszystkie Bronie
+białe ignorują połowę pancerza Broniącego. Walkę
+Bronią białą przeprowadza się w następujący sposób
+Atakujący wykonuje Test ZW
++ Umiejętność walki Bronią białą
++ 1k10 przeciw Rzutowi Broniącego
+na ZW + Unik + 1k10
+Jeśli rzucisz więcej, niż wynosi
+PT (Broniący wygrywa remisy),
+zadajesz obrażenia Broniącemu
+Pancerz Broniącego zmniejsza zadane obrażenia,
+co dokładnie wyjaśniono w dalszej części tego
+rozdziału [STRONA 21].
+▶ BIJATYKA
+W zakres Bijatyki wchodzi boks na gołe pięści
+i zapasy, ale także klasyczna szamotanina. Używając
+Akcji Ataku, którego obrażenia są wyszczególnione
+na twojej karcie postaci, w Bijatyce zawsze
+wykonujesz dwa ataki. Dodatkowo umiejętność
+Bijatyki obejmuje Akcje Pochwycenia, Duszenia
+i Rzutu, które są szczegółowo opisane poniżej.
+Bijatykę przeprowadza się w następujący sposób:
+Atakujący wykonuje Test ZW
++ Umiejętność Bijatyki + 1k10 przeciw
+Rzutowi Broniącego na ZW + Unik + 1k10
+Jeśli rzucisz więcej, niż wynosi
+PT (Broniący wygrywa remisy),
+zadajesz obrażenia Broniącemu.
+Pancerz Broniącego zmniejsza zadane obrażenia,
+co dokładnie wyjaśniono w dalszej części tego
+rozdziału [STRONA 21].
+▶ POCHWYCENIE
+W ramach Akcji chwytasz i przytrzymujesz
+przeciwnika, zabierasz coś z jego ręki lub wyrywasz
+się, jeśli to ciebie Pochwycono. Do wykonania manewru
+Pochwycenia potrzebna jest jedna wolna ręka, której
+nie można użyć do niczego innego przez czas trwania
+Trzymania będącego wynikiem tego Pochwycenia.
+Aby określić skuteczność Pochwycenia, Atakujący
+i Broniący wykonują Test ZW + Bijatyka + 1k10. Jeśli
+Atakujący wygra ten rzut sporny, o ile druga dłoń
+Atakującego jest pusta, może albo przytrzymać
+Broniącego, albo zabrać jeden przedmiot trzymany
+przez Broniącego w rękach.
+Jeśli Atakujący zdecyduje się na Trzymanie
+Broniącego (zamiast zabierać mu rzeczy), obaj
+walczący są w Trzymaniu i dopóki w nim pozostają,
+otrzymują modyfi kator -2 do wszystkich Akcji.
+Trzymany Broniący nie może wykonywać Akcji
+Ruchu, a Atakujący ciągnie go ze sobą, gdy wykonuje
+swoją Akcję Ruchu. Żadna z Trzymających się Postaci
+nie może wykorzystywać broni dwuręcznych, nawet
+jeśli te Postacie mają więcej niż dwie ręce. Atakujący
+może w dowolnym momencie, nie zużywając
+Akcji, zakończyć Trzymanie, ale Broniący lub inne
+Postacie muszą użyć Akcji, by wykonać udany
+Test Pochwycenia Atakującego w celu przerwania
+Trzymania. Jeśli taki Test się uda, Trzymanie kończy
+się dla wszystkich uczestników. Tylko Pochwycona
+Postać może być Duszona lub Rzucona.
+▶ DUSZENIE
+Jeśli w trakcie Trzymania jesteś Atakującym,
+możesz wykorzystać swą Akcję, by Dusić
+trzymanego Broniącego, zadając mu obrażenia
+równe twojej Budowie Ciała. Obrażeń tych nie
+redukuje pancerz. Jeśli obrażenia zadane Duszeniem
+sprawią, że PW celu, który ma więcej niż 1 PW,
+spadną poniżej 0, zamiast tego cel zostaje na 1 PW
+i staje się Nieprzytomny. Ten rodzaj obrażeń ignoruje
+pancerz Broniącego i nie uszkadza go. Ponadto, jeśli
+Atakujący Dusi ten sam cel przez 3 Rundy z rzędu,
+Broniący traci przytomność bez względu na stan
+Punktów Wytrzymałości.
+21
+EASY MODE
+▶ RZUT
+Rzuć pochwyconą osobą lub ciśnij trzymanym
+przedmiotem. Jeśli w trakcie Trzymania jesteś
+Atakującym, możesz wykorzystać swą Akcję, by
+Rzucić trzymanego Broniącego na ziemię, zadając
+mu obrażenia równe twojej Budowie Ciała. Obrażeń
+tych nie redukuje pancerz. Ten rodzaj obrażeń ignoruje
+pancerz Broniącego i nie uszkadza go. Rzucając
+cel, automatycznie kończysz go Trzymać (co usuwa
+zarówno tobie, jak i Broniącemu modyfikator -2
+do Akcji, wynikający z Trzymania), a rzucony jest
+Przewrócony, czyli nie może wykonywać Akcji Ruchu,
+dopóki nie wykona Akcji Wstania.
+▶ Osłona ◀
+O ile nie jesteś nadmiernie wielkim fanem smaku
+ołowiu, zawsze możesz dać szczupaka za osłonę.
+Miejmy nadzieję, że będzie wykonana z czegoś
+solidnego.
+Główna zasada dotycząca osłon:
+Uważa się, że jesteś za osłoną tylko
+wtedy, jeśli jesteś całkiem schowany za
+czymś, co jest w stanie zatrzymać pocisk.
+Jeśli wróg cię widzi, nie jesteś za osłoną.
+Nie ma czegoś takiego jak „częściowa”
+osłona. Albo coś może zatrzymać kule,
+albo nie. Jeśli nie może zatrzymać
+kuli, nie jest to osłona i nie ma PW.
+Każda osłona ma PW i można zaatakować jej
+obszar o wymiarach 2 m x 2 m. Osłona jest zniszczona,
+gdy jej PW spadną do 0. Jeśli PW osłony spadną
+do 0, pozostałe obrażenia tego ataku przepadają
+i postać za osłoną ich nie otrzymuje. W powższej
+tabeli znajdziesz więcej informacji na ten temat.
+▶ Otrzymywanie obrażeń ◀
+Prędzej czy później zrobisz sobie kuku. Teraz zajmijmy
+się tym, jak bardzo duże auć z tego wyniknie.
+Zawsze, gdy otrzymujesz obrażenia:
+1. Atakujący rzuca kośćmi, by
+określić wartość obrażeń.
+2. Od tego wyniku odejmujesz OB
+pancerza chroniącego trafi oną część
+ciała (jeśli Atakujący nie wykonał Akcji
+Celowania w głowę, atak zawsze trafi a
+w ciało). Odejmij pozostałe obrażenia
+od obecnych Punktów Wytrzymałości.
+3. Jeśli tracisz Punkty Wytrzymałości,
+pancerz chroniący trafi oną część ciała
+zostaje uszkodzony i jego OB spada
+o 1 do czasu, aż zostanie naprawiony
+▶ Rany Krytyczne ◀
+Zawsze, gdy po udanym ataku bronią białą lub
+dystansową na co najmniej dwóch kościach obrażeń
+wypadnie 6, Broniący otrzymuje dodatkowe 5 punktów
+obrażeń, których nie redukuje pancerz, oraz Ranę
+Krytyczną. Wykonaj rzut 2k6 i porównaj wynik z tabelą
+Ran Krytycznych (STRONA 22), aby dowiedzieć się,
+jaki dokładnie efekt ma Rana.
+▶ WYTRZYMAŁOŚĆ OSŁONY W ZALEŻNOŚCI
+OD MATERIAŁU, Z KTÓREGO JEST WYKONANA
+Materiał
+PZ
+Gruba stal
+50 PZ
+Cienka stal
+25 PZ
+Gruby kamień
+40 PZ
+Cienki kamień
+20 PZ
+Grube szkło kuloodporne
+30 PZ
+Cienkie szkło kuloodporne
+15 PZ
+Gruby beton gruby
+25 PZ
+Cienki beton
+10 PZ
+Grube drewno
+20 PZ
+Cienkie drewno
+5 PZ
+Gruby tynk/pianka/plastik
+15 PZ
+22
+EASY MODE
+▶ Progi Rany ◀
+W miarę otrzymywania obrażeń przekraczasz
+kolejne Progi Ran, aż w końcu twoje rany zaczynają
+negatywnie wpływać na twoje działania. Efekty
+nowego rodzaju rany zastępują efekty poprzedniej rany.
+Rodzaj rany zależy od liczby pozostałych Punktów
+Wytrzymałości.
+Jesteś Lekko ranny, jeśli masz mniej niż pełną
+sumę Punktów Wytrzymałości. Ten stan nie niesie ze
+sobą żadnych dodatkowych kar.
+Jesteś Poważnie ranny, jeśli twoje obecne
+Punkty Wytrzymałości są równe lub mniejsze niż
+1/2 twojej maksymalnej puli. W ramach Easy Mode
+wyliczyliśmy to zawczasu i nanieśliśmy stosowną
+wartość na twoją Kartę Postaci. Kiedy jesteś Poważnie
+ranny, otrzymujesz karę -2 do wszystkich testów.
+Jesteś Śmiertelnie ranny, gdy masz mniej niż
+1 Punkt Wytrzymałości. Kiedy jesteś Śmiertelnie ranny,
+otrzymujesz karę -4 do wszystkich testów i -6 do
+Ruchu (który nie może spaść poniżej 1). Dodatkowo
+zaczynają cię obowiązywać Testy Przeżywalności.
+▶ Test Przeżywalności ◀
+Gdy jesteś Śmiertelnie ranny, na początku każdej
+swojej Tury musisz wykonać Test Przeżywalności.
+Rzuć 1k10. Jeśli rzucisz mniej niż wartość twojej
+Budowy Ciała, żyjesz i możesz odbyć swoją Turę.
+Jeśli rzucisz 10, Test Przeżywalności automatycznie
+się nie udaje. Zawsze, gdy wykonujesz Test
+Przeżywalności, wzrasta modyfi kator kolejnego Testu
+Przeżywalności, co oznacza, że każdy kolejny Test
+Przeżywalności wykonujesz z modyfi katorem +1,
+a więc coraz trudniej jest ci uciec ze szponów śmierci.
+Modyfi katory kumulują się, dopóki nie zostaniesz
+ustabilizowany, co przywraca twoje PW do 1
+▶ RANY KRYTYCZNE
+Rzut
+(2k6)
+Rana
+Efekt rany
+Łatanie
+Leczenie
+2
+Urwana ręka
+Ręka zostaje odseparowana od ciała. Natychmiast upuszczasz wszelkie trzymane
+w niej przedmioty. +1 do podstawowej trudności Testu Przeżywalności.
+Nd.
+Chirurgia PT 17
+3
+Odcięta dłoń
+Dłoń zostaje odseparowana od ręki. Natychmiast upuszczasz wszelkie trzymane
+w niej przedmioty. +1 do podstawowej trudności Testu Przeżywalności.
+Nd.
+Chirurgia PT 17
+4
+Zapadnięte płuco
+-2 do Ruchu (minimum 1). +1 do podstawowej trudności
+Testu Przeżywalności.
+Ratownictwo
+medyczne PT 15
+Chirurgia PT 15
+5
+Złamane żebra
+Na koniec każdej Tury, w której przemieściłeś się ponad 4 m na piechotę, ponownie
+otrzymujesz obrażenia dodatkowe tej rany. Obrażeń nie redukuje pancerz.
+Ratownictwo
+medyczne PT 13
+Ratownictwo medyczne
+PT 15 lub Chirurgia PT 13
+6
+Złamana ręka
+Złamana ręka nie nadaje się do użytku. Natychmiast upuszczasz wszelkie
+trzymane w niej przedmioty.
+Ratownictwo
+medyczne PT 13
+Ratownictwo medyczne
+PT 15 lub Chirurgia PT 13
+7
+Ciało obce
+Na koniec każdej Tury, w której przemieściłeś się ponad 4 m na piechotę, ponownie
+otrzymujesz obrażenia dodatkowe tej rany. Obrażeń nie redukuje pancerz.
+Pierwsza pomoc
+lub Ratownictwo
+medyczne PT 13
+Łatanie trwale usuwa
+efekt tej rany
+8
+Złamana noga
+-4 do Ruchu (minimum 1).
+Ratownictwo
+medyczne PT 13
+Ratownictwo medyczne
+PT 15 lub Chirurgia PT 13
+9
+Naderwany mięsień
+-2 do Ataków bronią białą
+Pierwsza pomoc
+lub Ratownictwo
+medyczne PT 13
+Łatanie trwale usuwa
+efekt tej rany
+10
+Uraz kręgosłupa
+NW swojej kolejnej Turze nie możesz wykonać Akcji, ale możesz wykonać Akcję
+Ruchu. +1 do podstawowej trudności Testu Przeżywalności.
+Ratownictwo
+medyczne PT 15
+Chirurgia PT 15
+11
+Strzaskane palce
+-4 do wszystkich Akcji wykonywanych tą ręką.
+Ratownictwo
+medyczne PT 13
+Chirurgia PT 15
+12
+Odcięta noga
+Noga zostaje odseparowana od ciała. -6 do Ruchu (minimum 1). Nie możesz
+Unikać ataków. +1 do podstawowej trudności Testu Przeżywalności.
+Nd.
+Chirurgia PT 17
+Ta lista zawiera
+w sobie jedynie
+połowę Ran
+Krytycznych
+opisanych
+w podręczniku
+głównym
+Cyberpunk RED.
+23
+EASY MODE
+i usuwa modyfi katory do podstawowej trudności Testu
+Przeżywalności, które można także otrzymać przy
+paskudniejszych Ranach Krytycznych.
+JEŚLI NIE UDA CI SIĘ CHOĆ JEDEN RZUT
+NA PRZEŻYWALNOŚĆ – UMIERASZ.
+▶ Stabilizacja i leczenie ◀
+Jeśli uda ci się przeżyć strzelaninę, zapewne będziesz
+chciał wrócić do zdrowia, a potem na Ulicę – i tak
+w kółko. Aby rozpocząć proces naturalnego leczenia,
+musisz zostać ustabilizowany.
+PT ustabilizowania celu (w tym samego
+siebie) zależy od aktualnego Progu Ran.
+Lekko ranny: PT 10
+Poważnie ranny: PT 13
+Śmiertelnie ranny: PT 15
+Ustabilizowanie jest Akcją, a Test wykonuje
+się, rzucając na TECHNIKĘ + Pierwszą
+pomoc lub Ratownictwo medyczne + 1k10.
+Po udanej stabilizacji cel po każdym pełnym dniu
+odpoczynku leczy tyle Punktów Wytrzymałości,
+ile wynosi jego Budowa Ciała, aż do odzyskania
+wszystkich PW. Dzień odpoczynku polega na
+wykonywaniu tylko mało męczących czynności
+i nienadwyrężaniu się. Jeśli pacjent przesadzi, za ten
+dzień nie odzyskuje PW, a jego rany otwierają się
+i musi na nowo zostać ustabilizowany, by wznowić
+proces naturalnego leczenia.
+▶ Leczenie Ran Krytycznych ◀
+Ranę Krytyczną można usunąć na dwa sposoby:
+Łataniem lub Leczeniem. W zależności od powagi
+Rany Krytycznej, obie te opcje mogą nie być
+dostępne lub leczenie danej rany może wymagać
+Testu innej Umiejętności.
+Najpoważniejsze Rany Krytyczne wymagają
+Umiejętności Chirurgia, której nauczyć się może tylko
+Medyk.
+Łatanie niweluje efekt rany do końca dnia. Każda
+próba zajmuje minutę. Można łatać samego siebie.
+Leczenie trwale usuwa efekt rany. Każda próba
+zajmuje cztery godziny. Nie można leczyć
+samego siebie.
+▶ Konfrontacja: Inna Walka, ◀
+niemniej Walka
+Nie wszystko na Ulicy jest determinowane pięściami
+lub bronią. W świecie, w którym otwarte starcie może
+wypłaszczyć cię w ciągu nanosekundy, koniecznością
+stały się inne metody określania, kto jest król, a kto
+leszcz. Czasem warto zaakceptować większego psa
+w stadzie i oddać mu honory zamiast ryzykować, że
+wyżej wymieniony odstrzeli ci dupsko, zanim zdążysz
+sięgnąć po broń. Taki pojedynek woli rozgrywa się
+na poziomie pierwotnych gadzich instynktów – pozy,
+spojrzenia, ruchów. W betonowej dżungli nie trzeba
+słów, aby złamać przeciwnika. Często wystarczy
+basowy pomruk prosto z trzewi bestii. Tego typu
+starcie nazywamy Konfrontacją i MG może zarządzić
+ją, jeżeli uzna, że scena tego wymaga.
+W Konfrontacji obaj uczestnicy
+testują CHA + Reputacja + 1k10.
+Przegrany staje przed alternatywą:
+Odpuścić…
+Albo otrzymać modyfi kator -2 do
+wszystkich Akcji wymierzonych
+w tego przeciwnika.
+Modyfi kator odzwierciedla strach
+przed tą osobą i znika, gdy tylko
+uda ci się pokonać wroga.
+W sytuacji remisu nic się nie dzieje
+i pozostaje rozegrać temat na ostro.
+ILUSTRACJA ADRIAN MARC
+24
+EASY MODE
+uMiejętnoŚci
+Umiejętność
+Cecha
+POZ
+BAZA
+Atletyka
+7
+2
+9
+Bijatyka
+7
+6
+13
+Komponowanie
+5
+6
+11
+Koncentracja
+8
+2
+10
+Konwersacja
+6
+2
+8
+Wykształcenie
+5
+2
+7
+Unik
+7
+6
+13
+Pierwsza pomoc
+5
+6
+11
+Broń krótka
+6
+6
+12
+Umiejętność
+Cecha
+POZ
+BAZA
+Odczytywanie emocji
+6
+6
+12
+Wiedza lokalna
+5
+4
+9
+Broń biała
+7
+6
+13
+Percepcja
+5
+2
+7
+Perswazja
+7
+6
+13
+Gra na instrumencie
+5
+6
+11
+Skradanie się
+7
+2
+9
+Znajomość półświatka
+7
+6
+13
+Moda i styl
+7
+4
+11
+▶ ksywa
+▶ rola
+▶ Pw
+▶ Poważnie ranny
+▶ PrzeżywalnoŚć
+▶ sz
+▶ sw
+▶ ruch
+▶ bc
+▶ emP
+▶ cha
+▶ Tech
+▶ zw
+▶ reF
+▶ inT
+Z
+Z
+▶ PenalTy aPPlies To reF,deX & moVe
+broń i pANCERZ
+Broń
+OBR.
+Amunicja
+LA
+Uwagi
+Bardzo ciężki pistolet
+4k6
+8
+1
+Zapas amunicji: 16 naboi.
+Duża broń biała
+3k6
+—
+2
+Miecz lub kij baseballowy. Twój wybór.
+Pancerz
+OB
+Lekka kurtka kuloodporna
+11
+cyborgizacje
+Agent wewnętrzny
+Masz w głowie samodostosowujący się smartfon operowany przez SI, sterowany
+całkowicie za pomocą poleceń głosowych.
++
+=
+Forty
+Rockerka
+5
+6
+7
+5
+7
+8
+7
+3
+6
+5
+zdolnoŚć specjalna
+Efekt Charyzmy
+sPRZĘT
+Nazwa
+Uwagi
+Instrument muzyczny
+wybór gracza
+Wzmacniacz kieszonkowy
+wzmacnia instrument muzyczny
+Farba świecąca
+farba w sprayu świecąca w ciemności
+Kamera wideo
+nagrywa do 12 godzin
+40
+20
+3
++
+=
+Potrafi sz rozpoznać, kiedy ktoś jest twoim fanem,
+i otrzymujesz +2 do Testów Umiejętności opartych
+na CHA i EMP w stosunku do tych osób. Dotyczy
+to także Konfrontacji.
+Cybersynaptyczny edytor bólu
+Jesteś w stanie odciąć impulsy płynące normalnie z receptorów bólu, co pozwala ci ignorować
+standardową karę -2 do wyników swoich Testów wynikającą ze stanu Poważnie ranny.
+▶ NOTATKI
+POZ
+BAZA
+6
+12
+4
+9
+6
+13
+2
+7
+6
+13
+6
+11
+2
+9
+6
+13
+4
+11
+Zapas amunicji: 16 naboi.
+Miecz lub kij baseballowy. Twój wybór.
+Uwagi
+wybór gracza
+wzmacnia instrument muzyczny
+farba w sprayu świecąca w ciemności
+Nagrywa do 12 godzin
+=
+NOTATKI
+J
+ak czytać Kartę Postaci
+r e a d i n g y o u r c h a r a c t e r s h e e t r e a d i n g y o u r c h a r a c t e r s h e e t
+Karty Postaci na końcu tej broszury zawierają wszystkie informacje potrzebne do zagrania swoją Postacią.
+Poniżej znajduje się przegląd i wyjaśnienie wszystkich terminów i statystyk.
+1
+2
+4
+3
+5
+6
+7
+8
+1. Ksywa twojej Postaci (imię, pod którym jest znana na Ulicy) i jej Rola (jej zawód).
+2. Cechy twojej Postaci [wyjaśnienie STRONA 13] oraz jej PW (czyli Punkty Wytrzymałości: ile obrażeń
+może otrzymać, zanim zagrozi jej śmierć), poziom zdrowia dla wartości Poważnie ranny [wyjaśnienie
+STRONA 22] i wartość graniczna dla Testów Przeżywalności [wyjaśnienie STRONA 22].
+3. Umiejętności twojej Postaci [wyjaśnienie STRONA 14]. Najważniejszą rzeczą jest tutaj SUMA na końcu
+każdego rzędu, to znaczy Cecha + poziom Umiejętności (Poz.), którą to wartość będziesz dodawać
+do swojego rzutu 1k10 w Testach Umiejętności.
+4. Twoja Broń i Pancerz. Przy statystykach Pancerza wymieniony jest jego typ i OB (czyli ilość obrażeń
+redukowanych przez Pancerz). Przy statystykach Broni wymienione są jej OBR. (pula kości k6, których
+wyniki sumuje się, aby określić obrażenia), ilość amunicji w broni (jeżeli dotyczy), LA (Liczba Ataków
+[wyjaśnienie STRONA 19]) i wszelkie warte odnotowania cechy Broni.
+5. Twoja Zdolność Specjalna Roli. Jest to specjalna umiejętność bonusowa, unikatowa dla danej Roli.
+6. Cyborgizacje. Masz w swoim ciele maszyny, które w jakiś sposób zwiększają twoje możliwości. W tej sekcji
+dowiesz się, jaki to sposób.
+7. Każdy dodatkowy sprzęt, który posiadasz, z nazwą i opisem.
+8. Portret twojej postaci i miejsce do robienia notatek.
+Na odwrocie każdej Karty Postaci znajduje się miejsce na zapisanie twojej Ścieżki Życia [wyjaśnienie
+STRONA 29] i dodatkowych informacji o twojej Roli.
+Sugestia: Możesz
+wydrukować
+znajdującą się
+na następnych
+stronach mapę
+taktyczną
+prosto od LOKE
+BattleMats.
+Przy pomocy
+głównego
+podręcznika
+do Cyberpunk
+RED będziesz
+w stanie stworzyć
+swojego własnego
+Krawędziarza,
+własnoręcznie
+dobierając
+jego Cechy,
+Umiejętności,
+Broń, Pancerz,
+wszczepy
+i wszystkie inne
+szmery-bajery
+28
+29
+Ś
+cieżka Życia
+l
+i
+f
+e
+p
+a
+t
+h
+l
+i
+f
+e
+p
+a
+t
+h
+l
+i
+f
+e
+p
+a
+t
+h
+l
+i
+f
+e
+p
+a
+t
+h
+Jakbyś wyczołgiwał się z kadzi do klonowania (jeśli klonowanie tak by działało). Masz na wpół stworzoną
+Postać, która stoi, ociekając śluzem. Może coś ci już świta na jej temat, ale to na razie same ogólniki. Jak zatem
+przemienić tę czystą kartę w prawdziwego Cyberpunka? Zacznij od wędrówki Ścieżkami Życia. Ścieżki
+Życia to diagramy prezentujące „zwroty akcji”, przy użyciu których twoja Cyberpunkowa Postać zdobędzie
+życiorys i historię godne Mrocznej Przyszłości.
+W kolejnych tabelach będziesz rzucać kością k10 lub k6, by określić fragment historii twojej Postaci, jej styl
+lub światopogląd. Czasem w jednej tabeli należy wykonać kilka rzutów. Jeśli wylosujesz wynik, który według
+ciebie nie pasuje do tworzonej Postaci, nie wahaj się wybrać bardziej adekwatnej opcji.
+▶ Region kulturowy ◀
+Świat Cyberpunka jest wielokulturowy i wielonarodowy.
+Albo uczysz się żyć wśród ludzi pochodzących ze
+wszystkich stron strzaskanego, chaotycznego świata,
+albo giniesz, gdy tylko krzywo na kogoś spojrzysz.
+Rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Twój (ogólny)
+region kulturowy
+1
+Ameryka Północna
+2
+Ameryka Środkowa/Południowa
+3
+Europa Zachodnia
+4
+Europa Wschodnia
+5
+Środkowy Wschód/Afryka Północna
+6
+Afryka Zachodnia
+7
+Południowa Azja
+8
+Azja Południowo-Wschodnia
+9
+Azja Wschodnia
+10
+Oceania i Wyspy Pacyfi ku
+▶ Twoja osobowość ◀
+Taką osobą jesteś. Czy twoja Postać trzyma się
+z dala od tłumów, jest wyniosła i wyrachowana?
+A może to imprezowicz, który zawsze idzie na całość?
+Czy raczej jesteś zrównoważoną osobą, kompetent-
+nym profesjonalistą, który zawsze ma plan?
+Rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Wynik Jaki jesteś?
+1
+Nieśmiały i powściągliwy
+2
+Buntowniczy, antyspołeczny i kochający przemoc
+3
+Arogancki, dumny i wyniosły
+4
+Kapryśny, gwałtowny i uparty
+5
+Wybredny, marudny i nerwowy
+6
+Stabilny i poważny
+7
+Niemądry i z fi u-bździu w głowie
+8
+Skryty i zwodniczy
+9
+Oderwany od świata intelektualista
+10
+Przyjacielski i towarzyski
+30
+EASY MODE
+▶ Ubiór i styl ◀
+W Cyberpunku twój wygląd mówi innym na Ulicy, kim jesteś. Twoje ciuchy, fryzura i inne szczegóły wpływają na
+to, w jaki sposób ludzie będą na ciebie reagować – dobrze albo źle.
+Rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Styl ubioru
+Fryzura
+1
+Typowy Szyk (standardowy, barwny, wieloelementowy)
+Irokez
+2
+Sportowy (wygodny, swobodny, fi tness)
+Długa, w nieładzie
+3
+Miejski Błysk (jaskrawy, funkcjonalny, uliczny)
+Krótka i stercząca
+4
+Biznesowy (liderski, ofi cjalny, władczy)
+Ekstrawagancka
+5
+Krzyk Mody (wyjątkowy, dizajnerski, haute couture)
+Na zapałkę
+6
+Romantyczny (folkowy, retro, wolny duch)
+Pasemka
+7
+Styl Kloszarda (zużyty, byle jaki, zniszczony)
+Jaskrawe kolory
+8
+Barwy Gangu (niebezpieczny, agresywny, buntowniczy)
+Równo przystrzyżona
+9
+Skóry Nomady (westernowy, znoszony, tribalowy)
+Krótka i zmierzwiona
+10
+Azjatycki Pop (jasny, cosplayowy, młodzieżowy)
+Długa i prosta
+▶ Motywacja i relacje z innymi ◀
+Ulice Night City to prawdziwa arena ścierających się ze sobą motywacji i perspektyw. A jak to jest z tobą?
+Co nakręca twojego Cyberpunka?
+W każdej kolumnie rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Co cenisz najbardziej?
+Co sądzisz o ludziach?
+1
+Pieniądze
+Nie wtrącam się.
+2
+Honor
+Nie wtrącam się.
+3
+Słowność
+Lubię prawie wszystkich.
+4
+Uczciwość
+Nienawidzę praktycznie wszystkich.
+5
+Wiedzę
+Ludzie to narzędzia. Wykorzystam ich i porzucę.
+6
+Zemstę
+Każda osoba jest ważna.
+7
+Miłość
+Ludzie to przeszkody, które zniszczę, jeśli staną mi na drodz
+8
+Władzę
+Nikomu nie ufam. Nie polegam na nikim.
+9
+Rodzinę
+Zniszczę wszystkich i pozwolę, by karaluchy przejęły władzę nad światem.
+10
+Przyjaźń
+Ludzie są cudowni!
+31
+EASY MODE
+▶ Środowisko ◀
+Jak wyglądała twoja młodość? Możliwe, że doszło do jakiegoś ważnego wydarzenia, w wyniku którego twoje środowisko
+drastycznie różniło się od tła rodzinnego.
+Rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Środowisko dorastania
+1
+Na Ulicy bez nadzoru dorosłych.
+2
+W Korpostrefi e odseparowanej od reszty Miasta.
+3
+Wędrująca z miejsca na miejsce Wataha Nomadów.
+4
+Wataha Nomadów zajmująca się transportem (powietrznym, wodnym, konwojami).
+5
+Niszczejąca, niegdyś bogata część miasta, która teraz odpiera nieustanne ataki cybergangów.
+6
+W sercu Strefy Walki, w zrujnowanym budynku lub podobnym miejscu.
+7
+W gigantycznej megabudowli pod kontrolą Korporacji lub Miasta.
+8
+W ruinach opuszczonego miasta lub miasteczka, do którego wrócili osadnicy.
+9
+W Pływającym Państwie (unoszące się na wodzie miasto), miejscu spotkań ludzi z różnych stron świata.
+10
+W luksusowym „drapaczu gwiazd” Korporacji, wysoko ponad resztą ciemnej masy.
+▶ Tło rodzinne ◀
+Kim jesteś i skąd pochodzisz? Jesteś w czepku urodzony czy raczej używałeś go, by przydusić brata w walce
+o dodatkowego gryza mięsa ze szczura, którego razem znaleźliście?
+Rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Tło rodzinne
+Opis
+1
+Szefowie Korporacji
+Bogaci, wpływowi, ze służbą, luksusowymi domami i wszystkim, co najlepsze. Prywatna ochrona dokładała starań, byś
+zawsze był bezpieczny. Uczęszczałeś do znanej szkoły prywatnej.
+2
+Menedżerowie
+Korporacji
+Duże zarobki, duży dom w bezpiecznej okolicy, dobre samochody itp. Czasami rodzice (lub rodzic) najmowali służbę, choć
+niezbyt często. Uczyłeś w się w szkołach prywatnych i korporacyjnych.
+3
+Technicy Korporacji
+Średnia klasa średnia, mieszkająca w konapach lub Bobrowisku. Wygodny domek jednorodzinny, minivany i technikum
+Korporacyjne. Trochę jak mieszanka Ameryki lat 50. XX wieku i rzeczywistości orwellowskiej.
+4
+Wataha Nomadów
+Wychowałeś się w poobijanych przyczepach, samochodach i wielkich kombiwozach. Już za młodu nauczyłeś się prowadzić
+auta i walczyć, ale rodzina zawsze była gotowa ci pomóc. Jedzenia zwykle było w bród i było nawet świeże. Uczyłeś się
+od rodziców i innych członków rodziny.
+5
+Gangerska
+„rodzina”
+Okrutny, pełen przemocy dom tam, gdzie twój gang akurat panował. Zwykle byłeś głodny, zmarznięty i przerażony. Zapewne nie
+znałeś prawdziwych rodziców. Edukacja? Gang nauczył cię, jak walczyć, kraść i zabijać – chyba nic więcej nie musisz wiedzieć?
+6
+Mieszkańcy Strefy
+Walki
+Trochę lepiej niż gangerska „rodzina”, ale twój dom był ledwo stojącym, ufortyfi kowanym budynkiem gdzieś w Strefi e.
+Czasem głód zaglądał ci w oczy, ale zwykle miałeś gdzie spać i co jeść. Edukacja domowa.
+7
+Miejscy bezdomni
+You lived in cars, dumpsters, or abandoned shipping modules. If you were lucky. You were usually hungry, cold, and
+scared, unless you were tough enough to fi ght for the scraps. Education? School of Hard Knocks.
+8
+Szczury
+megabudowli
+Dorastałeś w jednej z nowych megabudowli, które powstały po wojnie. Malutki konap, karma i jednokomórkowe organiczne
+proteiny, ciepły kąt do spania. Lepiej wykształceni mieszkańcy kopca lub miejscowa Korporacja mogli nawet prowadzić szkołę.
+9
+Osadnicy
+Zacząłeś na drodze, ale potem zajęliście opuszczone miasteczko lub miasto, z zamiarem odbudowy. Życie pionierów jest
+niebezpieczne, ale nie było problemów z jedzeniem i bezpiecznym miejscem do spania. Uczyli cię rodzice – jeśli mieli na to czas.
+10
+Krawędziarze
+Twój dom był tam, gdzie twoi rodzice akurat mieli zlecenie. Luksusowy apartament, konap w jakimś mieście
+– albo śmietnik, jeśli akurat uciekaliście. Podobnie z wiktem i opierunkiem – raz gourmet, a raz karma.
+32
+EASY MODE
+▶ Kryzys rodzinny ◀
+W Czasie Czerwieni świat wciąż podnosi się po wojnie i innych nieszczęściach. Niestety, zapewne coś przy-
+trafi ło się twojej rodzinie i odcisnęło na tobie ślad. Co dokładnie się wydarzyło?
+Rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Historia
+1
+Ktoś zdradził twoją rodzinę i wszystko straciliście.
+2
+Twoja rodzina straciła wszystko wskutek kiepskiego zarządzania.
+3
+Twoją rodzinę wygnano lub w inny sposób usunięto z domu/państwa/Korporacji.
+4
+Twoją rodzinę uwięziono i tylko tobie udało się uciec.
+5
+Twoja rodzina zniknęła. Jedynie ty pozostałeś.
+6
+Twoją rodzinę zabito i tylko ty przeżyłeś.
+7
+Twoja rodzina jest od dawna zamieszana w spisek lub należy do organizacji czy grupy takiej jak rodzina przestępcza lub grupa rewolucjonistów.
+8
+Z powodu jakiegoś nieszczęścia twoja rodzina rozjechała się we wszystkie strony świata.
+9
+Nad twoją rodziną ciąży klątwa odwiecznej waśni, która trwa już od pokoleń.
+10
+Dziedziczysz rodzinny dług i jego spłata jest najważniejszym celem twojego życia
+▶ Przyjaciele ◀
+Przyszłość to nie tylko mrok. Czasem poznajesz ludzi, którzy są gotowi ci pomóc.
+Rzuć 1k10 i od wyniku odejmij 7, by sprawdzić, ilu przyjaciół zdobyłeś w życiu do tej pory
+(minimum 0). Dla każdego przyjaciela wykonaj rzut i sprawdź wynik w poniższej tabeli.
+Wynik
+Przyjaciel jest dla ciebie…
+1
+Jak starszy brat lub siostra.
+2
+Jak młodszy brat lub siostra.
+3
+Jak nauczyciel lub mentor.
+4
+Wspólnikiem lub współpracownikiem.
+5
+Byłym kochankiem lub byłą kochanką.
+6
+Starym wrogiem.
+7
+Jak rodzic.
+8
+Przyjacielem z dzieciństwa.
+9
+Kimś, kogo znasz z Ulicy.
+10
+Kimś, z kim łączy cię wspólny cel.
+33
+EASY MODE
+▶ Wrogowie ◀
+Wrogowie to ważna część życia w świecie Cyberpunka. Prędzej czy później komuś podpadniesz, więc lepiej
+znać takiego delikwenta i powody waszego konfl iktu – a także orientować się, co może ci grozić.
+Najpierw rzuć 1k10 i od wyniku odejmij 7, by sprawdzić, ilu wrogów zyskałeś do tej pory
+(minimum 0). Następnie, rzucając raz w każdej kolumnie poniższej tabeli, określ, kim był
+każdy z nich, co doprowadziło do scysji i co wydarzy się, gdy wasze drogi znów się skrzyżują.
+Wynik
+Wróg
+Przyczyna konfl iktu (wybierz,
+kto został poszkodowany)
+W przypadku spotkania strona
+poszkodowana zamierza
+1
+Dawny przyjaciel
+Utrata twarzy lub pozycji.
+Zignorować śmiecia.
+2
+Eks
+Utrata ukochanej lub ukochanego, przyjaciela lub krewnego.
+Zignorować śmiecia.
+3
+Obrażony krewny
+Publiczne i nieodwracalnie poważne upokorzenie.
+Wpaść w morderczy szał i wydrapać gnidzie oczy.
+4
+Wróg z dzieciństwa
+Urażone ego, zarzut tchórzostwa lub innej wady
+charakteru.
+Wpaść w morderczy szał i wydrapać gnidzie oczy.
+5
+Dawny podwładny
+Zdradzenie lub porzucenie drugiej strony na pastwę
+losu.
+Knuć, spiskować i dojeżdżać mendę w nieoczywisty sposób.
+6
+Dawny pracodawca
+Odrzucenie oferty współpracy lub miłości.
+Knuć, spiskować i dojeżdżać mendę w nieoczywisty sposób.
+7
+Dawny partner lub
+współpracownik
+No kurde, po prostu między wami nie będzie nigdy
+dobrej chemii.
+Uderzyć w pyskówkę.
+8
+Przedstawiciel Korpo
+Rywalizacja miłosna.
+Uderzyć w pyskówkę.
+9
+Ofi cjel rządowy
+Rywalizacja zawodowa.
+Wrobić niespodziewającego się niczego frajera w odpowiedzialność
+za jakąś krzywą akcję, która ściągnie na niego czyjś gniew
+i zepsuje reputację.
+10
+Członek cybergangu
+Wrobienie drugiej strony w przewinienie, którego nie
+popełniła.
+Smakować zemstę na zimno, organizując morderstwo, albo
+okaleczyć winowajcę. A najlepiej oba… w dowolnej kolejności.
+▶ Tragiczna historia miłosna ◀
+Nie obchodzą nas te udane związki, za to chcemy wiedzieć wszystko o tych najgorszych, paskudnych historiach,
+które wypatroszyły cię i pozostawiły ze strzaskanym, krwawiącym sercem.
+Rzuć 1k10 i od wyniku odejmij 7, by otrzymać liczbę (minimum 0) tragicznych romansów, jakie miały (dotąd)
+miejsce w twoim życiu. Następnie skorzystaj z poniższej tabeli, by określić, jak dana historia się skończyła.
+Wynik
+Co się stało?
+1
+Twoja miłość zginęła w wypadku.
+2
+Twoja miłość zaginęła w tajemniczych okolicznościach.
+3
+Związek po prostu się rozpadł.
+4
+Waszej miłości przeszkodziły cele osobiste lub wendeta.
+5
+Twoja miłość została porwana.
+6
+Twoja miłość oszalała lub stała się cyberpsycholem.
+7
+Twoja miłość popełniła samobójstwo.
+8
+Twoja miłość zginęła w walce.
+9
+Twoja miłość wybrała kogoś innego.
+10
+Twoja miłość trafi ła do więzienia lub została wygnana.
+34
+EASY MODE
+J
+ak prowadzić Cyberpunka
+r
+u
+n
+n
+i
+n
+g
+c
+y
+b
+e
+r
+p
+u
+n
+k
+Cyberpunk może być wyzwaniem nawet dla doświadczonego Mistrza Gry. To
+zdecydowanie coś więcej niż płynne stosowanie Testów Umiejętności [STRONA 17]
+i prowadzenie dynamicznej Walki [STRONA 18]. Gra Cyberpunk wymaga zarówno od
+prowadzącego, jak i graczy stworzenia odpowiedniej atmosfery i opanowania jego wyjątkowej
+estetyki. Tu brud i bieda Ulicy koegzystują z niewypowiedzianym bogactwem korporacyjnych
+przedstawicielstw handlowych. Prostota pierwotnych instynktów i zmagań ludzi zagnanych
+na samą krawędź wsparta jest elegancką i wysublimowaną technologią. Mrok rozrywany jest
+krzykliwymi kolorami neonów. Pozorna wolność podszyta jest nieustanną paranoją.
+Przetrwanie za wszelką cenę to znak rozpoznawczy tej scenerii. Patrzysz na tych, których
+masz najbliżej – na przyjaciół, zespół, rodzinę lub swój klan – i wiesz, że oni są twoim światem.
+Tylko ich (i przede wszystkim twoje) szczęście i dobrobyt mają jakiekolwiek znaczenie w tej
+chaotycznej mordowni nazwanej Night City. Walczysz dla nich i dla siebie. Jeśli możesz zrobić
+coś dobrego dla „świata”, przedzierając się przez zasieki rzeczywistości, to świetnie. Ale nie
+przyzwyczajaj się do myśli, że istotnie kogoś „zbawisz”. Bohaterowie poginęli na wojnach
+albo zawsze byli tylko w bajkach. Postacie gry Cyberpunk są ocaleńcami, którzy wiążą koniec
+z końcem w trudnym, ponurym i niekochającym ich świecie. W obliczu wyborów decydujących
+o życiu i śmierci, wybierają życie – choćby krocząc po cudzym trupie.
+I tu zaczynają się schody dla Mistrza Gry: w jaki sposób przedstawisz swoim graczom te
+wybory w sposób, który będzie dla nich wciągający i angażujący? Jak wciągniesz ich w ten
+świat kontrastów? Aby ci pomóc, opracowaliśmy koncepcję Ścieżek Życia. To, jak zastosujesz te
+Ścieżki, które wyturlali sobie twoi gracze, zadecyduje o tym czy ta rozgrywka będzie należeć
+do nich w równym stopniu co do ciebie. Osobiste zaangażowanie każdego uczestnika jest
+tym, co tworzy różnicę między przeżyciem, które zapadnie w pamięć na zawsze, a po prostu
+formą spędzenia czasu.
+Odpal swoją historię od bezpośredniego zahaczenia jej o Ścieżki Życia bohaterów graczy.
+Zagroź ich bliskim – Rodzinie i Przyjaciołom. Pozwól im odkryć spisek ich Wrogów. Porwij ich
+CYBERPUNKOWA
+BIBLIOGRAFIA
+Wgrzesznicy – Pat Cadigan
+Czy androidy śnią o elek-
+trycznych owcach – Philip
+K. Dick
+Kiedy zawodzi grawitacja
+oraz A Fire in the Sun –
+George Alec Effi nger
+Neuromancer, Graf Zero,
+Mona Lisa Turbo oraz
+Wypalić Chrom – William
+Gibson
+Trouble and Her Friends –
+Melissa Scott
+Śnieżyca (inne tłuma-
+czenie: Zamieć) – Neal
+Stephenson
+The Artificial Kid oraz
+Islands in the Net – Bruce
+Sterling
+Okablowani, Voice of the
+Whirlwind oraz Angel
+Station – Walter Jon
+Williams
+CYBERPUNKOWA
+FILMOGRAFIA
+Akira
+Obcy i Obcy: Decydujące
+Starcie
+Appleseed
+Modyfi kowany Węgiel
+Blade Runner i Blade
+Runner 2045
+The Expanse
+Ghost in the Shell
+Max Headroom
+Trylogia Matrix
+Overdrawn at the Memory
+Bank
+Robocop 1 i Robocop 2
+Wojownik autostrady (ory-
+ginał i remake)
+▶ Cele życiowe ◀
+Znasz już swoją historię, masz styl i rany po dawnych miłościach. Czas to wszystko
+podsumować, określając swoje cele życiowe.
+Rzuć 1k10 lub wybierz dowolny wynik.
+Wynik
+Cele życiowe
+1
+Pozbyć się złej reputacji.
+2
+Zdobyć władzę i kontrolę.
+3
+Zostawić za sobą Ulicę, bez względu na koszt.
+4
+Nieść ból i cierpienie tym, którzy ci podpadną.
+5
+Wymazać dawne życie i spróbować o nim zapomnieć.
+6
+Dorwać osoby odpowiedzialne za twój marny żywot i przykładnie je ukarać.
+7
+Odzyskać to, co ci się należy.
+8
+Uratować – jeśli to możliwe – jakąś postać z twojej historii, na przykład dawną miłość lub członka rodziny.
+9
+Zdobyć sławę i uznanie.
+10
+Zdobyć powszechny szacunek i sprawić, że ludzie będą się ciebie bać
+35
+EASY MODE
+siostrę. Okradnij babcię. Jeżeli mają psa, to… zresztą wiesz, o co chodzi. Jeżeli nie cierpią na niedostatki, odbierz im
+źródło utrzymania. Jeżeli szczycą się reputacją bez skazy, podważ tę reputację albo nawet zszargaj ją doszczętnie.
+Daj im powód, by walczyć i wyszarpywać zębami z gardła rzeczywistości to, co im się ich zdaniem należy! Tu nie
+chodzi o akcje z serii: „No więc zakapturzona postać w rogu klubu ma dla was misję”. Twoi gracze muszą wiedzieć, po
+co właśnie pchają palce między drzwi. Po co biorą robotę, której nikt inny nie odważył się wziąć. Po co ryzykują swoje
+śliczne Postacie. To sprawi, że wybory będą zawsze znaczące i osadzone w rzeczywistości, i co najważniejsze – będą
+odnosić się do tego, na czym twoim graczom naprawdę zależy. Od tego, jakie decyzje podejmą, zależeć będzie, jak
+rozegra się ich historia. Czy zachowają swoje człowieczeństwo i kodeks moralny? Czy będą siłą stworzenia dźwigającą
+ludzkość z ruin? A może zmienią się w niewiele więcej niż oportunistyczne potwory, które traktują Ulicę jak swój teren
+łowiecki? Nikt nie urodził się po prostu zły i niewielu jest takich, którzy uznają się za „złoli”, a bohaterowie Cyberpunka
+nie są od tego żadnym wyjątkiem. To bohaterowie skrajnych warunków i ekstremalnych sytuacji. Sytuacji i warunków,
+w które ty, Mistrzu Gry, musisz ich umiejętnie wmanewrować.
+Cel przyświecający ostatniemu rozdziałowi tej broszury to tyleż próba nauczenia cię, JAK grać w Cyberpunka, co
+umożliwienie doświadczenia samej gry. Jeżeli dotarłeś aż tutaj, to masz to, jesteś gotowy pojechać z tematem nawet
+bez większego przygotowania. No! A teraz wstawaj, Samuraju… Mamy miasto do zagrania!
+T
+ylko dla oczu Mistrza Gry
+G a m e m a s t e r s o n l y G a m e m a s t e r s o n l y G a m e m a s t e r s o n l y
+No dobra, typeczku słodki… Wszystko, co jest napisane dalej, jest przeznaczone do wglądu tylko dla Mistrza
+Gry i jest nadziane SPOILERAMI jak dupsko cybergangusa protetyką. Więc o ile nie jesteś Mistrzem Gry, to
+spieprzaj zdrów. Im mniej wiesz, tym krócej cię będą przesłuchiwali
+S
+łowo wstępu
+b
+e
+f o r
+e
+y o u b
+e
+f o r
+e
+y o u b
+e
+g i n b
+e
+f o r
+e
+y o u b
+e
+g i n
+Poniższy scenariusz potraktuj jak taką rozbiegóweczkę przed odpaleniem swoich własnych kampanii
+w Cyberpunk RED. Został on pomyślany tak, aby w praktyce przetestować to, co było wykładane na łamach tej
+broszury. Zakłada, że zarówno ty, jak i twoi Gracze nie mieliście jeszcze do czynienia ze światem Mrocznej Przyszłości.
+Lepiej więc, abyś sobie jeszcze raz przejrzał zwłaszcza część poświęconą zasadom gry, a przed poprowadzeniem
+scenariusza zapoznał się z nią dokładniej. Będziesz od tej chwili zarówno uczniem, jak i nauczycielem,
+a twoi Gracze będą postrzegać cię jako arbitra w kwestiach zasad, więc wiesz… Koncentracja, nie?
+Jak już będziesz gotowy, zapoznaj się z pięcioma postaciami zamieszczonymi dla twej uciechy na końcu tej
+broszury, zaopatrzonymi we wszelkie szmery i bajery związane z regułami (Cechy, Umiejętności, ekwipunek
+i cały ten jazz). To, co trzeba jeszcze zrobić wspólnie z twoimi Graczami, to przydzielić Role i przejść ich
+krętymi Ścieżkami Życia [STRONY 29-34]. Odnotuj wszystkich Wrogów i Przyjaciół, których Gracze sobie
+wyturlają, bo ich WIP-owie (czaisz?) będą ci potrzebni w czasie przygody. No i wreszcie upewnij się, że dla
+każdego znajdzie się po jednej kostce dziesięciościennej i solidna porcja sześciościennych. Masz to? Czad.
+No, to co… Gra muzyka i gaz do dechy! Zawiązujemy tę akcję!
+WYSKAKUJ Z FORSY!
+WYSKAKUJ Z FORSY!
+MAŁA ROBÓTKA NA ROZGRZEWKĘ W CYBERPUNK RED
+MAŁA ROBÓTKA NA ROZGRZEWKĘ W CYBERPUNK RED
+ILUSTRACJA NEIL BRANQUINHO
+36
+EASY MODE
+C
+o to za robota?
+m i s s i o n s u m m a r y m i s s i o n s u m m a r y m i s s i o n s u m m a r y
+Ekipa cziluje sobie właśnie po udanym włamie
+w dokach przemysłowego portu South Night City.
+Niespodziewanie okazuje się, że cała kabona, którą
+udało im się tam zawinąć, została – o ironio – teraz
+podprowadzona im! I to nie przez nikogo innego jak
+szajkę skorumpowanych krawężników. Chciwe gliny
+wciągają ekipę w zasadzkę, żeby ich wypłaszczyć
+i tym samym pozbyć się niewygodnych świadków.
+Okazuje się bowiem, że działają na zlecenie gangu,
+który jest odpowiedzialny za schwytanie i torturowanie
+Lazlo (Fixera ekipy), przejęcie skradzionego towaru
+i w ogóle samo nagranie roboty w dokach.
+ZAWIĄZANIE AKCJI: TELEFON
+Niedługo po powrocie z włamu przeprowadzonego
+w dokach South Night City Postacie Graczy
+otrzymują niespodziewany telefon od swojego Fixera,
+który wcześniej nagrał im tę robotę. Lazlo łączy się
+z nimi przez jednorazówkę, którą dał im właśnie
+na takie okazje. Nie jest specjalnie rozmowny, jego
+wiadomość jest prosta: „Musimy się umówić na odbiór
+waszego hajsu gdzie indziej niż zwykle. Zbierajcie się
+do Heywood, strefa przemysłowa. Przesyłam wam
+pina”. Mimo zapewnień z jego strony, że wszystko
+„jest git i nie ma problemu”, Lazlo nie odpowiada
+na pytania co do powodu tej nagłej i zaskakującej
+zmiany miejsca spotkania. Dobrze będzie, Mistrzu
+Gry, jeżeli odgrywając Lazlo, podkreślisz swoim
+tonem, że zdecydowanie NIE jest git i JEST problem.
+Jeżeli pomoże ci to się wczuć, to wyobraź sobie, że
+nasz drogi Fixer, rozmawiając z Postaciami Graczy,
+ma lufę przystawioną do skroni i jest boleśnie
+świadom tego, że wciąga właśnie swoich kumpli
+w zasadzkę.
+Jeżeli któryś z Graczy zacznie coś podejrzewać albo
+spróbuje ciągnąć Lazlo za język, Fixer pośpiesznie
+zakończy rozmowę. Zarządź Test Odczytywania
+emocji o PT 17. Jeśli ktoś go zda, możesz potwierdzić,
+że owszem, tak właśnie brzmi osoba, która jest
+w śmiertelnym niebezpieczeństwie. A jeżeli Lazlo jest
+w niebezpieczeństwie, to wraz z nim wypłata za
+ostatnią robotę i perspektywa wszystkich następnych.
+Jeśli test się nie powiedzie, to oczywiście Gracze mogą
+nadal podejrzewać, co tylko sobie życzą.
+Tak czy inaczej, rozmowa skończy się szybko,
+pozostawiając więcej pytań niż odpowiedzi
+PRZEŁOM: STREFA PRZEMYSŁOWA HEYWOOD
+Ruszając do Heywood, Gracze mogą być świadomi,
+że pakują się w zasadzkę, lub po prostu wykazywać
+się zdrową dozą paranoi zawodowej. Niezależnie
+od tego, jak nastawiają się na spotkanie, poproś ich
+o opis przygotowań, jakie robią. Na podstawie ich
+opisów oceń, jakie Umiejętności każdy z nich testuje,
+i do odpowiedniej Umiejętności zarządź test o PT
+17. Każdy taki zdany test powinien zaowocować
+jakimiś sprzyjającymi okolicznościami dla ekipy. Od
+ciebie oczywiście zależy, jak wyglądać może taka
+przewaga. Dobrym pomysłem będzie przekazanie
+im zawczasu pozycji niektórych przeciwników, ich
+liczebności lub wczesne wskazanie lokacji, gdzie
+przetrzymywany jest Fixer.
+Sytuacja wygląda następująco.
+We wskazanym miejscu, położonym głęboko
+w labiryncie alejek, uliczek i tuneli serwisowych,
+na ekipę będzie oczekiwał zakapturzony mężczyzna,
+dzierżący w dłoni masywną walizkę, do której
+przykuty jest kajdankami. Gdy będzie chciał
+przekazać ową walizkę, znalezienie kluczy zajmie mu
+niepokojąco dużo czasu. Będzie grzebał po licznych
+kieszeniach, a gdy odnajdzie w końcu klucze, upuści
+je na ziemię. Powinno to wzbudzić podejrzenia ekipy.
+Gdy w końcu typ rozstanie się ze swoim ładunkiem,
+zapamiętaj, który z Graczy przejął walizkę.
+Otworzenie walizki zajmie całą Akcję. W środku
+znajdować się będzie, zgodnie z umową, 10 000
+pachnących nowością eurodolców. To mogłoby uspokoić
+podejrzenia Graczy, ale Test Fałszerstwa o PT 17
+pozwoli od razu zauważyć, że banknoty to podróbki.
+Zakapturzony mężczyzna to Leonard Houston
+– z zawodu funkcjonariusz NCPD, a prywatnie kawał
+srogiej szumowiny. Cała ta szopka z kluczami miała
+na celu kupienie czasu jego równie umaczanym
+w najróżniejszych świństwach kumplom na zajęcie
+dogodnych pozycji wokół miejsca spotkania. Na
+sygnał Houstona gliny odetną wszystkie drogi wyjścia
+i otworzą ogień do Postaci Graczy.
+37
+EASY MODE
+ZMAGANIA: ZASADZKA W ALEI
+W momencie zasadzki przeciwnicy mają nad ekipą
+przewagę liczebną. Glin jest tyle, co Graczy +2,
+wliczając w to Houstona. Jeżeli używacie mapy
+taktycznej, każdy nowy przeciwnik może pojawić się
+z dowolnego krańca alei. Gdy rozpocznie się starcie,
+odegraj, jak policjanci nawołują się i koordynują
+działania. Rzuć coś w stylu „Ty, po prawej – broń
+automatyczna!” albo „Nawszczepiany – środek”.
+Oto nazwiska policjantów biorących udział w akcji,
+z których możesz skorzystać: Amanda Orto, Brian
+Easton, Khalil Hosman, Rex Borda, Annis Olufson,
+Matteo Ferrise, Enrique Cardinali. Daj każdemu
+z napastników zabłysnąć – czy to jakąś zadziorną
+odzywką, czy godnym zapamiętania zachowaniem.
+Nie chodzi o to, by robić z nich pełnoprawnych
+Bohaterów Niezależnych. Chcielibyśmy jednak
+uniknąć sytuacji, gdzie Gracze odniosą wrażenie,
+że naparzają się z botami, których jedyną cechą
+szczególną jest ilość PW, jaka im jeszcze została
+po tym, jak zaliczyli strzała. Jednym z elementów
+budowania klimatu sesji jest uzmysłowienie Graczom,
+że walczą z żywymi ludźmi, nie tak znowu różnymi
+od ich Postaci. Jeżeli PW danego przeciwnika
+spadnie do połowy lub otrzyma on Ranę Krytyczną,
+będzie próbować uciekać z pola walki. Ucieczka
+może odbyć się którymkolwiek wyjściem z alei. Na
+mapie taktycznej uznajemy, że przeciwnik dał radę
+skutecznie się wycofać, jeżeli przekroczy granicę
+mapy w którymkolwiek punkcie. Przyparci do muru
+gliniarze będą walczyć do śmierci. Gdy starcie będzie
+przechylać się na korzyść Graczy, zdolni do walki
+funkcjonariusze mogą próbować ewakuować ciężko
+rannych towarzyszy. Odnotuj sobie, ilu przeciwnikom
+udało się uciec. Jeżeli któregoś uda się pochwycić,
+to wyciągnięcie z niego kilku odpowiedzi będzie
+wymagało Testu Przesłuchiwania o PT 17. Jeśli test się
+powiedzie, to Gracze dowiedzą się, gdzie znajduje
+się kryjówka przeciwników. Przeciwnicy będą
+zdeterminowani, aby nie dać się wziąć żywcem,
+więc najprawdopodobniej każdy potencjalny
+przesłuchiwany będzie już w ciężkim stanie. W
+związku z tym nieudane Testy Przesłuchiwania mogą
+owocować zgonem przesłuchiwanego, zwłaszcza
+jeżeli użyto sporo siły. A najprawdopodobniej użyto.
+O ile Gracze w trakcie swoich przygotowań
+do akcji nie zdobyli informacji o tym, gdzie
+przetrzymywany jest Lazlo, niedługo po zakończeniu
+strzelaniny usłyszą jego krzyki. Fixerowi, który
+leży związany w pobliskiej kanciapie, udało się
+nareszcie wyswobodzić ze swojego knebla. Teraz
+drze się tak, jakby chciał wypluć płuca. Biorąc pod
+uwagę, co gliniarze mu zrobili, to wcale nie jest mało
+prawdopodobny scenariusz.
+PRZEŁOM: NA RATUNEK FIXEROWI
+Lazlo otrzymał w swoją prawą, organiczną
+rękę Ranę Krytyczną: Strzaskane palce – opra-
+wcy metodycznie rozwalali mu je jeden po
+drugim leżącym nieopodal młotkiem. Jego lewa,
+cybernetyczna ręka została odrąbana (Rana
+Krytyczna: Odcięta ręka) i brutalnie wepchnięta
+do ust Fixera. Przywiązana przy pomocy jego
+rozszarpanego podkoszulka, spełniała rolę knebla.
+W chwili odnalezienia Lazlo ma tylko 5 PW. Jego stan
+psychiczny jest zaskakująco dobry jak na sytuację,
+w której się znalazł. Entuzjastycznie i radośnie
+wita Postacie Graczy, ciskając potoki przekleństw
+pod adresem policjantów. Niezależnie od stopnia
+zadowolenia z faktu, że jego oprawcy otrzymali tęgie
+lanie, dla niego to już defi nitywnie dość przygód na
+dziś. Jeżeli któryś z Graczy zdecydował się grać
+Medykiem, może Łatać Ranę Krytyczną: Strzaskane
+palce, zdając Test Ratownictwa medycznego o PT 13.
+Udany test zaowocuje, jak to ujmie Lazlo, „dozgonną
+wdzięcznością i solidną fi xerską przysługą”. Jeżeli
+ekipa nie ma na pokładzie Medyka, Lazlo poprosi
+o wezwanie Combat Cabba na jego kredencjały.
+Sam nie może tego zrobić, bo jego telefon padł
+ofiarą tegoż samego młotka, który tak dotkliwie
+doświadczył rękę Fixera.
+Jakkolwiek się to rozegra, ocalały chętnie wyjaśni
+swoim wybawicielom, co też tu się odpierdzieliło
+najlepszego. Oto doskonała chwila, aby pograć
+mocno na Ścieżkach Życia Postaci. Jak się bowiem
+okazuje, gliny otrzymały cynk o całej akcji od
+informatora, w którego roli dobrze by było obsadzić
+któregoś z Wrogów naszej ekipy. Krawężniki
+zmaltretowały Fixera i zawinęły się z ciężko
+ukradzionymi pieniędzmi ekipy. Na szczęście Lazlo
+(dzięki wcześniejszej współpracy na przykład
+z Przyjacielem którejś z Postaci) wie, gdzie złoczyńcy
+mają swoją melinę. Tak się składa, że to magazyn
+znajdujący się w dokach South Night City, nieopodal
+38
+EASY MODE
+miejsca ostatniego brawurowego skoku ekipy. Jeżeli
+Postacie Graczy jeszcze same tego nie skleiły, Lazlo
+zapewni ich, że forsa w walizce to bubel. Gdy temat
+pojawi się w rozmowie, żartowniś zaoferuje się
+osobiście potwierdzić podróbkowość podróbek,
+o ile któryś z jego dobrodziejów „poda mu pomocną
+dłoń i użyczy mu ręki w tej skomplikowanej pracy
+manualnej”. Jednocześnie Fixer zasugeruje Postaciom
+Graczy, aby nie pozbywały się fałszywej mamony,
+bo może się kiedyś jeszcze do czegoś przydać.
+Na sam koniec (czy to pakowany do karetki, czy
+na progu szpitala, do którego odwiozą go Postacie
+Graczy) Lazlo zasugeruje „szybkie dojechanie
+typiarzy”. O ile oczywiście ekipa czuje się na siłach.
+„Lepiej nie pozwolić im się przegrupować i wylizać
+z ran. Wiedzą dokładnie, kim jesteście, a tacy jak oni nie
+odpuszczają. Poza tym mogą gdzieś skitrać prawdziwy
+hajs, a wtedy będzie i wam, i mnie przykro”.
+FINAŁ: MAGAZYN
+Magazyn to scena, w której Gracze mogą przejść
+do ofensywy i zakończyć sesję, robiąc pełen użytek
+ze swoich Umiejętności i pomysłowości. Oczywiście
+może się to wszystko rozegrać na bardzo wiele
+sposobów, ale dla klarowności całe to morze
+opcji można ująć w trzech szerokich kategoriach:
+Eliminacja, Infiltracja, Dyplomacja. Istnieje też
+mityczna „czwarta opcja” – nieszablonowa
+inicjatywa Graczy. Aby podkręcić tempo rozgrywki,
+dobrym pomysłem jest zaaranżowanie burzy
+mózgów w ekipie. Możesz powoływać się na ich
+Ścieżki Życia. Zamiast zadawać kardynalne pytanie
+„no to co robicie?”, osadź trzy podstawowe opcje
+w doświadczeniu życiowym Postaci Graczy. „Jak
+zabierają się za takie rzeczy w waszych stronach?
+Pacyfi kujemy gnoi? Czy nie masz zwyczaju załatwiać
+takich rzeczy po cichu? A co powiedziałby na to
+twój ojciec? Nie chciałby z nimi załatwić tematu
+w cywilizowany sposób?”. To powinno nastroić
+Graczy refl eksyjnie i zainicjować dyskusję między
+ich Postaciami. W szczególności, aby nie zmniejszać
+szans na tę ostatnią z dróg, możesz pełnić w tej
+rozmowie rolę „głosu z przeszłości odzywającego
+się w umysłach” Postaci Graczy.
+Gdy kurs zostanie obrany, a plan opracowany, oto
+na co natrafi ą, gdy wejdą do Magazynu.
+▶ Dyplomacja◀
+Dyplomacja siłą rzeczy zakłada nawiązanie jakiejś
+formy dialogu, a co za tym idzie, niejako „wystawienie
+się na strzał”. Upewnij się, kto będzie szczęśliwcem,
+któremu przypadnie zaszczyt bycia posłem, a kto
+(i co ważniejsze, w jaki sposób) zamierza zająć
+pozycję jako wsparcie, osłona czy bezpośredni
+ochroniarz. Nie ma w końcu powodu, dla którego
+cała drużyna miałaby zdradzać swoje pozycje.
+Jednocześnie osoby, które zajmują ukryte stanowiska,
+nie mogą tak sobie po prostu wtrącić się w środku
+rozmowy z jakąś świetlistą ideą. A Gracze mogą mieć
+takie pomysły, zwłaszcza jeżeli negocjacje nie będą
+rozwijać się na korzyść ekipy. Po nawiązaniu kontaktu
+i ujawnieniu się Postaci z ekipy, która występuje w roli
+negocjatora, policjanci wyślą na spotkanie swojego
+człowieka. To świetna chwila, żeby wprowadzić
+tu kolejną postać związaną ze Ścieżkami Życia
+Postaci Graczy. Może niech to będzie czyjś Przyjaciel
+albo Rodzina. Albo nawet lepiej! Niech to będzie
+dokładnie ten Wróg, który wystawił ekipę na strzał!
+Jeżeli wcześniej Gracze okazali się litościwi (albo
+policjanci wyjątkowo sprawni w salwowaniu się
+ucieczką), możesz zaangażować w scenę jednego
+z ocalałych z zasadzki funkcjonariuszy, na przykład
+jako ochroniarza negocjatora. Ekipa już pokazała, że
+potrafi kąsać, i to boleśnie. Nikomu zatem na dłuższą
+metę nie zależy na kontynuowaniu tej szarpaniny.
+Skorumpowani gliniarze zaoferują podział fi fty-fi fty
+i porzucenie wzajemnych wrogich działań. Koniec
+końców cały ten ambaras trzeba będzie zatuszować
+i pokryć wydatki medyczne tych nieszczęsnych
+dupków, których pokiereszowały Postacie Graczy.
+Jeżeli ekipa przystanie na tę propozycję, nie trzeba
+na nic rzucać i wszyscy rozchodzą się do domów
+z poczuciem kolosalnej straty czasu, ale za to w jednym
+kawałku. Dla pewności negocjator ekipy może jeszcze
+potwierdzić autentyczność swojej połowy banknotów
+Testem Fałszerstwa o PT 13. Alternatywnie, Postacie
+Graczy mogą chcieć się targować. Negocjator może
+spróbować Testu Perswazji. PT testu zależy od wielu
+czynników, ale rozsądnym będzie, jeżeli będzie
+się mieścić w przedziale 15–17, gdzie ta wyższa
+wartość niech zagra w sytuacji, gdy oferta jest
+oburzająca. Jeżeli Perswazja zawiedzie, rozpoczyna
+się Konfrontacja [STRONA 23] między negocjatorami
+obu stron. Wysłannik policjantów posiada bonus +8 do
+39
+EASY MODE
+swojego rzutu k10. Jeżeli Postać Gracza nie odniesie
+sukcesu, skorumpowani stróże prawa podbiją stawkę,
+oferując zwrot 30% zrabowanej kasy. Odrzucenie tej
+oferty oznacza odpał (czyli przechodzimy do opcji
+Eliminacja). Jeżeli Postać Gracza wygra, gliniarze
+ulegną i zaakceptują kontrofertę bez dalszego
+gadania, a dodatkowo, jeżeli na negocjatora została
+wybrana Rockerka, to negocjator lub jego ochroniarz
+(albo obaj) są wielkimi fanami jej muzyki.
+▶ Eliminacja◀
+Eliminacja i przemoc w ogóle to stosunkowo
+nieskomplikowana sprawa. Wchodzisz, robisz
+piu-piu i komuś dzieje się krzywda. Jednakże! Drogi
+Mistrzu Gry, to jest Cyberpunk i chcemy, alby starcie
+było harde i ostre, choćby do przesady. I jak to
+zrobimy? Po pierwsze, posłuchaj, jak twoi Gracze
+chcą się zabrać za szturm na budynek, i przygotuj
+się na to odpowiednio, stopniując napięcie. Na
+pierwszy rzut oka (czy granatu błyskowego w tym
+przypadku) opozycja powinna wydawać się słaba
+i zdezorganizowana. Ot, kilku krawężników (ilość
+Graczy +2), którzy trochę pogubili się w swoich
+wyborach życiowych. Dodatkowo wszyscy, którzy
+przeżyli zasadzkę i dali radę uciec, powinni znaleźć
+się w tej scenie (z ilością PW, z którą opuścili
+poprzednią w takim pośpiechu). Dla potrzeb tego
+starcia zakładamy, że odniesione Rany Krytyczne
+zostały Połatane. Gdy jednak wybije początek
+drugiej rundy starcia, obrońcy zostaną wsparci
+przez kawalerię! Wprowadź do walki dodatkowego
+przeciwnika, który zaszarżuje na motorze przez okno
+(albo wyłamując któreś z drzwi). Czy już domyślasz
+się, że dobrze by było, aby nasz techno-Zorro był
+postacią ze Ścieżki Życia którejś z Postaci Graczy?
+Tak myślałem – szybko łapiesz. Użyj na potrzeby
+tego złodupca statystyk Skorumpowanego Gliny, tak
+jak w przypadku reszty, ale niech otrzyma też coś, co
+wyniesie go do rangi Bossa tego rajdu (a dokładniej
+Karabin szturmowy, Pancerz zapewniający OB 11,
+Ruch 20 i zdolność wyczynowego prowadzenia
+motoru bez użycia rąk). Więc gdy mamy teraz
+dzikiego jeźdźca prującego na prawo i lewo
+z Karabinu szturmowego, ciasne przejścia między
+kontenerami i skrzyniami w magazynie zamienią
+się w arenę igrzysk ognia i ołowiu – dokładnie tak,
+jak byśmy sobie życzyli! Ponadto gliniarze wiedzą,
+że tym razem nie ma już gdzie uciekać, więc będą
+walczyć do śmierci. Daj Graczom odczuć, że ich
+przeciwnicy nie zamierzają tanio sprzedać skóry.
+▶ Infi ltracja◀
+Zrobienie operacji po cichu, to znaczy podwędzenie
+kasy bez alarmowania obecnych w budynku
+policjantów, nie jest łatwą operacją. Co nie znaczy,
+że jest niemożliwe. Teoretycznie możliwe jest
+wszystko, ale dla pewności bądź tak miły dla swoich
+Graczy i przypomnij im, do czego służy Cecha
+Szczęście (o ile do tej pory nie wypstrykali się już
+z całego swojego zapasu na tę sesję). Samo wejście
+na cicho wymaga Testu Skradania się o PT 17. Gdy
+ekipa już dostanie się do środka, znalezienie kasy
+nie powinno nastręczyć im zbyt wielu trudności. To
+wyciągnięcie jej stamtąd jest faktycznym wyzwaniem.
+Oto bowiem hajs, jak to na hajs przystało, znajduje
+się wewnątrz szafy pancernej, do której dostanie się
+wymaga udanego Testu Elektroniki i zabezpieczeń
+o PT 15 albo Otwierania zamków PT 17. Jest również
+opcja podwędzenia klucza jednemu z wartowników
+Testem Kieszonkostwa o PT 15. Dzierżąc dumnie
+swoje ponownie ciężko ukradzione pieniądze, trzeba
+jeszcze wyślizgnąć się na zewnątrz, zdając Test
+Skradania się o PT 15. Jeżeli wszystko pójdzie gładko
+– hurra, jesteście bogaci… No cóż, bogatsi. Ale nie
+warto przywiązywać się do tej idei. Coś pójdzie
+niegładko, szorstko wręcz, a wtedy szykujcie się na
+bonanzę. Przechodzimy wtedy do omówionego już
+scenariusza Eliminacji. Niemniej, jako że tym razem
+Postacie Graczy nie poczyniły szeroko zakrojonych
+przygotowań do starcia, możesz im odpuścić cyber-
+Zorro… chyba że bardzo chcesz im nie odpuszczać.
+Cyber-Zorro się nie pogniewa za trochę akcji.
+▶ Czwarta opcja ◀
+Może być i tak, że w inkubatorach mózgów twoich
+Graczy zalęgnie się jakiś pomysł, o którym fi lozofom
+się nie śniło. Dobra wiadomość w takiej sytuacji
+brzmi: świętuj, oto bowiem twoi Gracze odwalili za
+ciebie większość roboty, bo sami zaproponują, co,
+kiedy i jak będą testować. Ty tylko musisz ustalić,
+jak trudne to będzie. Po prostu popłyń z tym, nawet
+jeżeli plan będzie odrobinkę niedorobiony. A
+zaprawdę, zaprawdę powiadam ci! Twoi Gracze
+będą cię za to wielbić! I nie wahaj się rzucić
+im, w trakcie realizacji słodkiego dziecięcia ich
+kreatywności, paru drobnych kłód pod nogi. Nic tak
+40
+EASY MODE
+nie podnosi stawki jak wrzucony od czasu do czasu
+test (odpowiadający sytuacji) o PT 15 albo więcej.
+A na ostateczny „grande fi nale” (czymkolwiek by on
+nie miał być) zarezerwuj kilka testów o PT 17 jako
+ostateczne starcie z nieugiętością materii. Punkty
+dodatkowe zostaną ci przyznane za wplecenie
+w to wszystko jakichś wąteczków zahaczających
+o Ścieżki Życia Postaci Graczy. Możliwe, że okaże
+się (no nie oszukujmy się, najprawdopodobniej
+właśnie tak się okaże), że przemoc zagości
+w planie jako zamierzony czy niezamierzony
+element. W takiej sytuacji po prostu skorzystaj
+z informacji zawartych w opcji Eliminacji. Choć,
+po namyśle, w takim wypadku rzeczywiście
+odpuść im cyber-Zorro. Ich plan zapewne będzie
+już wystarczająco pogięty, aby nie trzeba było
+dokładać do pieca. Jakkolwiek się to nie potoczy,
+jednego możesz być pewny – Gracze będą się czuć
+spełnieni i podekscytowani, że zrealizowali swój
+pomysł i napisali własne zakończenie dla tej historii.
+RESOLUTION: CONSEQUENCES
+No i dobra, mamy to. W którąkolwiek stronę cały ten
+bałagan powędrował, Postacie Graczy otrzymały
+swoją wypłatę. Jedyne pytanie, które wymaga
+odpowiedzi, dotyczy konsekwencji ich poczynań.
+Najw iększą ilością komplikacji zaowocuje obrót
+wydarzeń, w którym Gracze nie zdecydowali się
+na opcję dyplomatyczną albo pozostawili przy
+życiu któregokolwiek ze skorumpowanych gliniarzy.
+W takiej sytuacji wszyscy jak jeden mąż i żona mogą
+się poszczycić tłuściutką nagrodą za swoje głowy
+w wysokości 1000 edków. Wyjątek stanowi osoba,
+która odebrała od Houstona walizkę w owej pamiętnej
+alei w Heywood. Ta szczęśliwa persona warta jest
+2000 eurodolarów! Dobrze być cenionym, nie? A że
+nieważne, jak mówią, ważne, że mówią, Rockerka,
+która ma wyznaczoną nagrodę za swoją głowę, może
+spodziewać się znaczącego wzrostu sprzedaży swoich
+dzieł. Dorzuć jej jakiś bonus w Reputacji – w końcu ma
+darmową reklamę i szacun na dzielni. Każdy Media,
+za którego głowę wyznaczono nagrodę, powinien
+otrzymać dwa poziomy Reputacji. Powszechnie
+bowiem wiadomo, że jeżeli ktoś chce zabić danego
+reportera, to ten reporter zapewne stanowi rzetelne
+źródło informacji – zwłaszcza jeśli w chęć zabijania
+zaangażowane są organy rządowe. Medyk zapewne
+zarobił sobie solidną przysługę u Lazlo i to na twoich
+barkach spoczywa obowiązek przedstawienia efektów
+tej przysługi jako czegoś naprawdę solidnego w ramach
+następnej przygody z udziałem tej Postaci. W samym
+epilogu powinny pojawić się także postacie związane
+ze Ścieżkami Życia Postaci Graczy, które miały okazję
+odegrać jakąś rolę w tej przygodzie (o ile przeżyły,
+rzecz jasna). Niechaj Przyjaciele świętują wspólnie
+z bohaterami doniosły triumf nad przeciwnościami,
+a Wrogowie przez zaciśnięte zęby ślubują krwawą
+zemstę, zanurzając się w cienie Ulicy.
+▶ SZ
+▶ WILL
+▶ RUCH
+▶ BC
+▶ EMP
+▶ CHA
+▶ TECH
+▶ ZW
+▶ REF
+▶ INT
+3
+6
+5
+2
+4
+4
+—
+4
+6
+3
+▶ PRZEŻYWALNOŚĆ
+▶ POWAŻNIE RANNY
+▶ SW
+35
+18
+6
+� ARMOR
+6
+Pancerz: Kevlar®
+OB
+7
+Broń
+Bardzo ciężki pistolet
+4k6
+▶ BAZY
+UMIEJĘTNOŚCI
+Atletyka 9, Bijatyka 11, Broń długa 12, Broń krótka 12, Edukacja 5, Koncentracja 6, Konwersacja 5,
+Odczytywanie emocji 5, Odporność na tortury/narkotyki 8, Percepcja 9, Perswazja 10, Pierwsza
+pomoc 4, Prowadzenie pojazdów 10, Przesłuchiwanie 6, Skradanie się 7, Unik 7, Wiedza lokalna 5
+▶ CYBORGIZACJE ORAZ WYP. SPEC
+Amunicja do Bardzo ciężkiego pistoletu x16,
+Radiokomunikator (pozwala na komunikację z resztą Skorumpowanych Gliniarzy)
+Skorumpowany Gliniarz
+Użyj tej rozpiski dla wszystkich Skorumpowanych Glin pojawiających się w tym
+scenariuszu. Wartość Cech została już podsumowana w ramach Bazy Umiejętności.
+uMiejętnoŚci
+Umiejętność
+Cecha
+POZ
+BAZA
+Atletyka
+7
+2
+9
+Bijatyka
+7
+6
+13
+Komponowanie
+5
+6
+11
+Koncentracja
+8
+2
+10
+Konwersacja
+6
+2
+8
+Wykształcenie
+5
+2
+7
+Unik
+7
+6
+13
+Pierwsza pomoc
+5
+6
+11
+Broń krótka
+6
+6
+12
+Umiejętność
+Cecha
+POZ
+BAZA
+Odczytywanie emocji
+6
+6
+12
+Wiedza lokalna
+5
+4
+9
+Broń biała
+7
+6
+13
+Percepcja
+5
+2
+7
+Perswazja
+7
+6
+13
+Gra na instrumencie
+5
+6
+11
+Skradanie się
+7
+2
+9
+Znajomość półświatka
+7
+6
+13
+Moda i styl
+7
+4
+11
+▶ ksywa
+▶ rola
+▶ Pw
+▶ Poważnie ranny
+▶ PrzeżywalnoŚć
+▶ sz
+▶ sw
+▶ ruch
+▶ bc
+▶ emP
+▶ cha
+▶ Tech
+▶ zw
+▶ reF
+▶ inT
+Z
+Z
+▶ PenalTy aPPlies To reF,deX & moVe
+broń i pANCERZ
+Broń
+OBR.
+Amunicja
+LA
+Uwagi
+Bardzo ciężki pistolet
+4k6
+8
+1
+Zapas amunicji: 16 naboi.
+Duża broń biała
+3k6
+—
+2
+Miecz lub kij baseballowy. Twój wybór.
+Pancerz
+OB
+Lekka kurtka kuloodporna
+11
+cyborgizacje
+Agent wewnętrzny
+Masz w głowie samodostosowujący się smartfon operowany przez SI, sterowany
+całkowicie za pomocą poleceń głosowych.
++
+=
+Forty
+Rockerka
+5
+6
+7
+5
+7
+8
+7
+3
+6
+5
+zdolnoŚć specjalna
+Efekt Charyzmy
+sPRZĘT
+Nazwa
+Uwagi
+Instrument muzyczny
+wybór gracza
+Wzmacniacz kieszonkowy
+wzmacnia instrument muzyczny
+Farba świecąca
+farba w sprayu świecąca w ciemności
+Kamera wideo
+nagrywa do 12 godzin
+40
+20
+3
++
+=
+Potrafi sz rozpoznać, kiedy ktoś jest twoim fanem,
+i otrzymujesz +2 do Testów Umiejętności opartych
+na CHA i EMP w stosunku do tych osób. Dotyczy
+to także Konfrontacji.
+Cybersynaptyczny edytor bólu
+Jesteś w stanie odciąć impulsy płynące normalnie z receptorów bólu, co pozwala ci ignorować
+standardową karę -2 do wyników swoich Testów wynikającą ze stanu Poważnie ranny.
+▶ NOTATKI
+POZ
+BAZA
+6
+12
+4
+9
+6
+13
+2
+7
+6
+13
+6
+11
+2
+9
+6
+13
+4
+11
+Zapas amunicji: 16 naboi.
+Miecz lub kij baseballowy. Twój wybór.
+Uwagi
+wybór gracza
+wzmacnia instrument muzyczny
+farba w sprayu świecąca w ciemności
+Nagrywa do 12 godzin
+=
+NOTATKI
+Umiejętność
+Cecha + POZ = BAZA
+Odczytywanie emocji
+6
+6
+12
+Percepcja
+5
+2
+7
+Perswazja
+7
+6
+13
+Pierwsza pomoc
+5
+6
+11
+Skradanie się
+7
+2
+9
+Unik
+7
+6
+13
+Wiedza lokalna
+5
+4
+9
+Wykształcenie
+5
+2
+7
+Znajomość półświatka
+7
+6
+13
+Umiejętność
+Cecha + POZ = BAZA
+Atletyka
+7
+2
+9
+Bijatyka
+7
+6
+13
+Broń biała
+7
+6
+13
+Broń krótka
+6
+6
+12
+Gra na instrumencie
+5
+6
+11
+Komponowanie
+5
+6
+11
+Koncentracja
+8
+2
+10
+Konwersacja
+6
+2
+8
+Moda i styl
+7
+4
+11
+▶ Fryzura
+▶ znaki szczególne
+▶ co cenisz najbardziej
+▶ co zwykle sądzisz o ludziach
+▶ Tło rodzinne
+▶ Środowisko dorasTania
+▶ kryzys rodzinny
+▶ Przyjaciele
+▶ Tragiczne hisTorie miłosne
+▶ wrogowie
+▶ cele życiowe
+Przyczyna konfliktu
+W przypadku spotkania strona
+poszkodowana zamierza
+Kto to?
+Ścieżka życia
+▶ osobowoŚć
+▶ sTyl ubioru
+▶ region kulTurowy
+▶ noTaTki i dodaTkowe inFormacje:
+Jeśli muzyka jest twoim życiem, to dobrze trafiłaś. Jako Rockerka jesteś poetką
+ulicy, sumieniem społeczeństwa, buntowniczką Czasu Czerwieni. Dzięki takim
+wynalazkom jak cyfrowe portastudio i garażowa obróbka dźwięku każda Rockerka
+i każdy Rocker mogą zaprezentować swą twórczość Ulicy, wrzucić nagrania
+do sklepów i satelitami rozlać po świecie. Jednak czasem mówisz coś, co nie podoba
+się Korporacjom lub władzom. Czasem twoje teksty walą po twarzy możnych tego
+świata lub tych, którzy naprawdę pragną władzy. Wisi ci to, bo jesteś Rockerką
+i wiesz, że rzucanie wyzwania władzom to twoja misja – czy robisz to za pomocą
+protest songów, mówiących, jak jest, czy grasz odjazdowego rocka, żeby oderwać
+ludzi od ekranów i przyciągnąć na Ulice, czy rozpalasz tłumy przemowami albo
+tworzysz pełne ognia eseje, kształtujące serca i umysły milionów. Rockerzy mają
+długą i dumną historię. Dylan, Springsteen, U2, NWA, the Who, Jettsi, Stonesi
+– zastępy herosów rocka, którzy szerzyli prawdę za pomocą wrzasku gitar
+i walących po twarzy tekstów. Masz moc porywania ludzi za sobą, przewodzisz,
+inspirujesz, informujesz. Dajesz odwagę nieśmiałym, siłę słabym i wzrok ślepcom.
+Legendarni Rockerzy, tacy jak Johnny Silverhand, Rockerboy Manson (od którego
+imienia pochodzi nazwa tej Roli) i Kerry Eurodyne, prowadzili armie przeciwko
+Korporacjom i rządom. Rockerzy ujawniali korupcję i obalali dyktatury. To potęga
+jak na kogoś, kto co noc daje koncert w innym mieście. Ale dasz sobie radę. Jak by
+nie patrzeć, jesteś tu, żeby grać!
+ROCKERKA
+“Mój stary próbował Muzykować przed wojną. korporacje złapały
+“Mój stary próbował Muzykować przed wojną. korporacje złapały
+go w swe szpony, wyssały do cna i wypluły, by uMarł na ulicy. teraz
+go w swe szpony, wyssały do cna i wypluły, by uMarł na ulicy. teraz
+jest inaczej. piszę własne teksty i własne aranżacje, saMa wszystko
+jest inaczej. piszę własne teksty i własne aranżacje, saMa wszystko
+nagrywaM, a poteM wrzucaM do banku danych. i wszystko bez „poMocy”
+nagrywaM, a poteM wrzucaM do banku danych. i wszystko bez „poMocy”
+korpo. w wielkich salach koncertowych tłuMy jeszcze nie szaleją na MoiM
+korpo. w wielkich salach koncertowych tłuMy jeszcze nie szaleją na MoiM
+punkcie, ale MaM fanów i nie Muszę iŚć na koMproMisy. Mówię ludzioM, co
+punkcie, ale MaM fanów i nie Muszę iŚć na koMproMisy. Mówię ludzioM, co
+MyŚlę. tak jak pierwsi rockerzy, swoją Muzyką pokazuję faka każdeMu
+MyŚlę. tak jak pierwsi rockerzy, swoją Muzyką pokazuję faka każdeMu
+żądneMu władzy garniakowi, MyŚląceMu, że Może rządzić ŚwiateM”.
+żądneMu władzy garniakowi, MyŚląceMu, że Może rządzić ŚwiateM”.
+Forty, Rockerka
+Forty, Rockerka
+Umiejętność
+Cecha
+POZ
+BAZA
+Atletyka
+6
+2
+8
+Bijatyka
+6
+2
+8
+Ukrycie/Znalezienie przedmiotu
+7
+8
+17
+Koncentracja
+6
+2
+8
+Konwersacja
+3
+2
+5
+Wykształcenie
+7
+2
+9
+Unik
+6
+6
+12
+Pierwsza pomoc
+5
+6
+11
+Broń krótka
+7
+6
+13
+Umiejętność
+Cecha
+POZ
+BAZA
+Odczytywanie emocji
+3
+2
+5
+Przesłuchiwanie
+7
+6
+13
+Wiedza lokalna
+7
+2
+9
+Percepcja
+7
+8
+15
+Perswazja
+7
+2
+9
+Odporność na tortury/narkotyki
+6
+6
+12
+Broń długa
+7
+6
+13
+Skradanie się
+6
+6
+12
+Taktyka
+7
+6
+13
+▶ PenalTy aPPlies To reF,deX & moVe
+Broń
+OBR.
+Amunicja
+LA
+Uwagi
+Strzelba
+5k6
+4
+1
+Zapas amunicji: 8 naboi.
+Karabin szturmowy
+5k6
+25
+1
+Zapas amunicji: 25 naboi.
+Pancerz
+OB
+Lekka kurtka kuloodporna
+11
+Cyberoko: Wzmacnianie obrazu
+Twój wzrok jest znacząco lepszy niż zwykłego człowieka, dzięki czemu posiadasz +2
+do percepcji, Ukrycia/znalezienia przedmiotu (wartość już uwzględniona powyżej).
++
+=
+Mover
+Solo
+7
+7
+6
+5
+7
+6
+7
+7
+3
+6
+Zmysł Walki
+Nazwa
+Uwagi
+Jednorazowy telefon komórkowy
+łatwo się go pozbyć
+45
+23
+7
++
+=
+Otrzymujesz +4 do wszystkich swoich
+Testów Inicjatywy.
+Cyber oko: Teleoptyka
+Możesz zobaczyć szczegóły z odległości do 800 m/yds.
+uMiejętnoŚci
+▶ ksywa
+▶ rola
+▶ Pw
+▶ Poważnie ranny
+▶ PrzeżywalnoŚć
+▶ sz
+▶ sw
+▶ ruch
+▶ bc
+▶ emP
+▶ cha
+▶ Tech
+▶ zw
+▶ reF
+▶ inT
+broń i pANCERZ
+cyborgizacje
+zdolnoŚć specjalna
+sPRZĘT
+▶ NOTATKI
+Z
+Z
+Umiejętność
+Cecha + POZ = BAZA
+Perswazja
+7
+2
+9
+Pierwsza pomoc
+5
+6
+11
+Przesłuchiwanie
+7
+6
+13
+Skradanie się
+6
+6
+12
+Taktyka
+7
+6
+13
+Ukrycie/Znalezie przedmiotu
+7
+8
+17
+Unik
+6
+6
+12
+Wiedza lokalna
+7
+2
+9
+Wykształcenie
+7
+2
+9
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+9
+11
+13
+12
+13
+17
+12
+9
+9
+Umiejętność
+Cecha + POZ = BAZA
+Atletyka
+6
+2
+8
+Bijatyka
+6
+2
+8
+Broń długa
+7
+6
+13
+Broń krótka
+7
+6
+13
+Koncentracja
+6
+2
+8
+Konwersacja
+3
+2
+5
+Odczytywanie emocji
+3
+2
+5
+Odporność na tortury/narkotyki
+6
+6
+12
+Percepcja
+7
+8
+15
+Odrodziłeś się z gnatem w garści – tej z mięsa i krwi, a nie tej metalowej potworności
+na stałe dośrubowanej do resztek tego co było kiedyś twoim drugim ramieniem. Czy
+jesteś najemnym ochroniarzem lub zabójcą, czy jako korporacyjny cyberżołnierz
+nakłaniasz innych do zawierania korzystnych dla twojego pracodawcy umów lub
+bierzesz udział w nielegalnych operacjach, jesteś elitarną maszyną stworzoną
+do walki. Większość Solo przeszła szkolenie wojskowe w czasie Czwartej Wojny
+Korporacji, służąc w Korpoarmii lub biorąc udział w rządowych „działaniach
+porządkowych” na terenie kraju. W miarę zdobywania kolejnych blizn zaczynasz
+coraz bardziej polegać na technologii: broń i pancerz zostają wbudowane
+w cyberkończyny, czipy z bioprogramami zwiększają szybkość reakcji i czujność,
+narkotyki bojowe dają przewagę nad wrogiem. A gdy jesteś najlepszym
+z najlepszych, możesz pokusić się o opuszczenie szeregów korporacyjnych samurajów
+i stać się roninem, za sowitą opłatą sprzedając swe mordercze usługi jako zabójca,
+ochroniarz lub bardzo przekonujący gość. Brzmi dobrze? Takie życie kosztuje
+– i to dużo. Straciłeś już tyle swojego własnego ciała, że jesteś bardziej maszyną
+niż człowiekiem. Jesteś tak nakręcony dopalaczami refleksu, że każda chwila to walka
+o niewpadnięcie w szał. Aby być lepszym od przeciwników, latami szprycowałeś
+się prochami bojowymi, co skończyło się potężnym uzależnieniem. Niewielu jest
+takich, którym wciąż ufasz. Jedną noc spędzasz w luksusowym apartamencie
+na szczycie wieżowca w mieście, a następną w brudnym zaułku, gdzieś na Ulicy.
+To cena za bycie najlepszym. I jesteś gotów ją zapłacić. Ponieważ jesteś Solo.
+SOLO
+“dlaczego poszedłeM w kaMasze? byłeM zMęczony ciągłyM głodeM i biedą.
+“dlaczego poszedłeM w kaMasze? byłeM zMęczony ciągłyM głodeM i biedą.
+kiedy Militech zaoferował trzy posiłki dziennie i pryczę, nie zastanawiałeM
+kiedy Militech zaoferował trzy posiłki dziennie i pryczę, nie zastanawiałeM
+się długo. pierwsze dwie akcje nie były złe. trzecia się posypała. nie wiedzieć
+się długo. pierwsze dwie akcje nie były złe. trzecia się posypała. nie wiedzieć
+czeMu, wysłali oddział żółtodziobów przeciw grupie w pełni scyborgizowanych
+czeMu, wysłali oddział żółtodziobów przeciw grupie w pełni scyborgizowanych
+skurwieli. przeżyło nas tylko dwóch. po wojnie wziąłeM nowy chroM,
+skurwieli. przeżyło nas tylko dwóch. po wojnie wziąłeM nowy chroM,
+który dali Mi korporacyjni Medycy, i zacząłeM działać na własną rękę.
+który dali Mi korporacyjni Medycy, i zacząłeM działać na własną rękę.
+okazało się, że w wypalonyM do cna, odbudowującyM się MieŚcie dużo
+okazało się, że w wypalonyM do cna, odbudowującyM się MieŚcie dużo
+ludzi było gotowych zapłacić za pewne uMiejętnoŚci. takie jak Moje”.
+ludzi było gotowych zapłacić za pewne uMiejętnoŚci. takie jak Moje”.
+Abril „Mover” Montella, Najemnik
+Abril „Mover” Montella, Najemnik
+▶ Fryzura
+▶ znaki szczególne
+▶ co cenisz najbardziej
+▶ co zwykle sądzisz o ludziach
+▶ Tło rodzinne
+▶ Środowisko dorasTania
+▶ kryzys rodzinny
+▶ Przyjaciele
+▶ Tragiczne hisTorie miłosne
+▶ wrogowie
+▶ cele życiowe
+Przyczyna konfliktu
+W przypadku spotkania strona
+poszkodowana zamierza
+Kto to?
+Ścieżka życia
+▶ osobowoŚć
+▶ sTyl ubioru
+▶ region kulTurowy
+▶ noTaTki i dodaTkowe inFormacje:
+Umiejętność
+Cecha
+POZ
+BAZA
+Atletyka
+5
+2
+7
+Bijatyka
+5
+2
+7
+Koncentracja
+3
+2
+5
+Konwersacja
+5
+2
+7
+Wykształcenie
+8
+6
+14
+Elektronika/zabezpieczenia (×2)
+6
+10
+16
+Unik
+5
+6
+11
+Pierwsza pomoc
+6
+6
+12
+Fałszerstwo
+6
+6
+12
+Umiejętność
+Cecha
+POZ
+BAZA
+Broń krótka
+7
+6
+13
+Odczytywanie emocji
+5
+2
+7
+Wiedza lokalna
+8
+2
+10
+Percepcja
+8
+2
+10
+Perswazja
+3
+2
+5
+Otwieranie zamków
+6
+6
+12
+Kieszonkostwo
+6
+6
+12
+Broń długa
+7
+6
+13
+Skradanie się
+5
+6
+11
+▶ PenalTy aPPlies To reF,deX & moVe
+Broń
+OBR.
+Amunicja
+LA
+Uwagi
+Ciężki pistolet
+3k6
+8
+2
+Zapas amunicji: 16 naboi.
+Strzelba
+5k6
+4
+1
+Zapas amunicji: 8 naboi.
+Pancerz
+OB
+Lekka kurtka kuloodporna
+11
+Dłoń z narzędziami
+W palce wmontowane masz wszystkie narzędzia, które mogą ci się przydać w
+terenie: śrubokręt, klucz, mała wiertarka i inne.
++
+=
+Torch
+Technik
+8
+7
+5
+6
+3
+3
+6
+6
+5
+7
+Twórca
+Nazwa
+Uwagi
+Mocna taśma klejąca
+idealna do napraw wszelakich
+Latarka
+wiązka światła o długości 100 m/yd
+Flara drogowa
+oświetla obszar w promieniu 100 m/yd
+35
+18
+6
++
+=
+Otrzymujesz +4 do Testów na Elektron-
+ikę/zabezpieczenia (już uwzględni-
+one powyżej).
+Agent wewnętrzny
+Masz w głowie samodostosowujący się smartfon operowany przez SI, sterowany
+całkowicie za pomocą poleceń głosowych.
+uMiejętnoŚci
+▶ ksywa
+▶ rola
+▶ Pw
+▶ Poważnie ranny
+▶ PrzeżywalnoŚć
+▶ sz
+▶ sw
+▶ ruch
+▶ bc
+▶ emP
+▶ cha
+▶ Tech
+▶ zw
+▶ reF
+▶ inT
+broń i pANCERZ
+cyborgizacje
+zdolnoŚć specjalna
+sPRZĘT
+▶ NOTATKI
+Z
+Z
+Umiejętność
+Cecha + POZ = BAZA
+Odczytywanie emocji
+5
+2
+7
+Otwieranie zamków
+6
+6
+12
+Percepcja
+8
+2
+10
+Perswazja
+3
+2
+5
+Pierwsza pomoc
+6
+6
+12
+Skradanie się
+5
+6
+11
+Unik
+5
+6
+11
+Wiedza lokalna
+8
+2
+10
+Wykształcenie
+8
+6
+14
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+7
+12
+10
+5
+12
+11
+11
+10
+14
+Umiejętność
+Cecha + POZ = BAZA
+Atletyka
+5
+2
+7
+Bijatyka
+5
+2
+7
+Broń długa
+7
+6
+13
+Broń krótka
+7
+6
+13
+Elektronika/Zabezpieczenia (x2)
+6
+10
+16
+Fałszerstwo
+6
+6
+12
+Kieszonkostwo
+6
+6
+12
+Koncentracja
+3
+2
+5
+Konwersacja
+5
+2
+7
+Nie potrafisz utrzymać rąk przy sobie. Jeśli coś leży obok ciebie dłużej niż pięć
+minut, rozbierasz to na części i robisz z nich coś nowego. W kieszeniach zawsze
+masz co najmniej dwa śrubokręty i klucz francuski. Komputer nie działa? Żaden
+problem. Piec wodorowy wysiadł w metroaucie? Żaden problem. Nie możesz
+odtworzyć filmu albo masz zakłócenia interfejsu? Żaden problem. Zarabiasz na
+życie, budując, naprawiając i modyfikując. Twoja profesja stanowi fundament
+zależnego od technologii świata, który podnosi się po wojnie. A łatwo nie jest
+– konflikt zniszczył łańcuchy dostaw i trudno o nowe rzeczy. Możesz nieźle zarobić,
+naprawiając sprzęty użytku codziennego, ale tylko poważne zadania pozwolą
+ci zarobić naprawdę dużo. Nielegalna broń. Nielegalne lub kradzione cybertech-
+nologie. Szpiegostwo przemysłowe lub obrona przed nim i sprzęt do „czarnych”
+działań. Jeśliś coś wart, sporo zarobisz. A hajs wydasz na nowe gadżety, sprzęt
+i informacje. Czarnorynkowa działalność przysparza ci przyjaciół, ale i całe
+zastępy wrogów, więc inwestujesz gruby szmal w systemy obronne, a jeśli fakty-
+cznie znajdziesz się pod ścianą, wzywasz na pomoc wiszącego ci przysługę Solo
+lub dwóch. Naprawiałeś fanty dla wszystkich, od Korposamurajów na nielegalnych
+misjach do pani Zepady piętro niżej. Nikt nigdy nie wrócił z reklamacją, ale być
+może to z powodu wieżyczek strzegących twoich drzwi. Jesteś uzależniony od
+technologii wszelkiego kształtu i rodzaju, i to właśnie czyni cię Technikiem.
+TECHNIK
+“to, że Świat unurzał się w gównie i zostaliŚMy na lodzie, nie znaczy, że
+“to, że Świat unurzał się w gównie i zostaliŚMy na lodzie, nie znaczy, że
+dużo się zMieniło. życie w MieŚcie wciąż zależy od technologii, bo tylko ona
+dużo się zMieniło. życie w MieŚcie wciąż zależy od technologii, bo tylko ona
+powstrzyMuje nadejŚcie prawdziwej postapokaliptycznej rzeczywistoŚci.
+powstrzyMuje nadejŚcie prawdziwej postapokaliptycznej rzeczywistoŚci.
+a to znaczy, że los wszystkich zależy ode Mnie. jeŚli zepsuje się twój
+a to znaczy, że los wszystkich zależy ode Mnie. jeŚli zepsuje się twój
+blender, zapewne tygodniaMi będziesz polować na nowy na MiejscowyM
+blender, zapewne tygodniaMi będziesz polować na nowy na MiejscowyM
+nocnyM. albo nawet MiesiącaMi. i to zakładając, że Masz dobre układy ze
+nocnyM. albo nawet MiesiącaMi. i to zakładając, że Masz dobre układy ze
+swoiM fixereM i będzie Mu się chciało zaprosić cię na targ. a ja tu sobie
+swoiM fixereM i będzie Mu się chciało zaprosić cię na targ. a ja tu sobie
+spokojnie czekaM i chętnie naprawię twój blender. i agenta. i co taM
+spokojnie czekaM i chętnie naprawię twój blender. i agenta. i co taM
+jeszcze Masz. technologia jest krwiobiegieM tego Miasta, a ja? ja jesteM
+jeszcze Masz. technologia jest krwiobiegieM tego Miasta, a ja? ja jesteM
+bijącyM serceM poMpującyM tę krew. no, przynajMniej w tej dzielnicy”.
+bijącyM serceM poMpującyM tę krew. no, przynajMniej w tej dzielnicy”.
+João „Latara” Barbosa Alves, właściciel Totalnych Napraw Latary
+João „Latara” Barbosa Alves, właściciel Totalnych Napraw Latary
+▶ Fryzura
+▶ znaki szczególne
+▶ co cenisz najbardziej
+▶ co zwykle sądzisz o ludziach
+▶ Tło rodzinne
+▶ Środowisko dorasTania
+▶ kryzys rodzinny
+▶ Przyjaciele
+▶ Tragiczne hisTorie miłosne
+▶ wrogowie
+▶ cele życiowe
+Przyczyna konfliktu
+W przypadku spotkania strona
+poszkodowana zamierza
+Kto to?
+Ścieżka życia
+▶ osobowoŚć
+▶ sTyl ubioru
+▶ region kulTurowy
+▶ noTaTki i dodaTkowe inFormacje:
+Umiejętność
+Cecha
+POZ
+BAZA
+Atletyka
+5
+2
+7
+Bijatyka
+5
+2
+7
+Koncentracja
+5
+2
+7
+Konwersacja
+4
+6
+10
+Dedukcja
+8
+6
+14
+Wykształcenie
+8
+6
+14
+Elektronika/zabezpieczenia (×2)
+8
+4
+12
+Unik
+5
+6
+11
+Pierwsza pomoc
+8
+2
+10
+Umiejętność
+Cecha
+POZ
+BAZA
+Odczytywanie emocji
+4
+6
+10
+Wiedza lokalna
+8
+2
+10
+Ratownictwo medyczne (×2)
+8
+6
+14
+Percepcja
+8
+6
+14
+Perswazja
+5
+5
+10
+Odporność na tortury/narkotyki
+5
+4
+9
+Broń długa
+5
+6
+11
+Skradanie się
+5
+6
+11
+Chirurgia
+8
+4
+12
+▶ PenalTy aPPlies To reF,deX & moVe
+Broń
+OBR.
+Amunicja
+LA
+Uwagi
+Strzelba
+5k6
+4
+1
+Zapas amunicji: 8 naboi.
+Pancerz
+OB
+Lekka kurtka kuloodporna
+11
+Dłoń z narzędziami
+W palce wmontowane masz wszystkie narzędzia, które mogą ci się przydać
+w terenie: śrubokręt, klucz, mała wiertarka i inne.
++
+=
+Redtail
+Medyk
+8
+5
+5
+8
+5
+5
+6
+5
+4
+6
+Medycyna
+Nazwa
+Uwagi
+Agent
+zaopatrzony w SI smartfon
+Torba medyczna
+Kompletny zestaw narzędzi med.
+Farba świecąca
+farba w sprayu świecąca w ciemności
+Latarka
+wiązka światła o długości 100 m/yd
+35
+18
+5
++
+=
+Posiadasz dostęp do Umiejętności
+Cyberinżynieria (już uwzględnione
+powyżej).
+Cybersynaptyczny Edytor bólu
+Jesteś w stanie odciąć impulsy płynące normalnie z receptorów bólu, co pozwala ci ignorować
+standardową karę -2 do wyników swoich Testów wynikającą ze stanu Poważnie ranny.
+BAZA
+10
+10
+14
+14
+10
+9
+11
+11
+12
+zaopatrzony w SI smartfon
+Kompletny zestaw narzędzi med.
+farba w sprayu świecąca w ciemności
+wiązka światła o długości 100 m/yd
+uMiejętnoŚci
+▶ ksywa
+▶ rola
+▶ Pw
+▶ Poważnie ranny
+▶ PrzeżywalnoŚć
+▶ sz
+▶ sw
+▶ ruch
+▶ bc
+▶ emP
+▶ cha
+▶ Tech
+▶ zw
+▶ reF
+▶ inT
+broń i pANCERZ
+cyborgizacje
+zdolnoŚć specjalna
+sPRZĘT
+▶ NOTATKI
+Z
+Z
+Umiejętność
+Cecha + POZ = BAZA
+Odporność na tortury/narkotyki
+5
+4
+9
+Percepcja
+8
+6
+14
+Perswazja
+5
+5
+10
+Pierwsza pomoc
+8
+2
+10
+Ratownictwo medyczne (x2)
+8
+6
+14
+Skradanie się
+5
+6
+11
+Unik
+5
+6
+14
+Wiedza lokalna
+8
+2
+10
+Wykształcenie
+8
+6
+14
+Umiejętność
+Cecha + POZ = BAZA
+Atletyka
+5
+2
+7
+Bijatyka
+5
+2
+7
+Broń długa
+5
+6
+11
+Chirurgia
+8
+4
+12
+Dedukcja
+8
+6
+14
+Elektronika/Zabezpieczenia (x2)
+8
+4
+12
+Koncentracja
+5
+2
+7
+Konwersacja
+4
+6
+10
+Odczytywanie emocji
+4
+6
+10
+Jesteś artystą, a ludzkie ciało to twoje płótno. Masz najlepsze narzędzia dostępne
+w Czasie Czerwieni i wiesz, jak z nich korzystać. Jeśli masz farta, uczęszczałeś do
+jednej z prawdziwych akademii medycznych, wciąż funkcjonujących w ruinach Starych
+Stanów. Po wojnie szpitale wojskowe stały wszędzie, a nieliczni lekarze frontowi
+potrzebowali pomocy kogoś, kto przytrzymałby wrzeszczących pacjentów i pospawał
+poszarpane wszczepy. Być może to tam zdobyłeś swe umiejętności. Zawsze też można
+poszukać jakiegoś starego ripperdoca, którego profesja została zapoczątkowana
+pewną książką fantastycznonaukową o tytule The Bladerunner – nie tym starym filmem
+dwuwymiarowym, ale jednym z pierwszych dystopijnych dzieł, archaiczną powieścią o
+lekarzach renegatach, przeprowadzających nielegalne operacje. Może szkolił cię taki
+właśnie łapiduch. I może właśnie tym się teraz zajmujesz: łatasz rannych, troszczysz
+się o chorych, utrzymujesz lokalsów przy życiu. Z miłości, oddania profesji, a może
+po prostu dla grubej kasy, płaconej na boku. Jeśli masz farta, udało ci się zakotwiczyć
+w miejscowym oddziale Trauma Teamu. Trauma Team to drużyny licencjonowanych
+ratowników medycznych, które patrolują miasto, szukając klientów. Działasz z pokładu
+Miejskiego Pojazdu Szturmowego AV-4 w konfiguracji ambulansu i uzbrojonego
+w zamontowany na spodzie kadłuba minigun. To najlepsi z najlepszych, bo abonament
+na usługi Trauma Team kosztuje krocie, co przekłada się na nowe zabawki medyczne,
+szybsze karetki AV i hojne pensje dla najlepszych chirurgów na rynku. Nieważne, jak
+stałeś się tym, kim jesteś. Ważne jest to, że działasz na Ulicy i robisz to, co potrafisz
+najlepiej. I robiłbyś to, nie oglądając się na powody. To cecha prawdziwego Medyka.
+MEDYK
+“od dzieciństwa naprawiałeM to, co było zepsute. zaczęło się, gdy
+“od dzieciństwa naprawiałeM to, co było zepsute. zaczęło się, gdy
+przebijaliŚMy się naszyM koMbiwozeM przez ruiny los angeles i w kabinę
+przebijaliŚMy się naszyM koMbiwozeM przez ruiny los angeles i w kabinę
+uderzył ptaszek. podróżowaliŚMy saMi i Mój staruszek, wiedząc, jak reaguję
+uderzył ptaszek. podróżowaliŚMy saMi i Mój staruszek, wiedząc, jak reaguję
+na takie sMutne przypadki, zatrzyMał wóz i pozwolił Mi wysiąŚć i podnieŚć
+na takie sMutne przypadki, zatrzyMał wóz i pozwolił Mi wysiąŚć i podnieŚć
+ciało. okazało się, że ptak – Myszołów rdzawosterny – wciąż żył. nastawiłeM
+ciało. okazało się, że ptak – Myszołów rdzawosterny – wciąż żył. nastawiłeM
+złaMane skrzydło i pielęgnowałeM zwierzę, aż odzyskało pełnię sił. MaMa,
+złaMane skrzydło i pielęgnowałeM zwierzę, aż odzyskało pełnię sił. MaMa,
+widząc Moje zaangażowanie, wysłała Mnie na nauki do uzdrowiciela naszej
+widząc Moje zaangażowanie, wysłała Mnie na nauki do uzdrowiciela naszej
+watahy. teraz i ja uzdrawiaM. nie, nie MaM dr przed iMienieM, ale potrafię
+watahy. teraz i ja uzdrawiaM. nie, nie MaM dr przed iMienieM, ale potrafię
+naprawić to twoje posiekane raMię. chyba że wolisz je stracić. twój wybór”.
+naprawić to twoje posiekane raMię. chyba że wolisz je stracić. twój wybór”.
+Virgil „Myszołów” Martinez
+Virgil „Myszołów” Martinez
+▶ Fryzura
+▶ znaki szczególne
+▶ co cenisz najbardziej
+▶ co zwykle sądzisz o ludziach
+▶ Tło rodzinne
+▶ Środowisko dorasTania
+▶ kryzys rodzinny
+▶ Przyjaciele
+▶ Tragiczne hisTorie miłosne
+▶ wrogowie
+▶ cele życiowe
+Przyczyna konfliktu
+W przypadku spotkania strona
+poszkodowana zamierza
+Kto to?
+Ścieżka życia
+▶ osobowoŚć
+▶ sTyl ubioru
+▶ region kulTurowy
+▶ noTaTki i dodaTkowe inFormacje:
+Umiejętność
+Cecha
+POZ
+BAZA
+Atletyka
+5
+2
+7
+Bijatyka
+5
+2
+7
+Komponowanie
+8
+6
+13
+Ukrycie/Znalezienie przedmiotu
+7
+8
+15
+Koncentracja
+7
+2
+9
+Konwersacja
+7
+6
+13
+Wykształcenie
+7
+2
+9
+Unik
+5
+6
+11
+Pierwsza pomoc
+4
+2
+6
+Umiejętność
+Cecha
+POZ
+BAZA
+Fałszerstwo
+4
+6
+10
+Broń krótka
+5
+6
+11
+Odczytywanie emocji
+7
+6
+13
+Przeszukiwanie baz danych
+7
+4
+11
+Wiedza lokalna
+7
+6
+13
+Broń biała
+5
+6
+11
+Percepcja
+7
+8
+15
+Perswazja
+8
+6
+14
+Skradanie się
+5
+6
+11
+▶ PenalTy aPPlies To reF,deX & moVe
+Broń
+OBR.
+Amunicja
+LA
+Uwagi
+Ciężki pistolet
+3k6
+8
+2
+Zapas amunicji: 16 naboi.
+Duża broń biała
+3k6
+—
+2
+Miecz lub kij baseballowy. Twój wybór.
+Pancerz
+OB
+Lekka kurtka kuloodporna
+11
+Agent wewnętrzny
+Masz w głowie samodostosowujący się smartfon operowany przez SI, sterowany
+całkowicie za pomocą poleceń głosowych.
++
+=
+24/7
+Media
+7
+5
+5
+4
+8
+7
+7
+5
+7
+6
+Wiarygodność
+Nazwa
+Uwagi
+Kamera wideo
+nagrywa do 12 godzin
+Rejestrator dźwięku
+nagrywa do 24 godzin
+40
+20
+5
++
+=
+Raz na godzinę możesz rzucić 1k10.
+Jeśli wyrzucisz więcej niż 4, dotrze do
+ciebie jakaś ciekawa plotka związana
+z aktualną sytuacją.
+Cyberoko: Wzmacnianie obrazu
+Twój wzrok jest znacząco lepszy niż zwykłego człowieka, dzięki czemu posiadasz +2
+do percepcji, Ukrycia/znalezienia przedmiotu (wartość już uwzględniona powyżej).
+8
+Notes
+uMiejętnoŚci
+▶ ksywa
+▶ rola
+▶ Pw
+▶ Poważnie ranny
+▶ PrzeżywalnoŚć
+▶ sz
+▶ sw
+▶ ruch
+▶ bc
+▶ emP
+▶ cha
+▶ Tech
+▶ zw
+▶ reF
+▶ inT
+broń i pANCERZ
+cyborgizacje
+zdolnoŚć specjalna
+sPRZĘT
+▶ NOTATKI
+Z
+Z
+Umiejętność
+Cecha + POZ = BAZA
+Percepcja
+7
+8
+15
+Perswazja
+8
+6
+14
+Pierwsza pomoc
+4
+2
+6
+Przeszukiwanie baz danych
+7
+4
+11
+Skradanie się
+5
+6
+11
+Ukrycie/Znalezienie przedmiotu
+7
+8
+15
+Unik
+5
+6
+11
+Wiedza lokalna
+7
+6
+13
+Wykształcenie
+7
+2
+9
+Uwagi
+NOTATKI
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+Cecha + POZ = BAZA
+8
+15
+6
+14
+2
+6
+4
+11
+6
+11
+8
+15
+6
+11
+6
+13
+2
+9
+Umiejętność
+Cecha + POZ = BAZA
+Atletyka
+5
+2
+7
+Bijatyka
+5
+2
+7
+Broń biała
+5
+6
+11
+Broń krótka
+5
+6
+11
+Fałszerstwo
+4
+6
+10
+Komponowanie
+8
+6
+14
+Koncentracja
+7
+2
+9
+Konwersacja
+7
+6
+13
+Odczytywanie emocji
+7
+6
+13
+Naginają prawdę. Jednak ty ich powstrzymasz. Ktoś musi. Kiedyś światem rządziły
+Korporacje. Zalewały nas toksycznymi odpadami, destabilizowały gospodarkę
+i równie bezkarnie mordowały. W tamtych czasach rządy nie były w stanie ich
+powstrzymać. Ba! Korpo miały władze w kieszeni. Potem wybuchła wojna. Konflikt,
+który zerwał miłą fasadę i ujawnił, co tak naprawdę działo się pod naszymi
+nosami. A Media dołożyli wszelkich starań, by każdy człowiek poznał prawdę.
+Media tacy jak ty. Masz vidlinka i przepustkę prasową i nie zawahasz się ich użyć.
+W Czasie Czerwieni znają cię w całym mieście i każdego wieczoru pojawiasz się
+na kanale w Banku Danych. Jest inaczej niż kiedyś. Teraz nie masz wsparcia ważnej
+Megakorporacji, teraz zależysz od fanów, kontaktów i własnej reputacji. Z drugiej
+strony, nowe Korpo nie pozbędą się ciebie tak łatwo, więc kiedy kopiesz, szukając
+brudów i syfu, który skorumpowani urzędnicy i fagasy Korporacji próbują ukryć,
+możesz kopać naprawdę głęboko. A rano wrzucić szczegółowe informacje o ich
+zbrodniach na wszystkie Kanały Aktualności i ekrany. Ze trzy czy cztery razy zbiry
+próbowały cię dorwać. Dlatego korzystasz ze wsparcia i ochrony doświadczonego
+Solo, a jeden z najlepszych Netrunnerów ryje w Architekturach Sieci, szukając
+dowodów na poparcie twoich reportaży. Musisz być najlepszy albo wszystko na nic.
+Twój runner właśnie podrzucił ci gorący trop. Zabierasz sprzęt i dajesz znać wsparciu.
+Zniszczysz tych drani. Teraz już na pewno.
+MEDIA
+“pewnie nie uwierzysz, ale kiedyŚ pracowałeM dla night city today. przynosiłeM
+“pewnie nie uwierzysz, ale kiedyŚ pracowałeM dla night city today. przynosiłeM
+kawę i targałeM kaMery i resztę sprzętu jak jakiŚ wielbłąd! Moja pierwsza boMba?
+kawę i targałeM kaMery i resztę sprzętu jak jakiŚ wielbłąd! Moja pierwsza boMba?
+artykulik o przekręcie pr-u pewnej korporacji, który karMił głodnych karMą,
+artykulik o przekręcie pr-u pewnej korporacji, który karMił głodnych karMą,
+a nie prawdziwyM żarcieM. nie zostałeM reportereM po to, żeby szczerzyć się do
+a nie prawdziwyM żarcieM. nie zostałeM reportereM po to, żeby szczerzyć się do
+kaMery i wyMieniać suche żarty z naprutą syntkoką pogodynką. dlatego to rzuciłeM.
+kaMery i wyMieniać suche żarty z naprutą syntkoką pogodynką. dlatego to rzuciłeM.
+teraz jesteM zawsze w Środku akcji: na szpikulcu. działaM na własną rękę, szukaM
+teraz jesteM zawsze w Środku akcji: na szpikulcu. działaM na własną rękę, szukaM
+spraw, drążę teMaty i dostarczaM wiadoMoŚci, których ludzie naprawdę szukają!
+spraw, drążę teMaty i dostarczaM wiadoMoŚci, których ludzie naprawdę szukają!
+jeŚli chcesz wiedzieć, co naprawdę dzieje się w MieŚcie, włącz never blink news”.
+jeŚli chcesz wiedzieć, co naprawdę dzieje się w MieŚcie, włącz never blink news”.
+24/7, reporter Never Blink News
+24/7, reporter Never Blink News
+▶ Fryzura
+▶ znaki szczególne
+▶ co cenisz najbardziej
+▶ co zwykle sądzisz o ludziach
+▶ Tło rodzinne
+▶ Środowisko dorasTania
+▶ kryzys rodzinny
+▶ Przyjaciele
+▶ Tragiczne hisTorie miłosne
+▶ wrogowie
+▶ cele życiowe
+Przyczyna konfliktu
+W przypadku spotkania strona
+poszkodowana zamierza
+Kto to?
+Ścieżka życia
+▶ osobowoŚć
+▶ sTyl ubioru
+▶ region kulTurowy
+▶ noTaTki i dodaTkowe inFormacje:
+GRA FABULARNA W MROCZNEJ PRZYSZŁOŚCI
+now available in digital and print
+CHCESZ WIEDZIEĆ WIĘCEJ?
+ODWIEDŹ rtalsoriangames.com
+LUB blackmonk.pl
+Witaj w Czasie Czerwieni, choomba! Jak szybko zauważysz, mamy tu niezły bajzel.
+Megakorporacje spędziły ostatnie dekady, rozpieprzając cały świat w drobny mak.
+Zaowocowało to całą gamą nieprzyjemności dla nas – zwykłych zżeraczy karmy – i
+sprawiło, że mamy tu chroniczny przypadek „każdego za siebie i wszystkich na jednego”.
+Ale na mięciutko. Ogarniesz to. Tak, to prawda, że świat do cna złapał odpał i do tej pory
+nie udało nam się doczyścić z przemysłowej ilości gówna, które wpadło w metaforyczny
+wentylator. Tak, istotnie mamy klęskę urodzaju, jeśli chodzi o naszprycowanych dorfami
+gangusów szlachtających się ze stadami cyborgów, których wysprzegło za Krawędź.
+No i niestety, Korporacje były w stanie schrzanić tę jedną rzecz, którą zdałobyzdało by
+się robiły ostatnio, i nie dały rady unicestwić się doszczętnie, więc wszędzie biegają ich
+agenci, mieszając, w czym tylko się da. A, no i mamy wysyp Kultów Kresu Dni, które próbu-
+ją namówić wszystkich do kolektywnego odłączenia sobie wtyczek. Ale widzisz, w tym
+dziwnym świecie, gdzie każdy próbuje ustanowić własne reguły, jest jedna prawda, której
+nieodmiennie trzeba się trzymać – cokolwiek robisz, rób do skrajnego skraju Krawędzi!
+Śmiało rzucaj wszystko na szalę. Zbieraj harde żniwo. Bądź ucieleśnieniem akcji. Bądź
+sprzeciwem. Bądź PŁOMIENIEM! Nie ma czasu na ostrożne macanko z rzeczywistością,
+kiedy możesz wypalić swój ognisty ślad na fi rmamencie Ulicy.
+Przy pasie ciąży ci już Militechowa spluwa. Styki sprzęgów w twoim mózgu iskrzą się
+łukami wyładowań. W twoich zaciśniętych pięściach czają się poliwęglowe szpony, a
+cyberoptyczna multispektralna wizja przebija się przez mrok i dym otaczającego cię
+pożaru burdelu z krystalicznie czystą determinacją. Przed tobą rozpościera się dzika ziemia
+nieskończonych możliwości, czekająca tylko na to, by jakiś nieustraszony i niezłomny
+Krawędziarz zebrał jej obfi ty plon. Kto wie, może będziesz to właśnie ty.
+Cyberpunk RED Easy Mode to szybkie wprowadzenie do klasycznej gry wyobraźni
+osadzonej w Mrocznej Przyszłości. Zawiera w sobie absolutnie wszystko, czego potrzeba,
+aby odkryć powojenną rzeczywistość Czasu Czerwieni, w tym:
+• Przegląd najważniejszych wydarzeń z przebogatej historii świata Cyberpunka.
+Specjalna uwaga poświęcona została jego wielokrotnie operowanemu sercu –
+Night City, wraz z jego gęstą jak smar kulturą i pełną tajemniczych zakamarków
+geografi ą.
+• Podstawowe reguły zorganizowane tak, abyś mógł od razu chwycić klimat i
+odpalić rozgrywkę.
+• Pięć gotowych do gry postaci zaopatrzonych we wszystkie szmery i komplet
+bajerów. Kto będzie najbliższy twym gustom? Zniewalająca Rockerka? Zabójczy
+Solo? Wszechstronny Technik? Ratujący życia Medyk? A może niepowstrzymany
+w poszukiwaniu prawdy Media?
+• Świeżutki i opracowany właśnie na tę okazję scenariusz: WYSKAKUJ Z FORSY!.
+Bo widzisz, walizka pękająca w szwach od chowających się w niej eurodolarów
+to coś, co bardzo lubi zmieniać właściciela. Czy uda ci się być tym właśnie cwan-
+iakiem, który cieszyć się będzie mógł jej zawartością?A new introductory mission:
+Getting Paid. Because that briefcase full of Eurobucks is the difference between
+making rent and living on the street in the Time of the Red.
+EASY MODE

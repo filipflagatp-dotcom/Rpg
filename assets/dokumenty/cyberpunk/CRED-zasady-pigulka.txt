@@ -1,0 +1,114 @@
+# 🧠 KNOWLEDGE BASE: CYBERPUNK RED (EASY MODE)
+
+## 1. Wprowadzenie i Mechanika Podstawowa
+Rdzeniem gry jest system testów oparty na rzucie kością k10.
+
+*   **Formuła Testu Umiejętności:**
+    `Cecha + Umiejętność + rzut 1k10` **vs** `Poziom Trudności (PT)`
+*   **Mechanika Wyników:**
+    *   **Sukces:** Wynik gracza > Poziom Trudności (PT).
+    *   **Remis:** W starciu między postaciami, w przypadku remisu, **Broniący zawsze wygrywa**.
+*   **Krytyczne Wyniki:**
+    *   **Krytyczny Sukces (Rzut 10):** Gracz rzuca dodatkową kość k10 i dodaje jej wynik do sumy. (Jeśli wypadnie kolejne 10, sukces nie kumuluje się dalej).
+    *   **Krytyczna Porażka (Rzut 1):** Gracz rzuca dodatkową kość k10 i odejmuje jej wynik od sumy testu.
+*   **Poziomy Trudności (PT):**
+
+| Rodzaj Trudności | Opis | PT |
+| :--- | :--- | :---: |
+| **Codzienny** | Czynności niewymagające specjalnego przeszkolenia | 13 |
+| **Trudny** | Wymaga wyszkolenia lub naturalnych predyspozycji | 15 |
+| **Profesjonalny** | Wymaga specjalistycznej wiedzy profesjonalisty | 17 |
+| **Heroiczny** | Poziom elitarnych specjalistów/gwiazd sportu | 21 |
+| **Niewiarygodny** | Osiągnięcia na poziomie olimpijskim | 24 |
+
+---
+
+## 2. Atrybuty i Statystyki (Cechy)
+Atrybuty (Cechy) opisują podstawowy potencjał postaci.
+
+*   **Lista 10 Atrybutów:**
+    1.  **INT (Inteligencja):** Sprawność rozumowania.
+    2.  **REF (Refleks):** Szybkość reakcji i koordynacja.
+    3.  **DEX (Zwinność):** (W Easy Mode: **ZW**) Sprawność fizyczna, równowaga.
+    4.  **TECH (Technika):** Obsługa narzędzi i instrumentów.
+    5.  **COOL (Opanowanie/Siła Woli):** (W Easy Mode: **SW**) Determincja i odporność na stres.
+    6.  **WILL (Wola):** (W Easy Mode: **SW**) Odporność psychiczna.
+    7.  **LUCK (Szczęście):** (W Easy Mode: **SZ**) Specjalna cecha pozwalająca na modyfikację wyników.
+    8.  **MOVE (Ruch):** Szybkość przemieszczania się.
+    9.  **BODY (Budowa Ciała):** (W Easy Mode: **BC**) Wytrzymałość i masa.
+    10. **EMP (Empatia):** Zdolność rozumienia emocji (wpływa na granice cybernetyzacji).
+
+*   **Zdrowie i Kondycja:**
+    *   **PW (Punkty Wytrzymałości):** Określają, ile obrażeń postać może przyjąć.
+    *   **Poważnie Ranny:** Stan, gdy PW $\leq$ 1/2 wartości maksymalnej (kara -2 do wszystkich testów).
+    *   **Śmiertelnie Ranny:** Stan, gdy PW < 1 (kara -4 do testów, -6 do Ruchu; wymagany Test Przeżywalności).
+
+---
+
+## 3. Umiejętności
+Umiejętności pozwalają na specjalizację postaci.
+
+*   **Struktura:** Każda umiejętność jest powiązana z konkretną Cechą.
+*   **Baza Umiejętności:** `Cecha + Poziom Umiejętności = Baza`. Do tej bazy dodaje się rzut 1k10.
+*   **Przykładowe podziały:**
+    *   **Walka:** Broń biała (ZW), Broń krótka (REF), Broń długa (REF), Bijatyka (ZW).
+    *   **Techniczne:** Elektronika (TECH), Otwieranie zamków (TECH), Naprawa (TECH).
+    *   **Społeczne:** Perswazja (CHA), Konwersacja (EMP/CHA), Wywiad (INT).
+    *   **Przetrwanie:** Percepcja (INT), Skradanie się (ZW), Unik (ZW).
+
+---
+
+## 4. Walka (Combat)
+Walka w Cyberpunk RED jest dynamiczna i szybka.
+
+*   **Czas Walki:** Jedna Runda trwa ok. **3 sekundy**.
+*   **Inicjatywa:** `REF + rzut 1k10`. Gracze i NPC ustalają kolejność od najwyższej do najniższej.
+*   **Tura Postaci:** Każda postać w swojej turze otrzymuje:
+    *   **1 Akcja Ruchu** (przemieszczenie o `RUCH x 2` metry).
+    *   **1 Akcję Działania** (np. Atak, Użycie Umiejętności, Przeładowanie).
+*   **Mechanika Ataku:**
+    *   **Dystansowy:** `REF + Umiejętność strzelecka + 1k10` **vs** `PT zależne od dystansu i broni`.
+    *   **Wręcz:** `ZW + Umiejętność walki wręcz + 1k10` **vs** `ZW + Unik + 1k10 Broniącego`.
+*   **Pancerz i Obrażenia:**
+    *   **OB (Obroń):** Wartość pancerza redukująca otrzymane obrażenia.
+    *   **Degradacja:** Każdorazowe otrzymanie obrażeń powoduje spadek OB pancerza o 1 (aż do 0).
+    *   **Rany Krytyczne:** Jeśli przy ataku wypadnie 6 na kościach obrażeń $\rightarrow$ dodatkowe 5 obrażeń (ignorujących pancerz) + Rana Krytyczna (rzut 2k6).
+*   **Osłona (Cover):**
+    *   Postać jest za osłoną tylko, jeśli jest całkowicie schowana i osłona może zatrzymać pocisk.
+    *   Osłona ma własne **PW (Punkty Wytrzymałości)**.
+
+---
+
+## 5. Netrunning i Cyberware
+*Technologie zmieniające ludzkie ciało i otoczenie.*
+
+*   **Cyberware (Ulepszenia):**
+    *   Instalacja zwiększa moc postaci, ale wiąże się z ryzykiem utraty człowieczeństwa (w Easy Mode powiązane z poziomem EMP/zdrowia psychicznego).
+    *   **Rodzaje:** Cyberoptics (wzrok), Neuralware (procesory), Dłonie z narzędziami, Cyberpsychoza (ryzyko przy nadmiernej modyfikacji).
+*   **Netrunning:**
+    *   Operacje w **Architekturze Sieci**.
+    *   Używanie programów do łamania zabezpieczeń (ICE).
+    *   Ryzyko: **Brain Damage** (uszkodzenia mózgu) i **Cyberpsychoza**.
+
+---
+
+## 6. Ekwipunek i Ekonomia
+*   **Kategorie Broni:**
+    *   **Pistolety / Broń krótka:** Krótki dystans, wysoka mobilność.
+    *   **Strzelby:** Duże obrażenia, krótki zasięg.
+    *   **Karabiny szturmowe:** Dystans, duża siła ognia.
+*   **Zasady Technika:** Technicy mogą naprawiać sprzęt oraz modyfikować urządzenia, co jest kluczowe w świecie deficytu zasobów.
+
+---
+
+## 7. Świat i Styl Życia
+*   **Night City:** Miejsce kontrastów – luksusowe korporacje vs. brutalne Strefy Walki.
+*   **Lifestyle (Styl życia):** Koszty utrzymania postaci w świecie (mieszkanie, jedzenie, bezpieczeństwo).
+*   **Regeneracja:** Leczenie wymaga stabilizacji. Po stabilizacji postać odzyskuje PW podczas odpoczynku (zgodnie z wartością Budowy Ciała).
+
+---
+
+## 8. Mistrz Gry (GM) i Prowadzenie Kampanii
+*   **Zagrożenia:** Rozróżnienie między **Mooks** (słabi przeciwnicy, liczni) a **Bossami** (silni, unikalni).
+*   **Zasady NPC:** Używanie gotowych statystyk (np. Skorumpowany Gliniarz) dla płynności gry.
+*   **Prowadzenie "Jobów":** Kampania powinna być napędzana przez "Ścieżki Życia" (Life Paths) graczy – łączenie ich osobistej historii (rodzina, wrogowie, cele) z misjami.

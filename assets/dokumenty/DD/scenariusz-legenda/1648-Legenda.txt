@@ -1,0 +1,3173 @@
+﻿2
+Legenda
+Scenariusz do systemu Warhammer Fantasy Roleplay
+Autor: Maciej ‘repek’ Reputakowski
+Współpraca, skład i dodatki: Magdalena Madej-Reputakowska
+Ilustracja na okładce: Roch ‘Ulrich’ Hercka
+Ilustracje w tekście: Izabela ‘Isbell’ Mazur, Magdalena Madej-Reputakowska
+Mapa Ostlandu na podstawie mapy autorstwa Andreasa Blichera, udostępnionej
+na licencji Creative Commons.
+Mapa Helmburga: Magdalena Madej-Reputakowska
+Testy: Karina ‘Linka’ Graj, Mateusz Bral, Julian ‘Mayhnavea’ Czurko, Artur ‘mr_mond’
+Nowrot, Tomasz ‘kaduceusz’ Pudło, Maciej Walasek
+Zarys fabuły
+w
+ojna z Chaosem zagraża stolicy Imperium. Trójka wielkich bohaterów
+zostaje wysłanych do legendarnego, niezdobytego zamku Helmburg,
+by poznać jego tajemnicę i zapewnić ocalenie Altdorfowi. Gdy docierają na
+miejsce, sytuacja jest krytyczna. Pan zamku jest na krawędzi śmierci, morale
+załogi podupada, a Chaos puka do bram.
+Bohaterowie będą mieli niewiele czasu, by poznać tajemnicę twierdzy i zmie-
+rzyć się z wewnętrznymi i zewnętrznymi zagrożeniami. W międzyczasie oka-
+że się, że misja nieodwracalnie wpłynie na ich własne życie. Finał scenariusza
+stanowi wielka, epicka bitwa w obronie zamku przed siłami Chaosu.
+O scenariusZu
+Legenda to scenariusz przeznaczony dla trzech graczy/graczek.
+Grający otrzymują gotowe, potężne postaci, których osobiste historie
+i motywacje są połączone z główną osią fabuły. Legenda jest klasycz-
+nym jednostrzałem, przeznaczonym do rozegrania na dwóch sesjach.
+W ich trakcie osobiste wątki bohaterów będą mogły w pełni wy-
+brzmieć.
+Z tych powodów Legenda jest skierowana raczej do MG i graczy, którzy spój-
+ną i efektowną opowieść, ograniczoną konwencją i wyczuciem dramatyzmu,
+przedkładają nad pozbawioną jakichkolwiek barier swobodę decyzji. Moty-
+wacje poszczególnych postaci są pomyślane tak, by każdy z graczy miał swoje
+miejsce w fabule i w naturalny sposób angażował się w opisany w tekście roz-
+wój wydarzeń.
+Scenariusz podzielony jest na sceny. Zaproponowana chronologia stanowi ich
+optymalny z punktu widzenia budowania napięcia układ (szczególnie na po-
+czątku). Oczywiście już do MG należy zadanie, by elastycznie reagować na
+deklaracje grających i wprowadzać ich pomysły do fabuły. Warto jednak pa-
+miętać, że w jednostrzałach najważniejsze jest odpowiednie tempo. MG musi
+dbać o to, by z jednej strony pozwolić graczom pobawić się swoimi bohaterami
+i zżyć się z nimi, a z drugiej nie dopuścić do nadmiernego rozwlekania scen.
+Fabuła Legendy powinna zamknąć się w dwóch sesjach. Pierwszą z nich naj-
+lepiej byłoby zakończyć przed sceną Zdrada Pani Kapitan. W tej scenie gracze
+toczą walkę. Dlatego, jeśli sesja trwa już długo, lepiej przełożyć ją na kolejne
+spotkanie i zacząć je od mocnego uderzenia.
+Druga sesja składa się ze znacznie mniejszej ilości scen, ale kończy się wielką
+bitwą, która na pewno zajmie sporo czasu. Ważne, by w trakcie obu zbioro-
+wych walk gracze nie byli nadmiernie zmęczeni.
+Jeżeli MG uzna jednak, że pierwsza sesja trwa już bardzo długo, może posta-
+nowić zakończyć ją wcześniej. Dobre momenty to scena Posłaniec (tuż po po-
+nurych wieściach o śmierci Siegfrieda) lub scena Nocna próba – w chwili, gdy
+Ulrich prosi Siegrid o pomoc w zabiciu ojca.
+Mechanika
+Legenda jest scenariuszem przeznaczonym do rozegrania w trzeciej edycji
+systemu Warhammer Fantasy Roleplay.
+PrZygOtOwanie dO PierwsZej sesji
+Wydrukuj trzy listy z rozkazami cesarskimi (Pomoce).
+Wydrukuj List Cesarski (Pomoce).
+3
+Wydrukuj trzy karteczki przeznaczone na detale dotyczące tła postaci
+(Pomoce).
+Wydrukuj opisy Bohaterów Graczy (Pomoce).
+Wydrukuj plan Helmburga, który można pobrać razem z tym scenariu-
+szem. Będzie niezbędny na drugiej sesji, ale pojawi się już na pierwszej.
+Plan, aby spełniał swoje zadanie, warto wydrukować w formacie A2. Format
+A3 może okazać się za mały, zaś A1 wymaga ogromnej przestrzeni.
+Jeżeli chcesz, przygotuj mapę Imperium, by pokazać graczom, w którym
+miejscu rozgrywa się przygoda. Warto również przygotować plan Ostlan-
+du z zaznaczoną lokalizacją Helmburga, który możesz pobrać razem z tym
+scenariuszem. Możesz także wydrukować rycinę przedstawiającą walkę Na-
+zgara z herosami Helmburga (Pomoce).
+Gracze w Legendzie otrzymują potężne, zaawansowane postaci. Z tego po-
+wodu warto spotkać się nieco wcześniej, aby mogli spokojnie zapoznać
+się z ich możliwościami. Dobrym pomysłem jest przeprowadzenie przed sesją
+symulowanej walki.
+Na końcu scenariusza znajdziesz charakterystyki postaci oraz spis akcji,
+talentów i innych elementów, którymi dysponuje każdy z bohaterów.
+Przepisz charakterystyki postaci na karty.
+Zastanów się, kto z twoich graczy najlepiej będzie się czuł w poszczegól-
+nych rolach i kogo najbardziej ucieszą oczekujące wyzwania. Następnie
+wręcz graczom ich postaci wraz ze wszystkimi elementami.
+Wręcz graczom krótkie opisy ich postaci (Pomoce).
+Podczas wręczania graczom kart bohaterów postaraj się nie zdradzić, kim
+jest Siegrid.
+Posadź graczy przy stole w następującej kolejności (od twojej le-
+wej): Ordo – Siegrid – Mortimus. Chodzi o to, by Siegrid miała
+Mortimusa po swojej lewej, a Orda po prawej stronie.
+Wręcz graczom kartę ich drużyny: Righteous Paragons.
+Zadania dla graczy przed sesją
+Siegrid - Poproś grającą Siegrid, aby na przygotowanej karteczce opisała
+pamiątkę, która została jej po matce. Przeczytaj karteczkę. Pomysł graczki
+będzie potrzebny po spotkaniu z Einarem, synem władcy Helmburga.
+Mortimus - Poproś grającego Mortimusem, aby na przygotowanej kar-
+teczce opisał jeden, szczególnie bliski sercu kapłana przedmiot. Przeczy-
+taj karteczkę. Będzie potrzebna w Scenie X: Powrót do domu.
+Ordo - Poproś grającego Ordo, aby na przygotowanej karteczce napisał,
+dlaczego otrzymał ranę w pojedynku. Przeczytaj karteczkę. Jej treść przy-
+da się w wielu scenach, w tym w Scenie XII: Pojedynek Ordo.
+Przygotowanie do drugiej sesji
+Na tej sesji niezbędny będzie plan Helmburga.
+Ta sesja zaczyna się od walki. Przygotuj się do niej, wybierając odpowied-
+nie figurki przeciwników i ich charakterystyki. Zdjęcie figurek i charakte-
+rystyki przeciwników znajdziesz w Scenie XVII: Zdrada Pani Kapitan.
+Wydrukuj dwie karteczki ze statystykami zbroi rodu von Turm (Pomoce).
+Finałowa scena scenariusza toczy się podczas bitwy. Przygotuj wcze-
+śniej wszystkie figurki i żetony (pełny spis i zdjęcie znajduje się
+w Scenie XXI: Bitwa). Zapoznaj się z mechaniką bitwy. Byłoby dobrze, gdybyś
+rozegrał sobie to starcie na próbę, aby przekonać się, jak funkcjonują podsta-
+wowe zasady.
+Skrót zasad rozgrywania bitwy znajduje się w dziale Pomoce.
+Przygotuj kartę błogosławieństwa Soulfire dla Mortimusa.
+Przygotuj kartę talentu Legendary dla Siegrid.
+Przygotuj kartę akcji Not Done Yet dla Ordo.
+4
+bOhaterOwie gracZy
+Bohaterowie graczy są potężni. Na potrzeby scenariusza traktuj ich tak,
+jakby posiadali Rank 5. W normalnych warunkach osiągnięcie tego poziomu
+zajęłoby im, w zależności od hojności MG, pewnie ponad dwadzieścia sesji.
+W tym czasie stopniowo poznawaliby słabe i mocne strony swoich postaci,
+a także na bieżąco uczyli się przydatności kart akcji i talentów.
+W Legendzie gracze zostają rzuceni od razu na głęboką wodę. Ilość kart i znacz-
+ników wykorzystywanych w mechanice trzeciej edycji może przytłoczyć.
+Z tego powodu w arsenale BG znajdą się tylko karty akcji i talentów najważ-
+niejsze z punktu widzenia czekających wyzwań (oraz epickości i miodności!).
+Przykładowo, Mortimus mógłby dysponować wszystkimi błogosławieństwa-
+mi Sigmara do rangi 5 włącznie, ale część z nich jest już zbyt błaha, by zaprzą-
+tać nimi gracza. Na podobnej zasadzie dobrane zostały talenty czy specjalne
+zdolności przysługujące za skompletowanie kariery.
+Oczywiście nic nie stoi na przeszkodzie, aby Mistrz Gry okroił lub uzupełnił
+arsenał drużyny.
+Uwaga: W posiadaniu kapłana Sigmara, Mortimusa, znajduje się błogosła-
+wieństwo Sigmar’s Light. Pozwala ono wykrywać zepsucie Chaosu. Może ono
+pozwolić graczowi stosunkowo szybko poznać tajemnice niektórych Bohate-
+rów Niezależnych i sprowokować przyśpieszenie konfliktu. Jeżeli uznasz, że
+ta umiejętność utrudni ci prowadzenie sesji, możesz z niej zrezygnować.
+Warto też zwrócić uwagę na to, że w toku fabuły Legendy istotne będą decyzje
+i podejście Bohaterów do stojących przed nimi wyborów. Część z nich będzie
+miała znaczący wpływ na rozwój sytuacji. Jest ważne, by gracze czuli, że te
+decyzje są istotne dla historii i że bez ich podjęcia wyzwanie byłoby znacznie
+trudniejsze. Słowem: niech dramatyczny wybór ma większą moc niż wyrzu-
+cona na kostce kometa.
+Opisy postaci
+Wersje do druku znajdują się w rozdziale Pomoce.
+Siegrid, młodsza córka cesarza, 25 lat
+Siegrid jest drugim dzieckiem panującego cesarza, Karla Franza.
+Odkąd zmarła jej ukochana matka, całe jej młodzieńcze i dorosłe życie
+upływało w cieniu surowego ojca oraz starszego brata, Siegfrieda, szykowa-
+nego na następcę tronu. Siegfried już zdążył wsławić się jako niezrównany
+wojownik i generał imperialnych armii.
+W tym czasie Siegrid również służyła cesarstwu. Ukończyła najlepsze szkoły
+i podróżowała po Imperium w rozmaitych misjach dyplomatycznych. Jednak
+większość poddanych cesarza prawdopodobnie nawet o niej nie słyszała.
+Tymczasem Chaos znów zagraża Imperium. Starszy brat, Siegfried, kilka mie-
+sięcy temu wyruszył na czele armii do Kisleva. Jednak Siegrid cesarz rozkazał
+pozostać w domu…
+Ordo, cesarski champion, 65 lat
+Ordo nie zawsze był przykładnym obywatelem Imperium. Zanim zapisał
+się w kronikach jako niezrównany szermierz, okrył się zasłużoną niesławą nie-
+bezpiecznego, śmiałego banity. Gdy wreszcie został schwytany, cesarz złożył
+mu ofertę nie do odrzucenia. Ułaskawiony Ordo od wielu lat wiernie spłaca
+dług wobec Imperium. O niesławnej przeszłości przypomina wyłącznie wyta-
+tuowany na nadgarstku, niemalże wyblakły imperialny krzyż, którym ozna-
+czono go w więzieniu.
+Fechmistrz nigdy nie rozstaje się ze swoim dwuręcznym mieczem, znanym
+jako Ordnung (Porządek). Sława ostrza jest tak legendarna, że choć miecz nie
+posiada żadnych magicznych właściwości, należy go traktować jako magiczny.
+Ordo wciąż nie znalazł przeciwnika, który sprostałby mu w bezpośrednim
+starciu. Otrzymana niedawno rana, która wciąż nie chce się zagoić, została
+uznana powszechnie za wypadek przy pracy.
+Trudno zresztą o śmiałka, który ośmieliłby się zasugerować Ordo, że jest za
+stary do swojej roboty…
+Mortimus, bojowy kapłan Sigmara, 78 lat
+Mortimus, często zwany Niezłomnym lub Nieugiętym, jest zasłużo-
+nym, oddanym sługą Imperium i zaufanym kapłanem kultu, szano-
+wanym przez samego Wielkiego Teogonistę.
+Mortimus od 60 lat skrywa jednak tajemnicę, która zachwiała jego
+wiarą. Służył wówczas w zamku Helmburg, którym władałGar-
+dius von Turm. Twierdza została zaatakowana przez siły Chaosu,
+5
+a Mortimus – posługujący się wówczas imieniem Magnus – stchórzył i uciekł.
+Pamięć tamtej zdrady do dziś nie daje mu spokoju…
+Motywacje
+Motywacje zawarte w powyższych opisach postaci powinny być wystarczają-
+co jasne dla graczy, a dodatkowo już na samym początku przygody pojawią
+się przygotowane pod ich kątem wątki. Jeśli wolisz być bardziej dosłowny,
+możesz dodać, że Siegrid chce udowodnić ojcu swoją wartość, Ordo boi się
+umrzeć e własnym łóżku, a Mortimus pragnie naprawić błąd z młodości. Pa-
+miętaj jednak, że im mniej zasugerujesz graczom, tym bardziej będą zadowo-
+leni ze swoich późniejszych decyzji.
+W trakcie przygody, zwłaszcza na samym początku, gdy gracze przedstawiają
+swoje postaci i własną wizję ich prowadzenia, uważnie słuchaj ich deklaracji.
+Staraj się podchwycić ich przewodni pomysł i przywoływać go potem w toku
+fabuły.
+Legenda – zmiana płci bohaterów
+Zaproponowane postaci przeznaczone są dla mieszanego składu drużyny.
+Nic (może poza fanatycznym „realizmem”) nie stoi jednak na przeszkodzie,
+by każdy z bohaterów był dowolnej płci. Pod koniec scenariusza znajdziesz
+gotowe do wydrukowania opisy postaci w dwóch wersjach dostosowanych
+językowo do ich płci. Motywacje i historia pozostają bez zmian.
+Alternatywne imiona BG:
+• Siegrid – Siegmund
+• Mortimus – Mortianna
+• Ordo – Arda
+Na podobnej zasadzie w tekście scenariusza pojawią się propozycje przeciw-
+nej płci dla Bohaterów Niezależnych. MG przed poprowadzeniem
+scenariusza powinien dobrze przemyśleć płeć wszystkich postaci, by
+gracze na sesji czuli się komfortowo, a wątki były dla nich interesujące.
+On czy ona?
+Jeśli zamiast córki cesarza w drużynie pojawi się jego syn, Siegmund, możesz
+zmienić postać Einara na jego żeński odpowiednik – Ulrikę. Reszta wątku się
+nie zmienia – kobieta wciąż będzie potrzebowała pomocy ze wszystkimi tego
+konsekwencjami. Możesz też nie dokonywać żadnej zmiany i pozostawić losy
+Imperium w rękach dwóch mężczyzn.
+Jeśli drużynową fechmistrzynią będzie Arda, jej konflikt z Panią Kapitan von
+Schatten może nabrać dodatkowych rumieńców. Dla samej graczki wyzwanie
+będzie również stanowić zyskanie zaufania załogi zamku, która – pomimo jej
+sławy – może wątpić w umiejętności bitewne innej kobiety. Można również
+Kapitan von Schatten zamienić na Kapitana von Schattena, ale wprowadzanie
+dodatkowego wątku romansowego jest raczej zbędne.
+Wreszcie Mortianna, licząca 78 lat, niepozorna kapłanka Sigmara, w istocie
+dysponująca potężnymi błogosławieństwami i potrafiąca zrobić użytek z bojo-
+wego młota. A jeżeli lubisz takie motywy, jej zachwianie wiary może dodatko-
+wo wynikać z dawnego uczucia do pana zamku…
+Obsadzenie kobiet w tradycyjnie męskich rolach podnosi emocje. Współcze-
+śni twórcy filmów i seriali już to odkryli. Mistrz Gry powinien to przemyśleć,
+a potem prowadzić tak, jak mu pasuje.
+tłO PrZygOdy
+Chaos nie został odparty na długo i jego armie powróciły. Imperium znów
+stoi na krawędzi przepaści i jest praktycznie pewne, że tym razem upadnie.
+W takich czasach ludzie bardziej niż kiedykolwiek potrzebują bohaterów.
+Akcja scenariusza rozpoczyna się w stolicy, Altdorfie, w pałacu cesarskim.
+Niewiele wiadomo o tym, co dzieje się na północy i wschodzie, ale strzępki
+wieści nie napawają optymizmem. Fakty są takie, że wojska impe-
+rialne są rozbijane w puch, a armie Chaosu szykują się do natarcia
+na prowincje Imperium. Z perspektywy stolicy najważniejsza jest
+groźba, że wrogie armie dotrą aż do Altdorfu. Karl Franz w obawie
+o serce Imperium ucieka się do poszukiwania najbardziej desperac-
+kich rozwiązań.
+6
+Przypomniał
+sobie
+o
+legendzie
+zamku
+Helmburg,
+który
+nigdy
+w
+swojej
+kilkusetletniej
+historii
+nie
+został
+zdobyty.
+Postana-
+wia
+wyprawić
+tam
+swoją
+córkę,
+by
+poznała
+tajemnicę
+twierdzy
+i przywiozła ją do stolicy.
+Helmburg
+Zamek Helmburg leży w Ostlandzie, na północ od Wolfenburga (zobacz
+mapę, którą możesz pobrać razem z tym scenariuszem). Jak przekonają się
+bohaterowie, nie jest wcale imponującą twierdzą o korzystnym strategicznie
+położeniu. Wręcz przeciwnie – to jeden z pierwszych zamków, które znajdują
+się na drodze inwazji z północy.
+Jego legenda nie jest znana w całym Imperium, ale im bliżej Helmburga, tym
+bardziej wiedza o niej jest powszechna. W istocie prawda jest nieco bardziej
+skomplikowana, o czym bohaterowie przekonają się już na miejscu.
+Helmburg bowiem raz upadł, lecz zostało to zachowane w tajemnicy.
+Legenda a oficjalna linia fabularna Warhammera
+Postać Karla Franza, teoretycznie bardzo ważna dla świata Warhammera, jest
+bardzo skąpo prezentowana w oficjalnych materiałach. W pierwszej edycji
+systemu Cesarz zginął w zamachu skavenów, a następca tronu okazał się mu-
+tantem i również został zgładzony. W drugiej edycji ta wersja uległa resetowi,
+ale o rodzinie Karla Franza wciąż niewiele było wiadomo. W najnowszej edy-
+cji, w kampanii The Enemy Within, cesarz wyrusza na wojnę i zostaje ranny. Do-
+wiadujemy się także, że ma syna, Luitpolda. W Internecie można też znaleźć
+informacje, że cesarz posiada córkę – jej imię nie jest znane.
+Ostateczne starcie z Archaonem zdaje się zbliżać (wybraniec Chaosu został
+nawet opisany w Hero’s Call), ale nie wkroczyło jeszcze w decydującą fazę. We
+wspomnianej kampanii póki co zagrożenie z północy stanowią Norsmeni, którzy
+w The Enemy Within łupią Ostland, w tym miasta Wolfenburg i Smallhof,
+w których pobliżu rozgrywa się akcja Legendy. Czas akcji niniejszego
+scenariusza został zaproponowany tak, by poprzedzać wydarzenia
+z kampanii The Enemy Within. Od MG i graczy zależy, czy zechcą po-
+łączyć te historie w jedną całość.
+Ten scenariusz stara się wykorzystać epicki potencjał Warhammera.
+Z tego powodu wymaga od MG i graczy zaakceptowania podejścia zakładają-
+cego, że podręczniki stanowią przede wszystkim źródło inspiracji. A skoro nie
+ma w nich ani słowa o dalszych dzieciach cesarza, to nic nie stoi na przeszko-
+dzie, aby takie słowa dopisać sobie samemu.
+Z tego powodu w Legendzie pojawią się kolejni potomkowie Karla Franza.
+Wspomniany w The Enemy Within Luitpold wystąpi opcjonalnie w roli trze-
+cioplanowej.
+sceny i ujęcia
+Scenariusz podzielony jest na sceny. Jest ich ponad dwadzieścia, ale MG
+powinien pamiętać o starym krasnoludzkim przysłowiu, że „jak piwo piwu,
+tak i scena scenie nierówna”. Dla przykładu, zazwyczaj sekwencja walki lub
+dużej konfrontacji społecznej będzie trwała dłużej niż pojedynek lub rozmowa
+z oberżystą. Jest to istotne przede wszystkim przy panowaniu nad sesją i dzie-
+leniu czasu pomiędzy graczy.
+Prowadząc, MG musi zwrócić uwagę na to, ilu BG bierze udział w scenie.
+Zazwyczaj są to sceny solowe (rozmowy lub starcia z pojedynczym BN) lub
+zbiorowe, w których niemal zawsze uczestniczą wszyscy członkowie drużyny.
+W tym drugim przypadku mamy w zasadzie do czynienia z sekwencją mniej-
+szych scen, przypominających filmowe ujęcia. Poszczególni gracze dochodzą
+na przemian do głosu – ze swojej inicjatywy, ale także dlatego, że MG chce, by
+deklarowali akcje i wzbogacali fabułę.
+Warto zatem pamiętać o dwóch kwestiach: że takie sceny mogą niebezpiecznie
+wydłużyć czas rozgrywki i że właśnie z tego powodu należy w odpowiednich
+momentach zdecydowanie je ucinać.
+Muzyka, czas i miejsce, postaci
+Na początku każdej sceny zamieszczono sugestię podkładu muzycz-
+nego. Naturalnie, jeśli MG ma swoje ulubione motywy muzyczne, nic
+nie stoi na przeszkodzie, by je zastąpić. Poszczególne sceny mają na
+tyle jasny charakter, że nie powinno to stanowić problemu.
+7
+Całą ścieżkę dźwiękową warto mieć nagraną na jednej płycie lub
+w jednym katalogu. Najlepiej zgodnie z kolejnością scen, by nie tracić czasu
+na zmianę podkładu. Dobrym rozwiązaniem, dodatkowo ułatwiającym zmie-
+nianie muzyki, jest zmiana nazw utworów i zastąpienie ich tytułami scen,
+w których są potrzebne.
+W opisie sceny MG znajdzie również określenie czasu i miejsca, w których
+rozgrywa się scena oraz jej przewidywanych uczestników.
+Opisy scen są możliwie zwięzłe. MG otrzyma najważniejsze informacje o tym,
+jak przedstawić scenę i co mogą zrobić w niej BG. Elementy opisu mają dać
+MG ogólne wrażenie odnośnie klimatu sceny, na podstawie którego będzie
+mógł na sesji na bieżąco budować swoją wizję i reagować na deklaracje graczy.
+Tekst oznaczony czerwoną kursywą zawiera drobne uwagi dla MG dotyczące
+prowadzenia sceny.
+Pod większością scen znajdą się też podsumowania zawierające najważniejsze
+informacje, które powinni otrzymać w jej trakcie gracze.
+Preludium
+oraz
+pierwsze
+sześć
+scen
+stanowią
+pewną
+zamknię-
+tą całość, którą najlepiej postrzegać jak interaktywne wprowadze-
+nie w świat Warhammera (także dla nieznających tego uniwersum),
+w postaci i w konwencję przygody. Z tego powodu nie należy nadmiernie
+przeciągać scen, równocześnie dając graczom chwilę, by zarysowali wstępnie
+swoje postaci.
+W opisie scen zaproponowano konkretne sformułowania, które mają pomóc
+w płynnym przechodzeniu między scenami. MG pod żadnym pozorem nie
+powinien ich czytać. Ich celem jest również zasygnalizowanie graczom, że
+narracja nastawiona jest na opowieść i spójność. Oczywiście są to tylko suge-
+stie – jeżeli w toku sceny MG uzna, że ma lepszy pomysł na cięcia i przejścia
+między scenami, powinien reagować na bieżąco.
+Jako ostatni do gry zostaje wprowadzony Mortimus, co następuje do-
+piero w Scenie IV: Mały Jay i cud. Jeśli MG obawia się, że gracz będzie
+się niecierpliwił, powinien uprzedzić go o tym przed sesją. Warto jed-
+nak pamiętać, że grający Mortimusem już na etapie otrzymania posta-
+ci wie więcej od pozostałych graczy, a Scena V: Mortimus i Teogonista
+jest niejako punktem kulminacyjnym wprowadzenia, podkreślającym
+wyjątkową rolę kapłana w historii Helmburga. To powinno zrekompensować
+graczowi nieco dłuższą chwilę oczekiwania.
+Trzy przykazania jednostrzału
+Legenda to jednostrzał, a takie przygody rządzą się swoimi prawami. Nawet je-
+żeli gracze są przyzwyczajeni do takiej formy rozgrywki, warto przypomnieć im
+tuż przed sesją o poniższych zasadach.
+I. Wszystko ma znaczenie.
+To jednostrzał. Został zaprojektowany z myślą o konkretnych postaciach.
+Wszystko jest podporządkowane ich wątkom osobistym. Z tego powodu
+wszystko, co masz wpisane na karcie lub w opisie postaci, jest ważne.
+II. Nie odwlekaj nadmiernie decyzji.
+To jednostrzał, a nie kampania. Nie zwlekaj zbyt długo z odważnymi decyzjami.
+Później nie będzie na nie czasu.
+III. Nie bój się odważnych decyzji.
+To jednostrzał. Jeśli chcesz zrobić coś epickiego – zrób to. Postać musi wyko-
+rzystać swój potencjał, bo jest jednorazowego użytku. Już nigdy więcej nią nie
+zagrasz. Nie bój się przy tym, że coś popsujesz. Jeśli będziesz trzymał się kon-
+wencji, Mistrz Gry bez problemu dostosuje się do twoich deklaracji.
+8
+Legenda
+Preludium
+Muzyka: Two Steps From Hell: HORRORS AND ENCHANTMENTS
+Czas i miejsce: 2521 lat temu, Przełęcz Czarnego Ognia
+Postaci: Sigmar
+Poniższy opis powinien być krótki, możliwie plastyczny, przenoszący graczy do Stare-
+go Świata. Pod żadnym pozorem go nie czytaj, tylko opowiedz swoimi słowami.
+Wielka bitwa dobiega końca. Zewsząd słychać krzyki i szczęk broni.
+Potężny mężczyzna paruje uderzenie ogromnego orka i z trzaskiem miażdży
+jego czaszkę wielkim bojowym młotem. Wszystko wokoło nieruchomieje,
+bitwa jest wygrana.
+Mężczyzna o surowym, lecz szlachetnym obliczu spogląda w niebo. W jego
+oczach odbija się blask komety o dwóch ogonach.
+Wznosimy się w górę za spojrzeniem Sigmara, aż ogień z dwóch ogonów ko-
+mety układa się w płonący napis: WARHAMMER FANTASY ROLEPLAY,
+3. EDYCJA.
+2521 lat później.
+Patrzymy z góry na pokryte lasami prowincje Imperium. Z tej wysokości
+wszystko jest ciche i spokojne, a tylko mieniący się fioletem mrok na północy
+rzuca niepokojące cienie. Jednak nad Altdorfem, Miastem Tysiąca Wież, nad
+którym teraz się znajdujemy, niebo jest błękitne i – jak na zimę przystało – sta-
+lowo jasne.
+Jeszcze.
+Przejdź płynnie opisem do kolejnej sceny.
+scena i: cesarZ i córka
+Muzyka: Two Steps From Hell: HORRORS AND ENCHANTMENTS, później X-Ray Dog:
+HERE COMES THE KING
+Czas i miejsce: wieczór, sala w pałacu cesarskim
+Postaci: Siegrid, cesarz Karl Franz, Luitpold
+Opadamy gwałtownie w dół między tłoczne, wciąż pełne wrzawy i codzien-
+nych radości uliczki Altdorfu. Pędzimy między zaułkami, ponad wspaniałymi
+posiadłościami i świątyniami prosto do cesarskiego pałacu.
+Mijamy łopoczące na wietrze proporce, krążymy po przestronnych salach
+i szerokich korytarzach, aż wreszcie wkradamy się do strzeżonej przez gwar-
+dzistów sali tronowej. Ta jest pusta, ale z niewielkich drzwi do bocznej kom-
+naty dobiega głos…
+W sali na rzeźbionym krześle siedzi ponad pięćdziesięcioletni mężczyzna
+o przyprószonych siwizną włosach i surowym, lecz szlachetnym obliczu, ide-
+alnym do kucia na monetach. Korona dostojnie spoczywa na jego głowie.
+Oficjalne materiały do Warhammera mówią o Luitpoldzie, synu cesarza. MG ma dwie
+możliwości: albo zignorować tę nieodgrywającą znacznej roli postać, albo wprowadzić
+ją dla smaczku do tej sceny. W tej wersji mały Luitpold to śliczny chłopiec, bawiący
+się żołnierzykami u stóp wydającego rozkazy ojca. Karl Franz powinien w którymś
+momencie zwrócić się do niego po imieniu.
+W komnacie jest jeszcze jedna osoba, na którą cesarz Karl Franz kieruje wzrok.
+W tym miejscu pozwól graczce wcielającej się w Siegrid opisać swoją bohaterkę. Pod-
+czas tej sceny postaraj się zapamiętać jakąś jedną charakterystyczną reakcję lub dekla-
+rację dotyczącą jej relacji z ojcem.
+W stosunku do swojej córki cesarz jest oschły i formalny. Traktuje ją jak każde-
+go innego poddanego, nie okazuje uczuć.
+Graczka wcielająca się w Siegrid wie, że odgrywa córkę cesarza. Pozostali
+gracze jednak – o ile nie pochwaliła się przed sesją – o tym nie wiedzą. Karl
+Franz w żadnej chwili nie zwraca się do Siegrid w sposób zdradzający ich po-
+krewieństwo. Pozwól, by to od grającej Siegrid lub rozwoju sytuacji zależało,
+w którym momencie wszyscy dowiedzą się, kim jest.
+9
+Dla wszystkich graczy – nawet jeśli okaże się, że dla ich postaci była to oczywistość –
+powinno być to przyjemne zaskoczenie.
+Karl Franz wezwał Siegrid, by przedstawić jej sytuację panującą na północy
+i zlecić wypełnienie niebezpiecznej misji. Na północy i na wschodzie w Kisle-
+vie trwa wojna. Cesarz wyjaśnia Siegrid, że od dawna nie miał żadnych wieści
+od swojego pierworodnego syna, Siegfrieda, który wyruszył tam na czele licz-
+nych wojsk. Do stolicy docierają same niepokojące wieści i władca obawia się,
+że Altdorf może niebawem być zagrożony.
+Gdy Cesarz opowiada o Siegfriedzie, postaraj się oddać, że jest dumny z syna, ale
+i prawdziwie zaniepokojony. Sama scena, o ile to możliwe, powinna przejść w dialog.
+Jeżeli graczka skupi się na słuchaniu, nie rozwlekaj sceny – pozostali gracze czekają na
+swoje wprowadzenia.
+Cesarz informuje Siegrid, że w najczarniejszej godzinie ratunkiem dla stolicy
+może być tajemnica położonej w Ostlandzie twierdzy Helmburg. Zgodnie
+z legendą i faktami historycznymi zamek ten nigdy w swojej kilkusetletnich
+dziejach nie został zdobyty. Siegrid otrzyma niezbędne listy żelazne i ma udać
+się tam w asyście dwójki zaufanych ludzi, by dowiedzieć się, na czym polega
+sekret zamku.
+Wręcz graczce List Cesarski. Nie przeciągaj tej sceny, ale pozwól graczce chwilę pograć
+z BNem. Gdy nastąpi dobry moment na cięcie, przejdź natychmiast do następnej sceny.
+Najważniejsze informacje:
+• Na północy, w Kislevie trwa wojna z Chaosem
+• Siegfried, syn cesarza, walczy w Kislevie
+• Altdorf niebawem może być zagrożony
+• Cesarz każe Siegrid wyruszyć do Helmburga
+• Helmburg to słynna niezdobyta twierdza
+• Siegrid ma poznać jej tajemnicę, by ocalić stolicę
+• Siegrid dostaje listy żelazne, pojedzie z zaufanymi ludźmi
+scena ii: wOlfenburg, Ostland, ObóZ uchOdźców
+Muzyka: Two Steps From Hell: MERCY IN DARKNESS
+Czas i miejsce: miesiąc później, ognisko w wielkim obozie uchodźców pod Wolfen-
+burgiem, wieczór
+Postaci: Ordo, uchodźcy
+Połóż przed graczami mapę Ostlandu.
+Zacznij od słów (możesz zaproponować graczom, by wyobrazili je sobie jako litery po-
+jawiające się na ekranie): Miesiąc później, obóz uchodźców pod Wolfenburgiem
+w Ostlandzie
+Wieczór, pada, deszcz skwierczy na rozrzuconych ogniskach. Obóz uchodź-
+ców śmierdzi obozem uchodźców. Paleta zapachów miesza się z pokasływa-
+niem starców i płaczem dzieci.
+Przy jednym z wielu wozów rozpalono ognisko. Blask płomieni oświetla twarz
+starego mężczyzny.
+W tym miejscu pozwól opisać się Ordo. Tak jak w przypadku Siegrid uważnie słuchaj
+gracza i w dalszych scenach nawiązuj do jego wizji postaci.
+Gdy grający Ordo skończy opis, do BG zwraca się siedzący obok mężczyzna,
+wyraźnie zmęczony wielodniową podróżą, brudny, w zniszczonym ubraniu.
+Wygląda na to, że rozmowa toczy się już od jakiegoś czasu.
+Mężczyzna przypomina Ordo, że na północy nie ma czego szukać. Wojna sza-
+leje za granicą Ostlandu w Kislevie. Nikt do końca nie wie, co tam się dzieje,
+ale ludzie już przestali przekraczać granicę. Na pograniczu grasują liczne od-
+działy sił Chaosu. Nie ulega wątpliwości, że to tylko awangarda głównych
+wojsk. Nastroje przy ognisku są minorowe.
+Do rozmowy, dla zabicia czasu, włączają się inni uchodźcy. Bukłak
+z podłą wódką krąży z rąk do rąk. W końcu ktoś stwierdza, że „je-
+dyna nadzieja w Helmburgu”. Wszystko wskazuje na to, że ludzie z
+tych stron znają legendę twierdzy i zaczynają na przemian opowia-
+dać coraz to bardziej niestworzone historie o tym, jakie nawałnice
+przetrwała. Poza tym pewnych informacji od tych prostych ludzi
+trudno uzyskać, choć wiedzą, że zamkiem rządzi rodzina von Turm.
+10
+Bohater może sam sięgnąć do swojej pamięci i przypomnieć sobie to na-
+zwisko. Aby tego dokonać, musi wykonać test Folklore (2d).
+Wszyscy odradzają Ordo wyprawę w tamtą stronę. W pewnym momencie
+ktoś spyta się fechmistrza, z jakiego powodu udaje się do Helmburga.
+W tym momencie przejdź do następnej sceny.
+Najważniejsze informacje:
+• W Kislevie szaleje wojna
+• Na pograniczu grasuje wiele oddziałów Norsmenów i sił Chaosu
+• Legenda Helmburga jest żywa, ludzie wierzą w moc twierdzy
+scena iii: cesarZ i OrdO
+Muzyka: X-Ray Dog: HERE COMES THE KING
+Czas i miejsce: miesiąc wcześniej, sala w pałacu cesarskim
+Postaci: Ordo, cesarz, sługa cesarza
+Zacznij słowami: Miesiąc wcześniej, Altdorf, pałac cesarski
+W niewielkiej sali na zdobionym krześle siedzi… ponad pięćdziesięcioletni
+mężczyzna o przyprószonych siwizną włosach i surowym, lecz szlachetnym
+obliczu, idealnym do kucia na monetach. Korona dostojnie spoczywa na jego
+głowie.
+Jeżeli chcesz, również w tej scenie możesz wprowadzić postać Luitpolda, najmłodszego
+syna cesarza, który bawi się ołowianymi żołnierzykami u stóp ojca.
+W komnacie jest jeszcze jedna osoba, na którą cesarz Karl Franz kieruje wzrok.
+Tutaj w dwóch słowach opisz Ordo, odwołując się do jego własnych słów
+z poprzedniej sceny. Zaakcentuj jakąś cechę, którą przywołał wówczas gracz.
+Cesarz traktuje Ordo z szacunkiem, ale i lekką swadą, jakby byli sta-
+rymi druhami, którzy niejedno razem przeszli. Pyta się o ranę, którą
+niedawno odniósł Ordo i mimochodem, z dobrotliwą kpiną wtrąca
+uwagę o wieku fechmistrza.
+Podobnie jak w przypadku Siegrid pozwól
+graczowi na chwilę rozmowy z cesarzem.
+Dialog ma na celu pozwolić graczowi
+w paru słowach zaprezentować swoją po-
+stać.
+Następnie cesarz informuje Ordo,
+że ma dla niego zadanie. Wysy-
+ła swojego zaufanego człowieka do
+twierdzy Helmburg, a szermierz
+ma mu towarzyszyć i go wspierać.
+Na jego skinienie zjawia się słu-
+ga i wręcza Ordo skórzany futerał
+z trzema zalakowanymi listami.
+Wręcz graczowi trzy listy z rozkazami,
+które znajdziesz w dziale Pomoce.
+Jeżeli grający Ordo zapyta się, kim jest
+ten wysłannik, cesarz odpowie, że to ktoś,
+kogo fechmistrz dobrze zna. Tożsamość
+Siegrid powinna jednak jeszcze przez ja-
+kiś czas pozostać tajemnicą, by to prowa-
+dząca ją graczka mogła wybrać moment
+na ujawnienie swojej rangi. To chwyt po-
+legający na rozdzieleniu wiedzy postaci od wiedzy gracza.
+Cesarz tłumaczy Ordo, jakie jest przeznaczenie wręczonych listów. Znajdują
+się w nich rozkazy cesarskie, do których ma się stosować podczas swojej misji.
+• Pierwszy z nich ma otworzyć, gdy przybędzie do Helmburga.
+• Drugi, gdy życie następcy tronu cesarstwa znajdzie się w niebezpieczeń-
+stwie.
+•
+Trzeci, gdy nie będzie szans na zwycięstwo.
+Jeżeli cesarz zostanie zapytany, co oznaczają te enigmatyczne instruk-
+cje, zbędzie je machnięciem ręki. Poleca Ordo, by ufał swojemu osą-
+dowi i postępował zgodnie z jego rozkazami.
+11
+Gdy wszystko będzie jasne, nie przeciągaj sceny. Utnij ją i przejdź natychmiast do
+następnej.
+Najważniejsze informacje:
+• Ordo wyrusza z wysłannikiem cesarza do Helmburga
+• Cesarz pyta się o ranę Ordo
+• Ordo otrzymuje od cesarza trzy listy, które ma otworzyć w określonym cza-
+sie
+scena iV: mały jay i cud
+Muzyka: Ordo Funebris: LYCANTHIA, później Two Steps From Hell: BIRTH OF POWER
+Czas i miejsce: miesiąc później, obóz uchodźców pod Wolfenburgiem, ognisko, wie-
+czór
+Postaci: Mortimus, Ordo, Mały Jay, uchodźcy
+Zacznij od słów: Wieczór, pada, deszcz skwierczy na rozrzuconych ogniskach.
+Obóz uchodźców śmierdzi obozem uchodźców. Paleta zapachów miesza się
+z pokasływaniem starców i płaczem dzieci.
+Ordo nie ma czasu odpowiedzieć na pytanie o powód wyprawy. Ktoś wpy-
+cha się między niego i mężczyznę, z którym rozmawiał, bezceremonialnie
+odpycha tego drugiego i zajmuje jego wygrzane miejsce. Sadowiąc się wy-
+godnie, przywłaszcza sobie bukłak z wódką, pociąga łyk i prycha z dezapro-
+batą. Stwierdza, że cała ta legenda o Helmburgu to jedna wielka bujda. Jego
+zdaniem, gdy obrońcy zamku zobaczą wojska Chaosu, umkną, gdzie pieprz
+rośnie. On sam polega na swojej sile i szczęściu.
+Mężczyzną jest Mały Jay, zwalisty mężczyzna o łysej czaszce i bujnej, brudnej
+brodzie. Ma przy sobie łuk i groźnie wyglądający kostur. Traktuje wszystkich
+z pogardą i nie dzieli się napitkiem.
+Grający Ordo może wykonać test Intuition (3d), w którym do rzutu otrzy-
+muje 1 dodatkową kostkę Expertise. Jeśli test się powiedzie, Ordo zorien-
+tuje się, że Mały Jay jest banitą.
+Jay, o ile jeszcze nie zdenerwował Orda, zaczyna go prowokować. Kpi
+z jego wieku i czyni aluzje do rozmiarów broni. Wreszcie wskazuje na
+starca drzemiącego obok, opartego o koło wozu i sugeruje, że pewnie
+„obaj dziadkowie wybrali się na pielgrzymkę”.
+W tym momencie pozwól opisać się „dziadkowi”, czyli Mortimusowi. Posta-
+raj się zapamiętać przynajmniej jeden charakterystyczny element wyglądu ka-
+płana i wykorzystać go w przyszłości.
+Jeżeli Ordo i Mortimus trzymają nerwy na wodzy, Mały Jay daje sobie spo-
+kój, dopija wódkę, beka głośno i zmierzywszy wszystkich groźnym wzrokiem,
+opuszcza kompanię. Jeżeli jednak uda mu się sprowokować kogoś z BG, po-
+zwól na krótką konfrontację. Banita nie jest żadnym wyzwaniem dla bohate-
+rów i mogą go upokorzyć w dowolny wymyślony sposób. On sam nie chce
+bynajmniej walczyć – pojawił się w obozie, by rzucić okiem na potencjalne
+ofiary. O ile za sprawą BG nie dojdzie do jakiegoś radykalnego rozwiązania
+sporu, jeszcze Małego Jay’a spotkają. I to szybciej niż się spodziewają.
+Gdy uznasz, że nadszedł odpowiedni moment…
+Nagle ktoś woła: „Kapłan! Czy jest tu jakiś kapłan?!” Pomiędzy ogniskami
+szybkim krokiem przechodzi zdyszany mężczyzna, jeszcze jeden z uchodź-
+ców. Jeżeli Mortimus się do niego odezwie, człowiek zacznie błagać go, by
+poszedł za nim. Jego towarzysz podróży, z którym uciekli z rodzinnej wioski,
+jest ranny.
+Nieco dalej, na prowizorycznym posłaniu pod jednym z wozów leży mężczy-
+zna. Trawi go gorączka. Jego stan jest krytyczny i niebawem bardziej przyda
+mu się kapłan Morra. Szybkie oględziny ciała pozwolą stwierdzić trzy rany po
+strzałach w plecach i karku. Towarzysz konającego rzuci gniewnie: „Banici”.
+Gdyby gracze w tym momencie zadeklarowali, że szukają Małego Jay’a, okaże
+się, że banita zniknął.
+Cud?
+Muzyka: Two Steps From Hell: BIRTH OF POWER
+Ranny miałby większe szanse, gdyby znajdował się w dobrych warunkach.
+W tej chwili, nawet gdyby interweniowała Siegrid, mężczyzna umrze – jest
+już za późno. Umrze, jeśli nie stanie się cud.
+W chwili obecnej posiada 15 ran, wobec Wound Treshold na po-
+ziomie 10. Z tego dwie rany są krytyczne o Severity 3 (Mistrz Gry
+powinien wybrać dowolne dwie o tej wartości). Posiada też Tough-
+ness na poziomie 3 oraz Resilience 1.
+12
+Aby doszło do cudu, Mortimus musi wyleczyć 5 zwykłych ran
+i 2 krytyczne rany. Mężczyznę uratuje tylko pomoc medyczna i następują-
+ce po nim błogosławieństwo.
+Test Medicine posiada trudność 2d. Mortimus otrzymuje przy tym 2 kostki
+Misfortune ze względu na stan pacjenta i fatalne warunki.
+Za każdy uzyskany sukces ranny odzyskuje jedną ranę (maksymalnie 3).
+Następnie Mortimus musi skorzystać z błogosławieństwa. W swoim arsenale
+ma wyłącznie Healing Hand.
+Warto zwrócić uwagę, że najlepiej skorzystać z jego wersji conservative, gdyż
+to ona pozwala wyleczyć – przy uzyskaniu 5 sukcesów – jedną ranę krytyczną
+(obraca się ją na normalną) i dwie rany normalne. Wersja reckless pozwala
+wyleczyć więcej ran normalnych, ale żadnej krytycznej i niesie ze sobą ryzyko
+wywołania kolejnego krytycznego obrażenia.
+Należy pamiętać, że podczas każdego błogosławieństwa Mortimus ma trud-
+ność podniesioną o 1d.
+Mortimus może poświęcić czas na przygotowanie się do błogosławieństwa,
+przesuwając swój stance maksymalnie w kierunku conservative.
+W tej chwili do szczęścia brakuje udanego testu Resilience (Toughness), od-
+powiadającego nocnemu odpoczynkowi, który pozwoliłby zniwelować efek-
+ty drugiej krytycznej rany. Ranny używa do niego 3 kostek Characteristic
+i 1 kostki Expertise za skill. Musi uzyskać 3 sukcesy równe poziomowi Severi-
+ty krytycznej rany.
+Niech ten test wykona gracz prowadzący Mortimusa. Jeśli chcesz, możesz pozwolić
+mu skorzystać z jego własnych kostek Fortune (ale nie drużyny).
+Jeżeli test się powiedzie, śmiertelna gorączka ustępuje, a rany goją się.
+Stan mężczyzny wciąż jest ciężki, ale będzie żył. Zgromadzeni wokół
+ludzie padają na kolana, modlą się i patrzą z nabożną czcią na Morti-
+musa. Towarzysz ocalonego klęka przy nim i mówi głośno: „Chwała
+Sigmarowi, który zesłał nam swojego sługę!”
+Dodatkowo, jeżeli Mortimus zdradził się ze swoim imieniem, wszyscy prze-
+kazują je z ust do ust. Po chwili cały obóz obiega wieść o tym, że Mortimus
+Nieugięty jest między nimi. Wszyscy nie mogą pojąć, skąd wziął się tutaj tak
+słynny heros?
+Gdy to pytanie wybrzmi, przejdź do kolejnej sceny. Lub…
+W bardziej mrocznej wersji jeden z testów może się nie udać (szanse na to są
+duże). Mortimus będzie świadkiem, jak mężczyzna umiera, bezgłośnie poru-
+szając ustami. Ostatni szept ułoży się w imię Sigmara. Nikt nie będzie obwi-
+niał Mortimusa o śmierć uchodźcy. Kapłan usłyszy tylko zawiedzione, pełne
+goryczy głosy: „Chaos nadciąga i nawet Sigmar nas opuścił”.
+To zdanie wybrzmi z jeszcze większą siłą, jeśli wcześniej Mortimus zdradzi
+swoje imię i ludzie zorientują się, kim jest.
+Najważniejsze informacje:
+• Uchodźców nękają banici
+• Nie wszyscy wierzą w legendę Helmburga
+scena V: mOrtimus i teOgOnista
+Muzyka: Two Steps From Hell: BIRTH OF POWER
+Czas i miejsce: miesiąc wcześniej, Altdorf, komnata Wielkiego Teogonisty w świątyni
+Sigmara
+Postaci: Mortimus, Wielki Teogonista Sigmara Volkmar Ponury
+Zacznij od: Miesiąc wcześniej, Wielka Świątynia Sigmara w Altdorfie
+Powietrze w komnacie Wielkiego Teogonisty Sigmara, Volkmara, jest przesy-
+cone kwaśnym zapachem potu. Światło świec pada na bruzdy na jego czole
+i przerzedzone włosy. Reszta wspaniałej komnaty ginie w mroku. Sta-
+rzec leży wsparty na poduszkach. Oddycha z trudem, gdy wita się
+z Mortimusem.
+Podobnie jak w przypadku spotkania Ordo z cesarzem, skrótowo opisz kapła-
+na. Spróbuj zaakcentować jakąś cechę wyglądu lub zachowania Mortimusa,
+którą gracz wymienił, opisując się w poprzedniej scenie.
+13
+Teogonista pyta się Mortimusa o zdrowie i stan ducha. Volkmar szybko jed-
+nak przechodzi z niezobowiązującej rozmowy do sedna sprawy. Pyta się, czy
+Mortimus jest gotów wypełnić misję największej wagi. Wyjaśnia, że cesarz
+Karl Franz prosił go o wyznaczenie zaufanego kapłana, który będzie towa-
+rzyszył jego wysłannikowi.
+Jeżeli grający Mortimusem zapyta się, kim jest ten wysłannik, Teogonista odpowie,
+że to ktoś, kogo kapłan dobrze zna. Tożsamość Siegrid powinna jednak jeszcze przez
+jakiś czas pozostać tajemnicą, by to prowadząca ją graczka mogła wybrać moment na
+ujawnienie swojej rangi. To chwyt polegający na rozdzieleniu wiedzy postaci od wie-
+dzy gracza.
+Celem wyprawy jest Helmburg. Volkmar czeka chwilę na reakcję Mortimusa
+na dźwięk tej nazwy.
+W toku rozmowy Wielki Teogonista wyznaje, że widzi w tym jakiś boży za-
+mysł. Mówi z troską, iż wie o głębokich wątpliwościach duchowych Mortimu-
+sa. Ma również świadomość, że 60 lat temu kapłan był w Helmburgu i stało się
+tam coś, co sprawiło, że jego wiara się zachwiała. Uważa, że przeznaczeniem
+Mortimusa jest powrócić do zamku i dbać o zachowanie porządku.
+Staraj się nie przeciągać nadmiernie tej sceny, ale uważnie słuchaj wypowiedzi gracza
+wcielającego się w Mortimusa. Najważniejsze są jego deklaracje dotyczące wiary.
+Volkmar w toku rozmowy powie swojemu przyjacielowi, że nawet jeśli Mor-
+timus stracił wiarę w Sigmara, to Sigmar nigdy nie zwątpił w niego. Nawet
+jeśli wie, co wydarzyło się w Helmburgu 60 lat temu, ani słowem nie wspomni
+o ówczesnym tchórzostwie kapłana.
+MG również musi pamiętać o tym, by nie zdradzić przeszłości Mortimusa. Decyzja
+o wyznaniu swojego udziału w przeszłych wydarzeniach należy w tej przygodzie do
+samego gracza.
+Gdy rozmowa dobiegnie końca, przejdź do kolejnej sceny.
+Najważniejsze informacje:
+• Cesarz potrzebuje zaufanego kapłana
+• Wielki Teogonista wie, że Mortimus 60 lat temu był w Helmburgu
+• Teogonista chce, aby Mortimus zadbał o zaprowadzenie porządku
+scena Vi: strażnicy dróg, cZyli Ostatnie słOwa małegO jaya
+Muzyka: Two Steps From Hell: NORTH COUNTRY
+Czas i miejsce: miesiąc i dwa dni później, poranek, droga z Wolfenburga do Kisleva
+Postaci: Siegrid, Mortimus, Ordo, strażnicy dróg, Mały Jay
+Możesz zacząć od słów: Miesiąc i dwa dni później, wczesny ranek, na drodze
+z Wolfenburga do Kisleva.
+Deszcz przestał padać, zamiast tego w oczy jeźdźców wieje mroźny wiatr
+z północy. Zamarzające błoto pryska spod końskich kopyt. Jeźdźcy wypadają
+zza zakrętu i pierwszy z nich gwałtownie osadza wierzchowca w miejscu.
+W odległości kilkudziesięciu metrów, przy drodze widać osobliwą scenę.
+Oddział strażników dróg przeprowadza właśnie doraźną egzekucję. Z ga-
+łęzi zwisają powrozy, na dwóch z nich dyndają już bezwładnie ciała kobiety
+i mężczyzny. Na ich szyjach zawieszono tabliczki z napisami: „Napadałem na
+uchodźców” oraz „Banici, zostaliście ostrzeżeni”. Strażnicy właśnie przygoto-
+wują się do powieszenia trzeciego więźnia.
+Strażnicy zauważają podróżników. Jest ich ośmiu, wliczając sierżanta.
+Test Observation (1d) pozwala zauważyć, że część strażników jest ran-
+nych i że oddział posiada kilka nadmiarowych koni.
+Strażnicy na chwilę porzucają absorbujące zajęcie. Nie są ostentacyjnie wro-
+dzy, ale kilku ładuje kusze, a pozostali sięgają po włócznie i miecze. Sierżant
+stanowczym gestem nakazuje drużynie się zbliżyć.
+Bohaterowie zostają spytani o to, kim są i jaki jest ich cel podróży. Tylko od
+nich zależy, ile wyjawią. Sierżant zażąda, by zsiedli z koni i pozwolili przeszu-
+kać swój bagaż. Działa z uprawnienia lokalnych władz, które muszą zwracać
+uwagę na podejrzanych wędrowców i tępić banitów. Powieszeni mężczyzna
+i kobieta to właśnie członkowie jednej z grasujących band.
+Co mogą zrobić Bohaterowie?
+Okazanie listu z pieczęcią cesarską załatwi sprawę w okamgnieniu
+i sprawi, że strażnicy wyraźnie odetchną.
+14
+Jeżeli Siegrid okaże list i wyjawi, kim jest, strażnicy zaoferują eskortę.
+Jeżeli stanowczo odmówią, sierżant będzie starał się przemówić im do
+rozsądku. Zaoferuje również, że mogą udać się z nimi do Wolfenburga (czyli
+z powrotem), gdzie porozmawiają z jego przełożonym.
+Każdy z BG może próbować przekonać sierżanta, by ich puścił bez prze-
+szukiwania. Test Fellowship (2d) +1 Fortune, jeśli Ordo lub Mortimus
+ujawnią, kim są.
+Jeżeli Siegrid powie, kim jest, ale nie pokaże listu cesarskiego, spotka się
+z kpiną („Jasne, a ja jestem cesarzem Kataju”) i otrzyma +2 Misfortune do
+testu.
+Bohaterowie mogą też zwyczajnie dać się przeszukać – w końcu nie mają nic
+do ukrycia. W tym, wypadku dojdzie jednak do nieoczekiwanego incyden-
+tu. Sierżant, oddając wodze konia Ordo, nagle podciągnie rękaw jego koszuli
+i odsłoni więzienny tatuaż. Sytuacja nagle stanie się bardzo napięta.
+W tym momencie wszystkie testy przekonywania otrzymują +2d do trud-
+ności, a sprawę natychmiast może rozwiązać wyłącznie okazanie listu ce-
+sarskiego.
+W grę wchodzi też walka, ale wtedy bohaterowie powinni poważnie przemy-
+śleć swój status herosów Imperium.
+Co z banitą?
+Ostatni banita to… Mały Jay. Przez cały czas siedzi na koniu i nerwowo przy-
+gląda się rozwojowi sytuacji, czekając na okazję do ucieczki. Niestety, ma
+związane za plecami ręce, a jeden ze strażników trzyma konia. Gdyby jakimś
+przypadkiem doszło do walki, spróbuje spiąć konia i uciec.
+W innym wypadku, gdy strażnicy skończą przesłuchanie podróżnych, wrócą
+do obowiązków służbowych. Jeden z nich sprawnie przerzuci pętlę
+przez gałąź, a drugi założy ją na szyję przestępcy. Wszyscy cofną się,
+a sierżant zaznaczy, że to już trzeci raz, gdy banita ma zostać straco-
+ny. W poprzednich dwóch przypadkach zawsze ktoś przychodził mu
+z odsieczą. Spyta się skazańca, czy z okazji trzeciej edycji swojego
+wieszania Mały Jay ma coś do powiedzenia. Banita wyraźnie przygo-
+towywał jakieś „słynne ostatnie słowa”, ale w tym momencie jeden ze strażni-
+ków – ku uciesze pozostałych – klepie konia w zad i kwestia więźnie Małemu
+Jayowi w gardle.
+Gdy Jay skończy wierzgać, jeden ze strażników podjedzie i zawiesi mu na szyi
+tabliczkę z napisem: „Mały Jay. Szczęście w końcu go opuściło”.
+W tym momencie możesz uciąć tę scenę.
+Interwencja Ordo
+Gracz prowadzący Ordo może zobaczyć w osobie Jaya siebie samego sprzed
+wielu lat i wstawić się za nim. Stanowcza interwencja cesarskich wysłanników
+z pewnością ocali życie banity. Pozwól wówczas graczom zadecydować o jego
+dalszych losach. Mogą odesłać go do więzienia lub nawet zabrać ze sobą…
+To, jak będzie postępował później Mały Jay, zależy już od MG oraz
+gracza prowadzącego Ordo.
+Od tej pory Małego Jaya należy traktować jako sprzymierzeńca,
+o którego akcjach decyduje Ordo.
+Pozwól graczowi kierującemu Ordo wybrać figurkę dla Jaya.
+Mały Jay
+• St 3
+• To 3 +3 Fortune
+• Ag 3
+• Int 3
+• WP 3
+• Fel 3
+Umiejetności (Wytrenowanie): Balli-
+stic Skill 3
+Conservative stance: 3
+Wounds: 13
+Damage: 3
+Soak: 3
+Defence: 3
+Aggression: 3
+Cunning: 3
+Expertise: 3
+Ordo otrzymuje +1 Fortune do wszyst-
+kich testów Intimidation, jeśli w pobli-
+żu jest Mały Jay.
+Mały Jay dysponuje również jedną kartą
+akcji ataku (wręcz lub dystansowego).
+W trakcie walki gracz prowadzący Ordo
+może, zamiast wykonywać swoją akcję
+w turze, wykonać atak Małego Jaya.
+15
+Scena alternatywna: Mały Jay kontratakuje
+Postać Małego Jaya to oczywiście hołd złożony autorowi systemu, Jayowi Lyttle. Jeśli
+żaden z BG nie postanowił profilaktycznie dobić wisielca i masz ochotę na odrobinę
+humoru w mrocznym świecie Warhammera, po zakończeniu powyższej sceny opisz
+graczom, co stało się po ich odjeździe…
+Strażnicy odprowadzają wzrokiem trójkę podróżników, aż ci znikną w oddali.
+Spoglądają ostatni raz na wisielców, spluwają i ruszają do Wolfenburga. Po
+chwili słychać tylko szum wiatru, krakanie zlatujących się wron i… trzeszcze-
+nie drewna.
+Trzeszczenie, które przechodzi w trzask. Ciało Małego Jaya zwala się na zie-
+mię. Pierwszy ciekawski kruk siada na łysej czaszce banity i próbuje dziobnąć
+mężczyznę w oko.
+Nagle oko się otwiera, a Mały Jay gwałtownie siada, zaczerpując powietrza,
+kaszląc i wypluwając płuca. Rozgląda się wokoło.
+W końcu z jego pokiereszowanego gardła wydobywa się charkot: „Może za
+czwartym razem wszystkim nam pójdzie lepiej…”
+Przejdź do następnej sceny.
+PierwsZy dZień na Zamku
+scena Vii: PrZybycie dO helmburga
+Muzyka: X-Ray Dog: TUNNEL OF DARKNESS
+Czas i miejsce: następnego dnia pod wieczór, Helmburg, pod murami, dziedziniec
+i sala w zamku
+Postaci: Siegrid, Mortimus, Ordo, Einar, kapitan von Schatten
+Tuż przed zachodem słońca, miesiąc i trzy dni od wyruszenia z Al-
+tdorfu, bohaterowie, porzuciwszy wcześniej gęste lasy, docierają do
+Helmburga. Może to kwestia znużenia podróżników, ale zamek nie
+wygląda zbyt imponująco. Położony na jednym z licznych wzgórz
+nie wydaje się specjalnie korzystnie umiejscowiony. Twierdza nie
+jest nawet otoczona fosą, a do głównej bramy wiedzie wnosząca się
+łagodnie, dobrze utrzymana droga. Od strony najbardziej stromego zbocza
+mury są w zasadzie niedostępne, ale poza tym twierdza nie rzuca bywałych
+w świecie bohaterów na kolana.
+Gdy bohaterowie zbliżają się do murów, dostrzegają ślady walk. Na ziemi nie
+ma żadnych trupów, ale w wielu miejscach widać pozostałości ognisk, elemen-
+ty uzbrojenia.
+W pewnym oddaleniu widać też coś, co wygląda na ogromny stos spalonych
+ciał, z którego wystają piki z pozatykanymi głowami.
+W tym momencie połóż przed graczami plan Helmburga.
+Możesz – ale nie musisz! – w którymś momencie tej sceny zasugerować graczowi pro-
+wadzącemu Ordo, że powinien otworzyć pierwszy list.
+Gdy gracze zbliżają się do zamkniętej bramy, słyszą dobiegające
+z murów okrzyki. Dostrzegą też herby widniejące na łopoczących na wietrze
+flagach: przedstawiają one wieżę z wieńczącą ją imperialną czaszką.
+Udany test Observation (3d), Leadership (2d) lub Tradecraft (2d) pozwoli
+zauważyć, że brama jest nowsza od reszty zamku. Liczy zapewne ponad
+pięćdziesiąt lat.
+Gracz prowadzący Mortimusa również może wykonać test, by poznać
+wiek bramy. Jeżeli chcesz lub jeżeli się o to spyta, możesz dodać, że to nie
+jest ta sama brama, którą pamięta sprzed 60 lat.
+Bohaterowie zostaną okrzyknięci z murów, aby się przedstawili. Mogą powie-
+dzieć, kim są, ale nie jest to niezbędne. Jak w przypadku strażników dróg, list
+cesarski otworzy każdą bramę i ułatwi rozmowę, ale Helmburg nie jest niego-
+ścinny. Nikt nie zostawi przybyszów pod murami.
+Za bramą
+Skrzydła potężnej bramy uchylają się i bohaterowie mogą wjechać
+do środka. W wielu miejscach widzą ślady po walce – osmalone
+mury, plamy krwi i bardziej plugawych substancji, nadpalone części
+budynków.
+16
+Test Leadership (2d) pozwoli ocenić, że bitwa rozegrała się około trzech
+dni temu.
+Pomimo okoliczności dziedziniec Helmburga może stanowić wzór porządku.
+Na pierwszy rzut oka widać, że panuje tutaj wojskowa dyscyplina i wszyscy
+znają swoje miejsce.
+Kapitan von Schatten
+Przybycie bohaterów wywołuje spore zainteresowanie. Na dziedzińcu żołnie-
+rze pomogą im zsiąść z koni i zabiorą je do stajni. Zewsząd będą spoglądać
+na nich zaciekawione oczy mieszkańców. Przybysze zostaną też niezwłocznie
+przywitani przez dowódcę załogi zamku, panią kapitan von Schatten.
+Kapitan von Schatten jest pewną siebie, przystojną, zdecydowaną kobietą
+w wieku około czterdziestu lat. Jasne włosy przetykają pojedyncze siwe pa-
+semka. Surową urodę podkreślają zaciśnięte usta. Ludzie bez chwili wahania
+wykonują jej rozkazy, a wręcz zdają się uprzedzać życzenia dowódcy.
+Jeśli bohaterom uda się poznać jej imię, to brzmi ono: Una.
+Test Observation (2d) pozwoli dostrzec, że pani kapitan został ranna.
+W
+tym
+momencie
+przyda
+się
+kartka,
+na
+której
+gracz
+wcielający
+się
+w Ordo opisał okoliczności otrzymania swojej rany. Rana kapitan powinna być nie-
+malże identyczna z tą, której doznał Ordo. Jeżeli to możliwe, spróbuj też od razu za-
+znaczyć, że i okoliczności jej zadania mogły być identyczne. Nie chodzi tutaj o to, że
+obie postaci zraniła ta sama osoba, ale by szybko zbudować między nimi więź.
+Przybyszów traktuje z szacunkiem, choć bez przesadnej rewerencji, nawet jeśli
+wyjawią swoje imiona i pochodzenie. Zada im kilka rutynowych pytań i od-
+powie krótko na pierwsze pytania. Unika jednak opowiadania o samej bitwie.
+Następnie poprowadzi ich na spotkanie z władcą zamku (użyje do-
+kładnie tego określenia).
+W drodze przez dziedziniec bohaterowie mogą przyjrzeć się jeszcze
+zamkowi. Ich uwagę zwróci przede wszystkim duży budynek koszar
+oraz nie mniej imponujące stajnie, z których co pewien czas dobiega
+rżenie wierzchowców. Zauważą także strażników stojących przy masywnych,
+prowadzących zapewne do lochów drzwiach. Ostatnim budynkiem, któ-
+ry wpadnie w oko – zapewne Mortimusowi – jest niepozorna, wyglądająca
+smętnie świątynia Sigmara.
+Pan zamku
+Kapitan von Schatten prowadzi bohaterów chłodnymi korytarzami zamku do
+przestronnej, lecz surowo urządzonej sali. Przez wąskie, wysokie okna wpa-
+dają ostatnie promienie słońca, samotny służący zapala już świece. Długi stół
+wskazuje na to, że w tej sali spożywane są wspólne posiłki, ale i podejmowani
+są oficjalnie goście. Władca zamku zasiada wówczas na masywnym, wysokim
+krześle, obok którego ustawiona jest wspaniała czarna zbroja, która już z od-
+dali mieni się złotymi zdobieniami.
+Gdy bohaterowie wchodzą do pomieszczenia, spotyka ich małe zaskoczenie.
+Na wysokim krześle zasiada nie starzec, lecz młody mężczyzna. Książę Einar
+jest odziany w czerń. Ma krótko obcięte blond włosy i wilczą, mocno zary-
+sowaną szczękę. Nie ulega wątpliwości, że książę jest prawdziwym synem
+północy. Uwagę zwraca jednak przede wszystkim czarna opaska zasłaniająca
+oczy. Wokół niej widać ślady świeżego poparzenia.
+Einar von Turm jest postacią, której wątek jest związany z Siegrid. Jeżeli znasz dobrze
+graczkę prowadzącą Siegrid, odgrywając tę postać, spróbuj trafić w jej gusta. Legenda
+nie skupia się na wątku romantycznym, ale dramaturgii przygody nie zaszkodzi na
+pewno odrobina emocji między tymi bohaterami.
+Mężczyzna przedstawia się, wita gości i od razu przeprasza, że jego ojciec,
+książę von Turm, nie mógł ich podjąć. Został niestety ranny podczas ostatniej
+bitwy i nie jest w stanie wstać z łoża.
+Einar, podobnie jak kapitan von Schatten, zada kilka kurtuazyjnych pytań
+o cel podróży gości. Sam obieca odpowiedzieć na wszystkie py-
+tania
+przy
+późnej
+wieczerzy,
+na
+którą
+zaprasza
+bohate-
+rów.
+Tymczasem
+rozkazał
+już
+służbie,
+by
+dla
+wszystkich
+przybyszów
+przygotować
+kwatery,
+aby
+mogli
+odpocząć
+i odświeżyć się po podróży. Przeprasza, że nie są zbyt wytworne, ale
+w twierdzy przebywa obecnie znacznie więcej ludzi niż zazwyczaj.
+17
+Zbroja rodu von Turm
+W głównej sali zamku obok tronu pana twierdzy stoi imponująca, czarna zbro-
+ja. Liczy kilkaset lat, jest misternie zdobiona i grawerowana złotem. Kunszt el-
+fickich mistrzów sprawił, że noszący ją wojownik nie czuje jej ciężaru. Gdy ktoś
+przyjrzy się jej z bliska, bez trudu dostrzeże, że każde rzeźbienie to w istocie
+imię. Należą one do wszystkich ludzi, którzy polegli w obronie Helmburga.
+Moc pancerza wynika z poświęcenia obrońców Helmburga. Nikt o tym nie
+wie, ale od 60 lat zbroja posiada jeden słaby punkt, który właśnie przyczynił
+się do otrzymania rany przez pana zamku. Utraciła również swoją najpotęż-
+niejszą moc zaszczepiającą odwagę w sercach obrońców.
+Na lewym ramieniu wykuto bowiem imię Magnusa, który w istocie nie
+zginął. Dopóki pancerz nie odzyska pełni mocy (co zależy od po-
+stępowania Mortimusa), każdy test wykonywany w walce przez no-
+szącą go osobę otrzymuje następujący efekt:
+Gwiazda Chaosu: Pierwsza rana, jaką otrzyma noszący zbroję, jest
+raną krytyczną. Efekt nie jest kumulatywny, ale aktywuje się ponow-
+nie po otrzymaniu kolejnej rany.
+Imię Magnusa można odnaleźć na zbroi, wykonując udany test Observa-
+tion (3d). Złoto, którym wykuto jego imię, jest pozbawione blasku. Taki
+sam test pozwala odszukać nazwisko von Schatten, należące do dziada pani
+kapitan. Znajduje się ono na prawym ramieniu i lśni szczerym złotem.
+Jeżeli gracz zadeklaruje, że szuka imienia Magnusa lub nazwiska Schat-
+tena, test nie jest konieczny – po chwili je znajdzie. Zamiast tego nagródź
+deklarację dodaniem punktu Fortune do puli drużyny.
+Jak zbroja ma odzyskać swoją moc?
+Pancerz utracił swoje magiczne właściwości, gdy 60 lat temu Mortimus, zna-
+ny wówczas jako Magnus, uciekł z Helmburga przed bitwą. Co gorsza, aby
+zachować pozory i ocalić legendę twierdzy, jego imię wykuto na zbroi. Jej moc
+nie powróci, dopóki wykuta na niej historia nie stanie się prawdą.
+To zaś zależy od Mortimusa. Najprostszy i najbardziej dosłowny sposób to
+oczywiście… śmierć Bohatera Gracza w obronie twierdzy. MG może jednak
+nagrodzić wyjątkowo pomysłowe działania gracza. Przykładowo, jeśli Mor-
+timus odzyska wiarę i stwierdzi, że jest zupełnie innym człowiekiem, można
+uznać, że Magnus faktycznie „odszedł”. Mistrz Gry musi być czujny i nagro-
+dzić kreatywność gracza.
+W momencie, gdy zbroja odzyska swoją moc, MG powinien opisać, jak na le-
+wym naramienniku imię Magnusa rozbłyska szczerym złotem.
+Najważniejsze informacje:
+• Zamek niepozorny w stosunku do swojej legendy
+• Zamek jest stary, ale brama nowsza: ma kilkadziesiąt lat
+• Na wieżach zamku powiewają sztandary z herbem: Wieżą i wieńczącą ją
+imperialną czaszką
+• Niedawno odbyła się tu bitwa, atak odparto z dużym wysiłkiem
+• Kapitan von Schatten została lekko ranna
+•
+Pan zamku, Ulrich von Turm, został ciężko ranny
+•
+Bohaterów podejmuje Einar, syn pana zamku
+•
+Bohaterowie zostają zaproszeni na wieczerzę
+Ulrika zamiast Einara
+Jeśli Mistrz Gry zdecyduje się, by zamiast Einara w scenariuszu występowała
+córka władcy, Ulrika, nie musi dodatkowo podkreślać faktu, że kobieta potrze-
+buje pomocy. Ulrika nie jest bynajmniej słabowitą damulką niezdolną do dzia-
+łania.
+Pani zamku nie jest wojowniczką, ale całe życie spędziła na północy. Jest
+wrażliwa na innych i troszczy się o swoich ludzi, ale przy tym pozostaje silna
+i pewna siebie. Jeśli prowadzącym sesję jest mężczyzną, powinien uważać, by
+przez przypadek nie przedstawić jej jako słabej kobiety w opałach. Należy od-
+grywać ją jako osobę zdecydowaną, stanowiącą równorzędną partnerkę dla Bo-
+haterów Graczy. W przeciwnym wypadku łatwo jest uzyskać efekt odwrotny,
+a gracze nie będą traktować Ulriki poważnie.
+Ubrana jest w czerń. Upięte blond, niemalże białe włosy spływają na plecy.
+Pomimo chłodnej urody, na bohaterów spoglądają ciepłe, brązowe oczy. Dla
+wszystkich zgromadzonych jest oczywiste, że jej północne piękno byłoby ozdo-
+bą każdego dworu. Nawet cesarskiego.
+18
+scena Viii: kOmnata siegrid
+Muzyka: X-Ray Dog: INTRIGUE
+Czas i miejsce: tego samego wieczora, komnata w zamku
+Postaci: Siegrid, Einar
+Siegrid otrzymuje najlepszą komnatę spośród wszystkich bohaterów.
+W drzwiach mija służących, którzy wynoszą kufry i przynoszą ciepłą wodę.
+Jak na warunki zamku na rubieżach Imperium jest ona co prawda urządzona
+ascetycznie, ale i tak przewyższająca standardem kwatery w wojskowych pla-
+cówkach. Siegrid powinna się dość szybko zorientować, że to w istocie kom-
+nata Einara, którą książę jej odstąpił.
+Właściciela komnaty zdradzić mogą dwie rzeczy. Pierwszą jest porzucony nie-
+dbale obok łóżka miecz. Drugą zaś zasłonięty portret, wiszący nad
+kominkiem. Jeśli Siegrid go odsłoni, zobaczy twarz Einara, spogląda-
+jąca na nią czystymi oczami koloru zimowego nieba.
+Okno z komnaty wychodzi na dziedziniec. Stoi przy nim krzesło, a
+na parapecie leżą książki. Siegrid znajdzie takie tytuły jak Historia wo-
+jen Imperium, Żywoty cesarzy, Czemu orki rzomdzom, Sto wielkich bitew, Chaos i
+porządek…
+W tym momencie Siegrid znajduje też niezwykły przedmiot – taki sam, jak
+pamiątka, która pozostała jej po matce. Przedmiot należy oczywiście do Einara
+i jest pamiątką po jego własnej matce, która umarła, gdy mężczyzna był jesz-
+cze dzieckiem.
+Ten chwyt ma na celu dodatkowe zbliżenie do siebie postaci Siegrid i Einara. MG
+musi się tutaj wykazać elastycznością i wyczuciem, umiejętnie wykorzystując pomysł
+graczki. Sytuacja jest prosta, jeśli graczka opisze jakąś dziecięcą zabawkę. Jeżeli pomysł
+będzie bardziej nietypowy, MG musi wymyślić mniej typowy odpowiednik.
+Siegrid może jeszcze zwrócić uwagę na pięknie rzeźbiony kominek. Widnieje
+nad nim herb – sama wieża.
+Jeżeli córka cesarza zbliży się do kominka, usłyszy głos dobiegający gdzieś zza
+ściany. Jeśli chwilę ponasłuchuje, jej uszu dobiegnie kilka jęków, odgłos cięż-
+kiego charkotu i stłumiona rozmowa. Wreszcie usłyszy nieco wyraźniejszy,
+podniesiony głos Einara: „Nie proś mnie o to, ojcze!” Chwilę później rozlegnie
+się trzask zamykanych drzwi, a po korytarzu poniesie się echo przyśpieszo-
+nych kroków.
+Wkrótce przybędzie sługa, prosząc Siegrid na wieczerzę.
+Najważniejsze informacje:
+• Siegrid otrzymuje najlepszą komnatę w zamku
+• Na kominku w komnacie widnieje herb z wieżą
+• Siegrid może podsłuchać rozmowę, którą Einar kończy słowami „Nie proś
+mnie o to, ojcze!”
+• Siegrid znajduje bliźniaczy przedmiot do pamiątki, która została jej po matce
+scena iX: kOsZary
+Muzyka: Two Steps From Hell: RISE OF EVIL
+Czas i miejsce: tego samego wieczora, koszary w zamku
+Postaci: Ordo, żołnierze
+Ordo zostaje zaprowadzony do budynku koszar przez przydzielone-
+go mu młodego żołnierza. Po drodze może zwrócić uwagę na pełną
+obsadę wart na murach i liczne zapalone pochodnie. Wejście do lochu
+jest również cały czas strzeżone.
+Zbroja von Turm
+Z pancerza i tarczy ma prawo korzy-
+stać wyłącznie prawowity władca
+Helmburga.
+W walce zbroja zapewnia premie:
+• +1 Defence
+• +4 Soak
+• Encumbrance 0
+Elementem pancerza jest również po-
+tężna tarcza z herbem przedstawiają-
+cym samą wieżę. Choć jest doskonale
+wykonana, prawdopodobnie przez
+tego samego mistrza, nie posiada żad-
+nych magicznych zdolności. Nosi licz-
+ne ślady używania.
+Tarcza zapewnia premie:
+• +1 Defence
+• +1 Soak
+Jeśli osoba nosząca zbroję wykonuje
+test, otrzymuje on następujący efekt:
+Gwiazda Chaosu: Pierwsza rana, jaką
+otrzyma noszący zbroję, jest raną kry-
+tyczną. Efekt nie jest kumulatywny,
+ale aktywuje się ponownie po otrzy-
+maniu kolejnej rany.
+W chwili, w której pancerz odzy-
+ska swoją prawdziwą moc, należy
+zignorować efekt Gwiazdy Chaosu.
+Dodatkowo zbroja zyskuje wówczas
+następującą cechę: Sprzymierzeńcy
+znajdujący się w odległości medium
+od bohatera, są niewrażliwi na Strach
+i Grozę.
+19
+Sama budowla koszar, zwłaszcza po zmroku, jest imponująca, dwupię-
+trowa, w środku panuje chorobliwie wręcz perfekcyjny porządek. Żoł-
+nierze nawet w czasie przeznaczonym na odpoczynek pozostają skupieni
+i zdyscyplinowani. Wszyscy mają świadomość, że trwa wojna.
+Test Intuition (1d) + 1 Fortune za specjalizację w Leadership pozwoli stwier-
+dzić, że morale jest wysokie.
+Test Leadership (2d) pozwoli stwierdzić, że żołnierze są doświadczonymi,
+bardzo dobrze wyszkolonymi specjalistami.
+Ordo otrzymuje własną kwaterę. Towarzyszący mu żołnierz zdradzi, że nale-
+żała do sierżanta, który zginął w ostatniej bitwie.
+Ordo może próbować wykorzystać fakt, że młodemu żołnierzowi wyraźnie
+imponuje, iż przydzielono mu obowiązek zajmowania się tak znacznym wo-
+jownikiem.
+Czego może dowiedzieć się Ordo:
+• Bitwa była bardzo ciężka, wrogowi udało się wedrzeć na mury.
+• Ulrich von Turm nie zdecydował się na kontruderzenie konnicą.
+• Gdy pan zamku nie zdążył zasłonić się tarczą i został ranny, kapitan von
+Schatten rzuciła się mu na pomoc.
+• Sama również została zraniona.
+• Książę Einar został oślepiony, gdy gasił pożar stajni.
+Z przebiegu rozmowy wynika, że kapitan von Schatten cieszy się ogromnym
+szacunkiem podwładnych i przynosi chlubę swoim przodkom, którzy od po-
+koleń służą w Helmburgu.
+Młody żołnierz stwierdzi co prawda, że kapitan stała się ostatnio bardziej wy-
+magająca i ostra, ale zrzuca to na karb czyhającego zagrożenia.
+W tym momencie – lub w chwili, gdy Ordo spyta o loch – rozmowę
+przerwie pojawienie się kapitan von Schatten. Pani kapitan zruga ostro
+swojego podwładnego za plotkarstwo i każe zameldować się do pomo-
+cy w stajni. Następnie poprosi Ordo, by przygotował się do wieczerzy.
+Najważniejsze informacje:
+• Wysokie morale załogi
+• Żołnierze są bardzo dobrze wyszkoleni
+• Dobre opinie o kapitan von Schatten
+• Kapitan uratowała pana zamku i sama został ranna
+• Ostatnio kapitan jest bardziej wymagająca i ostra
+scena X: POwrót dO dOmu
+Muzyka: Two Steps From Hell: TWO STEPS FROM HAEVEN
+Czas i miejsce: tego samego wieczora, cela kapłana przy kaplicy Sigmara
+Postaci: Mortimus, duchy przeszłości
+Zanim rozpoczniesz tę scenę, przypomnij sobie, jaki ulubiony, bliski sercu przedmiot
+gracz wcielający się w Mortimusa opisał na swojej karteczce przed sesją.
+W kaplicy bliżej ołtarza znajduje się ogrodzone zejście do krypty, w której
+spoczywają członkowie rodu von Turm. Drzwi do podziemi są zamknięte na
+klucz.
+Sługa prowadzi Mortimusa do niewielkiej, pustej, ale utrzymanej w porządku
+kaplicy Sigmara. Otwiera przed nim drzwi celi, w której tradycyjnie mieszka
+kapłan…
+W tym momencie przerwij normalną narrację. Zamiast tego opowiedz, jak wiele lat
+temu…
+Drzwi otwierają się przed młodym, lecz obiecującym nowicjuszem Sigmara.
+Chłopak spogląda na miejsce, w którym ma zamiar spędzić wiele lat służby…
+W tym momencie pozwól graczowi prowadzącemu Mortimusa opisać wnętrze celi.
+Jej wygląd, umeblowanie, detale. Wyczekaj odpowiedni moment i spróbuj wpasować
+opisany przez gracza przedmiot w opis. Przykładowo, jeśli był to symbol Sigmara lub
+jakiś inny niewielki przedmiot, Mortimus znajdzie go przy łóżku, w miej-
+scu, w którym go zostawił.
+Gdyby wymyślony przez gracza przedmiot zupełnie nie pasował do opisu
+tego miejsca, nie wprowadzaj go „na siłę”. Pomyśl jedynie, gdzie w przy-
+szłości mógłby się pojawić.
+20
+Mortimus spogląda na swoją celę, jest sam. Ma chwilę, by obmyć się po podró-
+ży. Nagle słyszy cichy głos, prawie szept dobiegający ze świątyni. Po chwili
+głos znów go dobiega, wzywając jego imię.
+Użyj właśnie określenia „imię”, opisz ten głos, nie odgrywaj go. To gracz prowadzący
+Mortimusa powinien zadecydować o tym, jak i kiedy wyjawi, że jest Magnusem.
+Gdy Mortimus wejdzie do kaplicy, ta jest pusta. Z góry spogląda na niego tyl-
+ko surowe oblicze Sigmara, siedzącego na swoim tronie z czaszek, z młotem
+na kolanach. Wtedy Mortimus już wyraźnie słyszy swoje imię: „Panie Morti-
+mus?”
+To sługa przyszedł, by zaprowadzić go na wieczerzę.
+Najważniejsze informacje:
+• Kaplica jest od wielu lat nieużywana, ale utrzymano ją w porządku
+• Kapłana nie ma od lat
+• W celi Mortimus znajduje „bliski sercu przedmiot”
+• Mortimusowi wydaje się, że słyszy wzywający go głos
+scena Xi: wiecZerZa
+Muzyka: BRAK!
+Czas i miejsce: późny wieczór, sala zamku
+Postaci: Siegrid, Mortimus, Ordo, Einar, kapitan Schatten, Dziadunio
+Pomimo trudnej sytuacji, pan zamku nie zapomina o gościn-
+ności. Zaczyna również podejrzewać, z jakiego powodu Helmburg na-
+wiedziły tak znaczne osobistości. Przede wszystkim martwi się jednak
+o zdrowie ojca. Z tych wszystkich powodów atmosfera na wieczerzy jest po-
+czątkowo napięta i sztuczna. Nieliczna służba wnosi potrawy.
+Przy stole oprócz Einara i kapitan von Schatten siedzi również wiekowy sta-
+rzec, Dziadunio. Mężczyzna nie ma jednej ręki i jest skupiony na zawartości
+swojej miski oraz pilnowaniu, by trafić łyżką do ust.
+Jeżeli bohaterowie nie będą kwapić się z zadawaniem pytań, w końcu kapitan
+von Schatten dość obcesowo spyta się o cel wizyty.
+W toku rozmowy, która powinna się wywiązać, poruszone zostaną zapewne
+rozmaite kwestie. Oto najważniejsze z nich.
+Bitwa i pan zamku
+Ludzie z pobliskich wiosek zbiegli lub skryli się po lasach, część udała się do
+Smallhofu i dalej do Wolfenburga – czekają na wieści, sam zamek ma zapasy
+na wielomiesięczne oblężenie.
+Zapytany swoją ranę, Einar wyjaśni, że został oślepiony, gdy w trakcie bitwy
+próbował gasić pożar stajni.
+Ulrich von Turm został zraniony przez wojownika Chaosu. Schatten
+wyjaśni, że dowódca nie zdążył się zasłonić tarczą, lewa ręka odmó-
+wiła mu posłuszeństwa. Został wówczas trafiony w lewy bok. Kapi-
+tan rzuciła się na pomoc i zabiła przeciwnika.
+Mortimus i duchy przeszłości
+Życie Mortimusa w zamku nie będzie lekkie. Nie pozwolą na to mściwe duchy
+zdradzonych przez niego obrońców. Słyszane przez kapłana szepty to tylko
+preludium.
+W dalszej części scenariusza pojawią się sugestie wprowadzenia motywu
+uprzykrzających życie Mortimusa duchów. W większości wypadków są to
+ujęcia opcjonalne, które MG powinien umiejętnie wprowadzać bez szkody dla
+przebiegu sesji. Stanowią one jednak bardzo ważny element wątku tego boha-
+tera, więc nie należy całkowicie ich eliminować.
+Odgrywanie Einara
+Pan zamku jest wojownikiem, całe życie spędził na północy. Jest wrażliwy na
+innych i troszczy się o swoich ludzi. Jest przy tym świadomy swojego okale-
+czenia i tego, że nie będzie w stanie dowodzić wojskiem w walce.
+Nie jest pewien, czego spodziewać się po bohaterach, ale z wdzięcznością
+przyjmie ich pomoc. Wcześniej chce jednak dobrze ich poznać. Przetrwa-
+nie Helmburga jest dla niego nadrzędnym celem, dla którego jest w stanie
+poświęcić niemal wszystko. Ale nie ma przy tym zamiaru oddać zamku
+w niegodne tego obowiązku ręce. Nawet jeśli należą do córki cesarza i dwóch
+herosów Imperium.
+21
+Ulrich jest przez większość czasu nieprzytomny. Jeśli bohaterowie zażądają
+spotkania z nim, Einar będzie nalegał, by poczekać, aż ojcu się poprawi. Osta-
+tecznie zgodzi się wezwać ich, gdy odzyska przytomność.
+Jeżeli bohaterowie będą bardzo stanowczy, zgodzi się na widzenie. Ulrich
+w jego czasie nie odzyska przytomności. Kapłan Sigmara może jednak zorien-
+tować się – dzięki błogosławieństwu – że Ulrich znajduje się pod wpływem
+postępującego spaczenia.
+Więcej informacji o stanie pana zamku można znaleźć w Scenie XVI: Nocna próba.
+Tajemnica
+Einar, jak i wszyscy w zamku, oczywiście wie o legendzie. Nie jest jednak w
+stanie – i to zupełnie szczerze – powiedzieć, na czym polega sekret. Jedyną
+osobą, która go zna, jest zawsze władca zamku. Ojciec nigdy mu go nie zdra-
+dził.
+Legenda zamku
+Muzyka: Two Steps From Hell: BATTLE OF DARK VS. DARK
+Więcej o legendzie może opowiedzieć Dziadunio, stary sługa, który najlepiej
+zna opowieści o zamku, również te z zamierzchłej przeszłości. Bohaterowie
+mogą poprosić starca o przytoczenie legendy.
+Dziadunio jest już bardzo wiekowy, brakuje mu też lewej ręki – ramię ucięto
+w łokciu. Mówi powoli, ale wyraźnie, umysł nie odmawia mu posłuszeństwa.
+Poniższej legendy nie należy przytaczać wprost, odgrywając Dziadunia. Zamiast tego
+spróbuj opisać poniższą scenę tak, jakby właśnie rozgrywała się na oczach bohaterów.
+Oto Gardius stoi na dziedzińcu zamku i stawia czoła słudze Chaosu…
+Legenda Helmburga jest znana – zamek nigdy nie został zdobyty. Sym-
+bolem jego potęgi jest próba, jakiej został poddany 60 lat temu. Wojska
+Chaosu pod wodzą Wojownika Chaosu Nazgara przybyły pod zamek.
+Ówczesny władca, Gardius von Turm, wspierany przez młodego ka-
+płana Sigmara Magnusa i swojego kapitana, von Schattena (dziada
+obecnej pani kapitan) pokonali Nazgara. Przyboczni oddali w tej walce
+swoje życie, ale ich ofiara nie poszła na marne.
+Gardius nie miał dzieci, więc zamek objęła rodzina pradziada Einara, który
+był jednym z obrońców twierdzy.
+Więcej znaleźć można w księgach – Dziadunio zaprasza Mortimusa rano do
+archiwum, gdyby chciał je przejrzeć. Gdy skończy opowieść, sam uda się na
+spoczynek, wymawiając się późną porą.
+Plany na przyszłość
+Pan zamku jest nieprzytomny, co powoduje problemy decyzyjne. Einar jednak
+nie wyobraża sobie pozostawienia zamku i ojca.
+Pozwól graczom porozmawiać z Einarem i Schattenem. Nie przeciągaj jednak nad-
+miernie tej sceny.
+Najważniejsze informacje:
+• Pan zamku został ciężko ranny
+• Einar nie zna tajemnicy zamku
+• Dziadunio opowiada legendę zamku
+Historia zamku
+Aby umiejętnie wprowadzać graczy w historię zamku i stopniowo po-
+zwalać na jej odkrycie, MG powinien znać ją na tym etapie. Dla intrygi
+i fabuły istotny jest przebieg kluczowego momentu w dziejach, czyli bitwy
+sprzed 60 lat.
+Helmburg przez wieki rzeczywiście był niezdobyty. Najdłużej władał nim ród
+von Turm i to jego herb z wieżą zdobi wiele starszych miejsc w zamku.
+60 lat temu twierdza stanęła przed kolejną próbą. Pod jej murami stanęły woj-
+ska Nazgara. Obrońcy stanęli do walki, lecz… przegrali. Wróg strzaskał bramę
+i wtargnął do środka. Pan zamku oraz dowódca załogi, kapitan von Schatten,
+stanęli przeciwko wrogowi. Schatten zginął, a Gardius von Turm
+stracił ramię. Resztę załogi wycięto w pień.
+Przewrotne są jednak plany Chaosu. Następnego dnia do Helmbur-
+ga dotarł oddział dziesięciu jeźdźców, który wrócił z dalekiej wypra-
+wy rozpoznawczej (w jego skład wchodzili Ulrich, pradziad Einara,
+22
+oraz ojciec obecnej kapitan Schatten, wówczas jeszcze młodzieniec). Ku swoje-
+mu zdziwieniu żołnierze pod wodzą Ulricha, pradziada Einara, zastali zamek
+niemal nietknięty, a wśród trupów żywego Gardiusa. To właśnie pan
+zamku ukuł wówczas plan zachowania upadku twierdzy w tajemnicy.
+Dziesięciu żołnierzy zobowiązano do całkowitej tajemnicy. Do stolicy
+posłano list objaśniający zamysł Gardiusa.
+Na mocy dekretu cesarskiego Ulrichowi nadano nazwisko von Turm
+i tytuł książęcy. Stał się on – „za zasługi i wierną służbę” – władcą
+Helmburga. Pozostałym żołnierzom nadano tytuły szlacheckie i zobowiąza-
+no do odbudowania siły Helmburga. Nikt nie miał prawa usłyszeć o upadku
+twierdzy.
+60 lat to długi okres czasu. Wierni żołnierze pozostali w zamku, pozakładali
+rodziny, zaczęli dbać o okoliczne ziemie. W tej chwili na zamku żyją już ich
+wnuki i prawnuki, a większość z nich już umarła lub opuściła te strony. Dla
+wszystkich mieszkańców Helmburga twierdza jest więc czymś więcej niż pla-
+cówką – jest domem.
+Dlaczego Nazgar i jego mroczni bogowie nie spalili Helmburga do ziemi? Nie-
+zbadane są przewrotne plany Chaosu, który uwielbia zasiewać w ludzkich
+sercach nadzieję i ponownie ją odbierać…
+drugi dZień na Zamku
+Kolejne trzy sceny w czasie fabularnym rozgrywają się równocześnie.
+scena Xii: POjedynek OrdO
+Muzyka: Two Steps From Hell: RISE OF EVIL
+Czas i miejsce: następnego dnia rano, koszary
+Postaci: Ordo, kapitan Schatten, żołnierze
+Ordo zostaje obudzony bardzo wcześnie. Nikt nie puka do jego pokoju –
+z zewnątrz dobiegają go odgłosy walki. Na wewnętrznym dziedzińcu koszar
+odbywają się regularne ćwiczenia – żołnierze walczą w parach, atakują ma-
+nekiny, strzelają z kusz. Pomiędzy żołnierzami przechadza się Schatten, od
+czasu do czasu obcesowo poprawiając ich błędy.
+Gdy pojawia się Ordo, Schatten wykorzystuje okazję, by wyzwać go
+na pojedynek. Nie jest przy tym agresywna. Tłumaczy to chęcią po-
+kazania żołnierzom prawdziwego kunsztu w akcji. W ostateczności
+ucieknie się do prośby – zawsze marzyła o zmierzeniu się z legendar-
+nym Ordo.
+Pojedynek uważa za równy, bo przecież oboje są ranni.
+Dziadunio
+Dziadunio to… sam Gardius, czyli pan zamku, którego zdradził Mortimus,
+znany wówczas jako Magnus. Od razu poznał swojego dawnego sługę, ale się z
+tym nie zdradza. MG powinien uważać, by za szybko nie zdradzić tożsamości
+starca. Jeżeli jednak prowadzący Mortimusa się jej domyśli i zapyta Dziadunia
+wprost, czy jest Gardiusem, ten nie będzie się wypierał.
+MG powinien dodatkowo nagrodzić gracza 1 żetonem szczęścia do wspólnej
+puli drużyny.
+Gardius jest ranny. Więcej o ranie w scenie XIII: Biblioteka.
+Dawny pan zamku otrzymał ją podczas walki z Nazgarem 60 lat temu. Prze-
+ciwnik uciął mu rękę w łokciu i zostawił żywego. Ocalałego z rzezi Gardiusa,
+samotnego na placu boju, znaleźli przybyli z odsieczą żołnierze.
+Gracz prowadzący Mortimusa, jeśli jest domyślny, może w każdej chwili od-
+kryć karty i spróbować szczerej rozmowy z Gardiusem-Dziaduniem. Nie ma
+żadnego powodu, by do tego nie dopuścić, ale powinno to wynikać z inicjatywy
+gracza.
+Rozmowa ze strony Gardiusa będzie wówczas bardzo szczera. Starzec na pew-
+no będzie chciał się dowiedzieć, co się stało z Magnusem i dlaczego ich opuścił.
+W zależności od tego, jakie emocje na sesji chce wywołać MG, Gardius może
+żywić żal do dawnego sługi lub wręcz przeciwnie – być wyrozumiałym, pełnym
+współczucia i nawet cieszyć się, że Magnus stał się tak sławnym kapłanem.
+Poza tym Dziadunio-Gardius może nawet wyjawić całą prawdziwą historię
+(patrz niżej), choć byłoby lepiej, gdyby to gracze ją sami odkryli lub się jej do-
+myślili. Jednej rzeczy starzec nie powie nigdy – jaka jest tajemnica zamku. W
+ostateczności odpowie, że prawo do jej wyjawienia ma tylko prawowity władca
+Helmburga. Którym on już z woli Cesarza nie jest.
+23
+Podczas bitwy Schatten została zraniona i w efekcie spaczona przez Chaos. Na
+jej ciele pojawiło się Znamię Khorna, a fechmistrzyni powoli zaczyna odczu-
+wać jego wpływ na swoje umiejętności bojowe.
+Walkę należy przeprowadzić całkowicie normalnie, zaczynając od ustalenia
+inicjatywy. Oboje walczący wyprowadzają normalnie ciosy i zadają sobie rany.
+Celem walki jest pokazać nadludzki refleks kapitan von Schatten i dać możli-
+wość Ordo, by wykazał się umiejętnościami przed załogą.
+Prezentacja walki opiera się na chwycie. Bohaterowie zadają sobie nawzajem ciosy, ra-
+niąc się, bez litości. Gdy wreszcie jedno z nich zadaje obrażenia, które pozbawiłby prze-
+ciwnika przytomności lub go zabiły, walka się kończy. Zwycięzca zatrzymuje ostrze
+tuż przed zadaniem trafienia. Okazuje się, że cały pojedynek toczył się w umysłach
+walczących.
+W trakcie walki spróbuj nawiązać do tego, co o otrzymanej ranie napisał przed
+sesją gracz kierujący Ordo. Przeciwniczka może, na przykład, zaatakować go
+w podobnie podstępny sposób lub wykorzystać wymyśloną przez gracza sła-
+bość starego fechmistrza. Jeżeli pomysł gracza nie pasuje do tego pojedynku,
+zastanów się nad innym momentem, w którym mógłbyś się do niego odnieść.
+W tym momencie rozlega się KRZYK!
+Nie używaj żadnego określenia. Niech gracze nie mają pewności, do kogo należy głos.
+W tym momencie przejdź do kolejnej sceny.
+scena Xiii: bibliOteka
+Muzyka: Two Steps From Hell: TWO STEPS FROM HAEVEN
+Czas i miejsce: rano, następnego dnia, biblioteka
+Postaci: Mortimus, Dziadunio
+O ile rozpoczęcie sceny z Ordo jest dość proste, o tyle w przypadku Mortimusa MG
+musi elastycznie zareagować na deklarację gracza. Kapłan został poprzedniego wieczo-
+ra zaproszony do biblioteki przez Dziadunia, ale może postanowić, że zrobi coś innego.
+Oczywiście, jeśli chcesz, możesz postawić gracza przed faktem dokonanym i zadeklaro-
+wać, że po Mortimusa przybył sługa lub po prostu zacząć scenę już w Bibliotece.
+Rozmiary biblioteki czy raczej archiwum, trudno określić. Panuje tu niespoty-
+kany wręcz chaos i rozgardiasz. Księgi leżą w stosach, wysypują się z półek
+i niemalże atakują każdego, kto wkroczy w ten zakurzony świat. Wygląda jed-
+nak na to, że okaleczony Dziadunio doskonale wie, gdzie wszystko leży. Od
+dawna dba o zamkowe zasoby, sprowadzając książki dla pana zamku.
+Gdy Mortimus wchodzi do biblioteki, jest świadkiem, jak sługa zmienia opa-
+trunek na kikucie starca.
+Test Observation (2d) +1 Fortune za wyszkolenie w Medicine pozwoli do-
+strzec, że rana wciąż się jątrzy.
+Jeżeli starzec się zgodzi, kapłan może ją obejrzeć. Ramię zostało ucięte jakąś
+sieczną bronią, a ranę porządnie opatrzono. Pomimo tego rana wyraźnie nie
+chce się zagoić i nie jest to wynik obrażenia krytycznego. Spytany o okolicz-
+ności otrzymania rany będzie odpowiadał niechętnie i ogólnikowo.
+Jeżeli Mortimus użyje odpowiedniego błogosławieństwa, dowie
+się, że ciało Dziadunia-Gardiusa jest w tym miejscu do pewnego
+stopnia spaczone.
+Kapitan von Schatten
+Sugerowaną figurkę Kapitan von Schatten
+znajdziesz w rozdziale Pomoce.
+• St 3 +2 Fortune
+• To 3 +1 Fortune
+• Ag 3
+• Int 2
+• WP 2
+• Fel 3
+Reckless stance: 3
+Wounds: 15
+Damage: 8 (długi miecz)
+Soak: 2
+Defence: 2
+Aggression: 4
+Cunning: 2
+Expertise: 2
+Umiejętności (Wytrenowanie):
+Weapon Skill 1 (Specjalizacja: miecze)
+Akcje: Melee Strike, Nimbie Strike, Setup
+Strike, Insulting Blow
+Schatten jest również naznaczona
+przez Khorna i posiada Mark of Khorne.
+24
+Jak będzie przebiegał dalszy rozwój sytuacji z Dziaduniem, zależy wyłącznie od inicja-
+tywy gracza prowadzącego Mortimusa.
+Czego można dowiedzieć się w bibliotece?
+W trakcie rozmowy z Dziaduniem Mortimus może uzyskać – poparte źródła-
+mi pisemnymi – następujące informacje.
+Kronika zamku
+60 lat temu doszło do bitwy, w której załoga z trudem odparła atak.
+Wśród odnotowanych ofiar znaleźli się bohatersko polegli kapłan
+Sigmara Magnus oraz kapitan Schatten.
+Kronika informuje również o potrzebie wymiany bramy, która znacz-
+nie ucierpiała w wyniku ataku.
+Z dalszych rozdziałów wyczytać można, że
+zamek nie stał się już nigdy obiektem tak
+ciężkiego ataku. Jego legenda skutecznie od-
+straszała najeźdźców. Załoga poświęciła się
+też dbaniu o bezpieczeństwo okolicznych
+ziem i często wyprawiała się w misjach pa-
+trolowych. Liczne dowody uznania napływa-
+ły i ze stolicy, i od sąsiadów.
+Rycina
+Aby mistyfikacja była pełna, tamte wydarze-
+nia uwiecznia pełna patosu rycina, na której
+widać władcę zamku, w zbroi, z tarczą z wie-
+żą, a po jego bokach – kapitana Schattena po
+prawej i kapłana Magnusa po lewej stronie.
+Naprzeciw nich stoi Nazgar.
+Możesz wręczyć graczowi wydrukowany obrazek,
+który widać obok. Znajdziesz go również w roz-
+dziale Pomoce.
+Gdy
+Mortimus
+spogląda
+na
+ryci-
+nę,
+niemalże
+słyszy
+odgłosy
+walki
+i czuje przeszywające serce ukłucie strachu.
+Prowadzący go gracz wykonuje test Disci-
+pline (3d). Jeśli test się nie powiedzie, bohater otrzymuje do końca przygo-
+dy kartę insanity Nagging Doubts. Może ją odrzucić, gdy odkupi swoje winy
+w sposób opisany przy Zbroi rodu von Turm.
+Dekret
+Kolejny ważny dokument to dekret cesarski, który „w uznaniu zasług i wier-
+nej służby i wobec braku dziedzica rodu von Turm nadaje nazwisko von
+Turm, zamek, okoliczne ziemie i tytuł książęcy Ulrichowi Baumannowi”.
+W dekrecie wymienione są też nazwiska dziesięciu żołnierzy, któ-
+rzy otrzymują tytuły szlacheckie. Wśród nich znajduje się nazwisko
+Schatten, brzmiące od tej pory von Schatten.
+Jak to często bywa w przypadku kronik zamkowych – jej autor jest
+anonimowy. Można się domyślać, że prowadził ją jakiś skryba, ka-
+płan lub w ostateczności pan zamku.
+25
+Pozwól graczowi poznać nieco wiedzy o przeszłości zamku, a także pograć chwilę
+z Dziaduniem. Nie przeciągaj jednak nadmiernie tej sceny, a gdy uznasz, że już pora
+do uszu Mortimusa dobiegnie…
+KRZYK!
+Nie używaj żadnego określenia. Niech gracze nie mają pewności, do kogo należy głos.
+Najważniejsze informacje:
+• Mortimus widzi zmianę opatrunku Dziadunia, może też odkryć, że rana jest
+nieznacznie spaczona
+• Dekret cesarski sprzed 60 lat nadający te zamek Ulrichowi w podzięce za
+bohaterską walkę
+• Rycina z bitwy – Gardius, Magnus, Schatten i wojownik Chaosu Nazgar
+scena XiV: lOch i ranni
+Muzyka: Ordo Funebris: LYCANTHIA, później Two Steps From Hell: RISE OF EVIL
+Czas i miejsce: poranek, lochy pod zamkiem
+Postaci: Siegrid, Einar, ranni żołnierze
+Siegrid budzi pukanie do drzwi. Sługa przyniósł śniadanie, którego prosty
+i płaski smak jest rekompensowany wybornym winem. Sługa, zanim się odda-
+li, przekazuje prośbę od księcia Einara, by Siegrid zaszczyciła go spotkaniem
+w sali gościnnej.
+Gdy Siegrid wchodzi do sali, zastaje Einara stojącego samotnie przed zbroją
+von Turmów. Wielki, czarny pancerz wygląda jak groźny przeciwnik, rzucając
+na mężczyznę mroczny cień.
+W drodze do lochu może wywiązać się rozmowa między bohaterami. Pozwól na nią, ale
+cały czas posuwaj akcję do przodu. Graczka zapewne spodziewa się, że coś się stanie
+i rozlegnie się KRZYK! Trzymaj ją w napięciu i niepewności, komu grozi niebezpie-
+czeństwo i czyj krzyk to był.
+Einar wyjaśnia, że poprosił Siegrid o spotkanie, gdyż potrzebuje jej
+rady. Idzie powoli, stawiając krok za krokiem. Dobrze zna zamek,
+ale to nie oznacza, że przywykł do życia w ciemności. Jeśli Siegrid
+weźmie go pod ramię i pozwoli się prowadzić, przyjmie ten gest
+z wdzięcznością.
+Bohaterowie wychodzą na zewnątrz donżonu i zmierzają do wejścia do lochu.
+Strażnicy rozstępują się i wpuszczają Einara. Za drzwiami strażnik wręcza Sie-
+grid zapaloną pochodnię, a Einar kieruje się w głąb podziemi.
+Po drodze mijają żołnierzy, którzy niosą puste naczynia, miski, a także opa-
+trunki. Kłaniają się księciu, ale nie odzywają się ani słowem. Twarze mają wy-
+raźnie smutne.
+Docierają wreszcie do zamkniętych drzwi, pod którymi stoi strażnik. Einar
+zatrzymuje się i wyjaśnia Siegrid, że w bitwie stracili trzydziestu dwóch ludzi.
+Ranni, którzy ocaleli, znajdują się za drzwiami. Mężczyzna wpuszcza ich do
+środka. Einar wchodzi i zamyka drzwi za Siegrid.
+Obszerne pomieszczenie za drzwiami podzielone jest na dwie części ciężką
+kratą biegnącą od ściany do ściany, od ziemi do sufitu. Pośrodku kraty znajdu-
+je się ciężka furta, zamknięta na zamek i kłódkę. Pomieszczenie to w zasadzie
+wielka cela. Gdy tylko Einar wchodzi do pomieszczenia, zza kraty rozlegają
+się głosy powitania i szacunku.
+Szybki rzut oka pozwala podliczyć, że w celi znajduje się dziesięciu żołnierzy.
+Każdy z nich jest mniej lub bardziej ranny. Jedni leżą na posłaniach, inni wstają
+i skłoniają się księciu.
+Einar szeptem wyjaśnia Siegrid, że wszyscy ranni zachowują się…
+dziwnie. Podejrzewa niestety wpływ Chaosu.
+W tej scenie MG musi dobrze ocenić odpowiedni moment na gwałtowne
+przyśpieszenie akcji. Powinno ono nastąpić w chwili, w której...
+Mortimus i duchy przeszłości
+Scena w bibliotece stanowi dobrą okazję do delikatnego podręczenia kapłana
+upiorami przeszłości.
+Gdy wejdzie do pomieszczenia, wyda mu się ono przytłaczające
+i duszne, jakby książki napierały na niego z różnych stron. Gdy otworzy kro-
+nikę rodu, usłyszy szept wymawiający „jego imię” (podobnie jak wcześniej,
+należy użyć tego właśnie sformułowania).
+Biblioteka może również zachować się bardziej agresywnie – na kapłana spad-
+nie ciężko okuta książka. Lub trzy.
+26
+…Einar, wciąż rozmawiając z Siegrid, zbliża się do kraty. Zwraca się do jedne-
+go z żołnierzy, który stoi oparty czołem o kratę i wyraźnie płacze. Mężczyzna
+wypowiada słowa pociechy, zwraca się do niego po imieniu. Mężczyzna spo-
+gląda na niego, cały we łzach i wykrztusza z siebie „przepraszam”. Słowa są
+ledwie zrozumiałe.
+W tym momencie z jego ust przez kratę wystrzeliwuje mackowaty język i za-
+ciska się na szyi Einara, która wydaje z siebie KRZYK!
+Co się dzieje?
+To nie jest scena walki, nie ma potrzeby wykonywania rzutu na inicjatywę.
+Siegrid powinna działać szybko.
+Siegrid może zareagować w dowolnym momencie, lecz problem stanowi
+język, który zaciska się coraz mocniej. Jedyne wyjście to ucięcie go. Jeżeli
+Siegrid ma miecz, wystarczy jedno cięcie.
+Jeżeli Siegrid nie posiada broni, może ją wziąć od strażnika za drzwiami. Zaj-
+mie jej to 2 rundy i będzie wymagać udanego testu Agility (2d), by wyrwać
+broń lub Leadership (2d), by żołnierz oddał jej oręż.
+W nawiasach podana jest trudność testu ataku mieczem w zależności od tego,
+w której turze się odbywa.
+1. runda. Mutant chwyta Einara. (1d)
+2. runda. Mutant przyciąga Einara do kraty. (2d)
+3. runda. Mutant próbuje udusić księćia. (3d)
+4. runda. Na mutanta rzucają się współwięźniowie. (4d)
+Brak sukcesu oznacza, że miecz nie zdołał przeciąć jęzora.
+2 Bane w teście w 4. rundzie: cios trafia przy okazji w rękę jedne-
+go z żołnierzy próbujących odciągnąć mutanta.
+Gwiazda Chaosu wyrzucona w tym teście: trafiony zostaje Einar.
+Od decyzji MG zależy powaga tego trafienia. Dobrym pomysłem
+jest, by koniec ostrza trafił go w twarz, pionowo. Rana nie powinna
+okazać się bardzo groźna, ale blizna oczywiście pozostanie.
+Gdy mutant padnie, Einar osuwa się na ziemię, z trudem łapiąc oddech. Na
+szczęście, poza paskudną pręgą wokół szyi, nic poważnego mu się nie stało.
+Wspierając się na ramieniu Siegrid, ruszy do wyjścia z lochów.
+Przejdź do następnej sceny.
+Alternatywny przebieg sceny
+Ta scena może mieć oczywiście inny przebieg. Siegrid może pilno-
+wać, by Einar był bezpieczny i trzymać go z dala od kraty. Wówczas ce-
+lem ataku stanie się ona sama lub któryś ze współwięźniów mutanta.
+W tych przypadkach to również Einar wyda okrzyk, alarmując cały zamek..
+Jeżeli to nie Siegrid rozprawi się z mężczyzną, rzucą się na niego pozostali
+żołnierze i zabiją go. Jednak jeżeli nikt nie odetnie języka mutantowi, ten umie-
+rając poważnie zrani swoją ofiarę.
+Zraniony bohater otrzymuje losowe trafienie krytyczne pasujące do sytu-
+acji.
+W tej scenie chodzi o osiągnięcie dwóch celów: kolejne związanie Siegrid z Einarem
+oraz zarysowanie problemu, z którym będą musieli poradzić sobie bohaterowie.
+Najważniejsze informacje:
+• Ranni w bitwie są trzymani w lochu
+• Istnieje obawa, że są skażeni przez Chaos
+• Obawa się potwierdza, gdy jeden z żołnierzy atakuje Einara
+scena XV: POsłaniec
+Muzyka: Two Steps From Hell: DAWN OF WAR
+Czas i miejsce: poranek, dziedziniec zamku
+Postaci: Siegrid, Mortimus, Ordo, Einar, Schatten, posłaniec
+Zaalarmowani krzykiem Einara Ordo i Mortimus docierają na dzie-
+dziniec, gdzie pod drzwiami do lochów widać pana zamku. Mężczy-
+zna właśnie puszcza ramię Siegrid i próbuje stać o własnych siłach.
+Podbiega do niego kapitan von Schatten i ostro pyta się Siegrid, co się
+stało.
+27
+W tej scenie nie musi zostać podjęta decyzja, ale musi paść pytanie: co
+z więźniami? Bez cienia wątpliwości zostali spaczeni przez Chaos, co może potwier-
+dzić Mortimus, jeśli użyje błogosławieństwa Sigmar’s Light.
+Mogą oni stanowić zagrożenie dla zamku, jeśli dojdzie do ataku Chaosu. Nie
+wiadomo przecież, jak potężne mutacje się u nich objawią. Jeżeli nikt nie po-
+wie tego głośno, uczyni to von Schatten.
+Ona także, o ile bohaterowie się na to nie odważą, zaproponuje zabicie więź-
+niów.
+Gracze mogą nie chcieć prowadzić tej rozmowy na oczach załogi, ale von Schatten –
+oczywiście celowo! – nie będzie się tym przejmowała. Jej słowa będą wyraźnie słyszane
+przez ludzi wokoło.
+MG musi ponownie wyczuć, w którym momencie przerwać ewentualną kłótnię/dysku-
+sję. Gdy padają mocne argumenty, nagle słychać krzyk znad bramy.
+„Jeździec!”
+Na dziedziniec wpada na niemalże zajeżdżonym rumaku posłaniec. Zeskaku-
+je z siodła i natychmiast żąda nowego konia. Żołnierze podają mu wodę i coś
+do jedzenia.
+Posłaniec ma same złe wieści:
+• Armia Siegfrieda została pobita w Kislevie.
+• Syn cesarza nie żyje. Posłaniec widział jego śmierć na własne oczy i może
+o niej zaświadczyć.
+• Wojska Chaosu będą pod Helmburgiem najpóźniej następnego dnia wieczo-
+rem.
+To najważniejsze informacje, jakich może udzielić jeździec.
+W tym momencie gracz prowadzący Ordo może (ale zależy to tylko od niego)
+otworzyć drugi list.
+Po przekazaniu ponurych wieści posłaniec wsiada na konia i rusza
+w dalszą drogę, wołając tylko przez ramię: „Niech Sigmar ma was
+w swojej opiece!”
+decyZje i PrZygOtOwania
+Ta część scenariusza celowo nie została określona jako Scena. Helmburg czeka
+niebawem ostateczna próba, ale zanim ona nastąpi, Bohaterowie Graczy rów-
+nież zostaną poddani testowi.
+Do tej pory zapewne to Mistrz Gry narzucał ramy poszczególnych sytuacji,
+określając ich miejsce i występujące w nich postaci. W najbliższej sekwencji
+ujęć inicjatywa przechyli się na stronę graczy. W takich momentach nietrud-
+no o spowolnienie i rozmycie się sesji. MG musi jednak spróbować zachować
+dotychczasowe tempo i początek każdego spotkania akcentować tak, jakby to
+była zaplanowana Scena. To pole do improwizacji dla prowadzącego, który
+musi szybko sygnalizować scenerię i nastrój, a także sprawnie ucinać przecią-
+gające się ujęcia.
+W tej chwili, nawet jeśli to jeszcze do nich nie dociera, wszystko znaj-
+duje się w rękach Bohaterów. W istocie, choć jeszcze nie zdają sobie
+z tego sprawy, praktycznie stali się dowódcami twierdzy.
+Spaczona załoga
+Jeżeli gracze dodadzą dwa do dwóch lub kapłan Sigmara z sukcesem użyje
+błogosławieństwa Sigmar’s Light, mogą domyślić się, że pan zamku, żołnierze
+i kapitan von Schatten prawdopodobnie ulegli spaczeniu podczas ostatniej bi-
+twy. Jednym z logicznych wniosków może być chęć uśmiercenia wszystkich
+skażonych spaczeniem.
+Jeżeli Mistrz Gry obawia się, że to mogłoby utrudnić mu prowadzenie sesji,
+może nie dawać Mortimusowi karty błogosławieństwa. Nie gwarantuje to jed-
+nak, że gracze nie dojdą do właściwych wniosków.
+To może doprowadzić do konfliktu i – jak najbardziej pożądanych – trudnych
+wyborów. O ile książę von Turm i żołnierze są zdani na łaskę bohaterów, o tyle
+Schatten nie będzie bierna. Jeżeli gracze nieopatrznie stwierdzą, że chcą się
+z nią rozprawić, zniknie i pojawi się dopiero w Scenie XVII: Zdrada Pani Kapitan.
+Nie ma jednak powodu, by unikać tej konfrontacji na siłę. Jeżeli bohaterowie
+doprowadzą do starcia z kapitan von Schatten i ją pokonają, istotne jest tyl-
+ko, by wyjawiła prawdę o tajemnym przejściu, którym można wydostać się
+z zamku. W ten sposób nawet po śmierci Bohaterowie Graczy będą mogli
+wpaść w jej pułapkę. I - co ważniejsze - poznać tajemnicę Helmburga.
+28
+Einar
+Einar jest wyraźnie przygnębiony i wygląda, jakby bił się z myśla-
+mi. O ile nie będzie potrzebny Bohaterom, udaje się do ojca i spędza
+z nim czas.
+Schatten
+O ile BG sami nie wyjdą z inicjatywą, kapitan von Schatten spyta się, jakie są
+rozkazy. Ona sama jest dziwnie bierna. Jeżeli jakieś polecenie jej się nie spodo-
+ba, swój opór wytłumaczy tym, że rozkazy może przyjmować wyłącznie od
+pana zamku. Gdy tylko nadarzy się okazja, stara się zejść Bohaterom z oczu.
+Od tej chwili jest całkowicie nieuchwytna, co błyskawicznie odbija się na mo-
+rale żołnierzy.
+Więźniowie
+Bohaterowie muszą podjąć decyzję, co zrobić z więźniami. Zarówno Einar jak
+i Schatten mogą zauważyć, że stanowią oni potencjalne zagrożenie, gdyż nikt
+nie wie, jak rozwiną się ich mutacje.
+Jeśli BG zdecydują się ich oszczędzić, wszyscy odetchną z ulgą, ale konse-
+kwencje tego czynu dadzą o sobie znać w trakcie bitwy (Scena XXI: Bitrwa).
+Jeżeli zapadnie decyzja o zgładzeniu skażonych żołnierzy, nikt jej nie za-
+kwestionuje. Bohaterowie mogą wydać rozkaż zabicia zakażonych człon-
+ków załogi komuś innemu, choćby kapitan von Schatten. Należy wówczas
+podnieść Tension na karcie drużyny o 3. Kapitan lub jej ludzie zajmą się spra-
+wą po cichu, zabijając swoich towarzyszy w lochu.
+Jeżeli ktoś z BG weźmie ten makabryczny obowiązek na siebie, Tension
+należy podnieść o 4, ale drużyna otrzymuje równocześnie 2 punkty Fortu-
+ne do wspólnej puli.
+Egzekucja
+Jeżeli to gracze podejmą się zabicia żołnierzy, należy zostawić im de-
+cyzję, jaki przebieg ma mieć egzekucja. W założeniach, o ile MG nie
+ma ochoty na przeprowadzenie walki, skażeni członkowie garnizonu
+nie stawiają oporu.
+Gracze mogą zatem uciąć sprawę krótko, deklarując, że „załatwili sprawę” lub opisu-
+jąc, w jaki sposób uśmiercają żołnierzy. W tym drugim przypadku musisz umiejętnie
+podjąć narrację graczy. Możesz też w odpowiednim momencie uciąć narrację, pozosta-
+wiając detale przygnębiającej sceny w niedopowiedzeniu.
+Wszyscy Bohaterowie, którzy brali udział w egzekucji otrzymują kartę
+insanity Nagging Doubts. Od tej pory za każdym razem, gdy BG obleje test
+cechy psychicznej, otrzymuje 1 stress.
+Pogrzeb
+Naturalną konsekwencją śmierci żołnierzy jest konieczność zrobienia czegoś
+z ciałami. O ile BG sami o tym nie pomyślą, ktoś z załogi poprosi ich o podjęcie
+decyzji.
+Wieści o śmierci więźniów rozchodzą się szybko, ale załoga akceptuje tę decy-
+zję. Pomimo tego transport zwłok oczywiście zwróci uwagę wszystkich obec-
+nych na dziedzińcu i murach. Scena wynoszenia ciał z lochu i ładowania ich
+na wóz powinna być przygnębiająca i ponura.
+Optymalnym rozwiązaniem byłoby spalenie ciał na stosie poza murami twier-
+dzy. Jeżeli Bohaterowie wstrzymają się z decyzją, pogrzeb żołnierzy może zo-
+stać połączony z ostatnią drogą władcy Helmburga (patrz Scena XVI: Nocna
+próba). Jeżeli jednak BG będą działać szybko, czekają ich zapewne dwa od-
+dzielne pochówki.
+Pogrzeb stanowi również dobrą okazję, by przemówić do garnizonu i pod-
+nieść na duchu żołnierzy. Nie trzeba bowiem wykonywać żadnego testu, by
+zorientować się, że morale żołnierzy zostało mocno zachwiane. Poszczególni
+gracze mogą pokazać, że są godni zaufania jako dowódcy.
+Jeżeli dowolny z Bohaterów wykaże się w tej sekwencji wyczuciem i zdol-
+nościami przywódczymi, warto nagrodzić go 1 punktem szczęścia do
+wspólnej puli drużyny.
+29
+Ocena potencjału obronnego
+Gracze mogą chcieć dowiedzieć się, jakimi siłami dysponuje zamkowy garni-
+zon.
+W chwili obecnej na zamku stacjonuje:
+• 60 piechurów
+• 20 kuszników
+• 20 łuczników
+• 50 kawalerzystów
+Liczba żołnierzy jest celowo zaokrąglona na potrzeby mechaniki bitwy. Zasa-
+dy jej rozegrania znajdują się w Scenie XXI: Bitwa. Podczas przeglądu Boha-
+terowie mogą wydawać rozkazy dotyczące przygotowania do nadchodzącej
+bitwy i dopytywać się o strategiczne detale.
+Możesz pozwolić, by gracze uzyskali informacje dzięki testom umiejętności Leadership.
+O ile to jednak możliwe, pozwól im się wykazać i pozadawać odpowiednie pytania.
+Te najbardziej błyskotliwe i uzasadnione opracowaniem taktyki nagradzaj punktami
+szczęścia do puli drużyny lub Puli Szczęścia załogi Helmburga (patrz niżej).
+Najważniejsze informacje o potencjale Helmburga:
+• Załogą zamku zawsze dowodził jego władca.
+• Brak pani kapitan von Schatten podczas przygotowań do obrony mocno
+podkopał morale żołnierzy.
+• Chlubą Helmburga była zawsze jego kawaleria, która sprawdzała
+się zarówno w dalekich misjach zwiadowczych, jak i podczas starć w
+obronie zamku.
+• Zamek dysponuje aktualnie kilkunastoma nadmiarowymi końmi.
+Niewypowiedziana obawa
+Tej informacji nie da się uzyskać poprzez udany test umiejętności. Jeżeli jed-
+nak, któryś z Bohaterów zada głośno pytanie o przewidywane szanse zwycię-
+stwa w bitwie, należy nagrodzić drużynę 1 punktem szczęścia do wspólnej
+puli. Oraz podnieść poziom Tension na karcie drużyny o 2.
+Wizyta u pana zamku
+Najbardziej dramatyczny sposób rozwiązania wątku pana zamku opisany jest
+w Scenie XVI: Nocna próba. Gracze mogą jednak znacznie wcześniej dojść do
+wniosku, że Ulrich jest skażony podobnie jak jego żołnierze i postanowią zło-
+żyć mu wizytę.
+Jeśli do tego dojdzie, zmieni się charakter i nastrój sceny, ale Einar złoży Sie-
+grid tę samą propozycję.
+Tajemnica Pani Kapitan
+Bohaterowie mogą nabrać (uzasadnionych) podejrzeń co do osoby pani ka-
+pitan von Schatten lub nawet spróbują ją zabić. MG powinien elastycznie re-
+agować na ich poczynania, ale nie musi za wszelką cenę unikać konfronta-
+cji. Byłoby dobrze, gdyby starcie z kapitan wypadło efektownie i odbyło się
+w mrocznej scenerii katakumb, ale jeszcze ważniejsze jest przekazanie kluczo-
+wej informacji.
+Optymalny moment opisany jest w Scenie XVII: Zdrada Pani Kapitan.
+Jeżeli jednak zaproponowany obrót spraw nie jest możliwy Schatten
+w odpowiednim momencie sama dotrze do Bohaterów. Wyjawi im,
+że zdradzi tajemnicę zamku. Twierdzi, że odkryła ją sama. Aby ją
+poznać, muszą czekać na nią godzinę przed świtem w kaplicy Sig-
+mara.
+Duchy Mortimusa
+Po załadowaniu ciał martwych żołnierzy na wóz, ten ruszy w stronę bramy. Na
+koźle obok woźnicy siedzi jeszcze jeden żołnierz.
+W pewnym momencie, gdy Mortimus spojrzy na wóz lub będzie odprowadzał
+go wzrokiem, żołnierz obróci się i upiornie się do niego uśmiechnie. Gdy Mor-
+timus będzie próbował się do niego odezwać lub zwrócić na niego uwagę in-
+nych bohaterów, duch przeszłości rozpłynie się w powietrzu. Oczywiście nikt
+poza Mortimusem tego nie widzi.
+Pula szczęścia załogi Helmburga
+Jeżeli w czasie poprzedzającym bitwę Bohaterowie podejmują trafne strate-
+giczne decyzje lub podnoszą morale załogi, należy utworzyć specjalną pulę
+punktów szczęścia dla żołnierzy Helmburga.
+Najlepsze pomysły oznaczają otrzymanie 1 lub 2 punktów, które przydadzą się
+podczas nadchodzącej bitwy. Ich zastosowanie zostało opisane w Scenie XXI:
+Bitwa.
+30
+Gdyby gracze doprowadzili do walki z kapitan wcześniej, musisz jedynie pamiętać, by
+Schatten podzieliła się informacją o miejscu, w którym znajduje się tajemnica zamku.
+Leży to zresztą w interesie jej nowego pana. Bohaterowie, jeśli połkną haczyk, wpadną
+w pułapkę. A jeżeli nawet sobie z nią poradzą, zostaną wystawieni na znacznie cięższą
+próbę.
+A Dziadunio?
+Gracze mogą zadać sobie pytanie, czy również Dziadunio nie został nadmier-
+nie zepsuty przez Chaos. Nawet jeśli ustalą, że stało się to 60 lat temu, mogą
+uznać, że należy podjąć ostateczną decyzję. To, jaki los spotka dawnego pana
+zamku, zależy tylko i wyłącznie od ich decyzji.
+Zmierzch długiego dnia
+Wyobraźnia graczy bywa nieograniczona, ale Mistrz Gry musi utrzymać ją
+w ryzach i czasowych ramach. Ujęcia poświęcone na poszczególne
+pomysły i deklaracje graczy nie mogą się nadmiernie przeciągać. Ca-
+łość podjętych działań warto zamknąć opisową puentą.
+Helmburg za sprawą Bohaterów tętni życiem i przygotowaniami do
+walki. W powietrzu wyczuwa się napięcie, ale ostatnie promienie za-
+chodzącego słońca dają odrobinę nadziei…
+scena XVi: nOcna Próba
+Muzyka: X-Ray Dog: WICKED THINGS, później X-Ray Dog: LESSER EVIL
+Czas i miejsce: zamek, komnata pana zamku, noc
+Postaci: Einar, Siegrid, Ulrich
+W środku nocy Einar budzi Siegrid. Prosi ją, by poszła za nim.
+Zabiera ją do komnaty ojca. Mężczyzna wygląda upiornie, jest śmiertelnie bla-
+dy. W powietrzu unosi się nieprzyjemny zapach zepsucia. Einar pokazuje ranę
+ojca – wygląda ona bardzo źle i już gołym okiem widać, że skóra się zmienia,
+pojawiają się narośla.
+Einar prosi Siegrid, by zabiła dla niego ojca. Ojciec sam go o to prosił poprzed-
+niej nocy, ale on nie potrafi go zgładzić. Zamek musi mieć pana, a Einar nie ma
+nawet prawa przekazać władzy.
+Na szyi rannego wisi łańcuch władcy zamku – z herbem: imperialną czaszką
+wpisaną w wieżę. To oznaka panowania nad Helmburgiem.
+Jeżeli Siegrid zabije mężczyznę, Einar weźmie łańcuch i poprosi córkę cesarza,
+by zostawiła go samego.
+Jeżeli Siegrid odmówi, Einar również prosi ją, by zostawiła go samego.
+W tym momencie scenę warto uciąć i przejść albo do spotkania Mortimusa z duchami,
+albo – w przypadku synchronicznego prowadzenia scen – do podziemi kaplicy Sigmara.
+Najważniejsze informacje:
+• Einar w nocy odwiedza Siegrid i prowadzi do komnaty ojca
+• Ulrich jest ranny w lewe ramię, paskudna rana, widać zalążki mutacji
+• Na szyi pana zamku wisi łańcuch z herbem
+• Einar prosi Siegrid o pomoc w zakończeniu cierpień ojca
+Chronologicznie lub synchronicznie
+Sceny Nocna próba i Zdrada Pani Kapitan oraz kolejne spotkanie Mortimusa
+z duchami zamku są opisane w porządku chronologicznym.
+Lubiący zabawę z narracją MG może jednak poprowadzić je równocześnie,
+przeplatając między sobą.
+W tym drugim przypadku Mistrz Gry może spróbować urwać narrację przed
+ostateczną decyzją Siegrid (dając tym samym graczce czas do namysłu) i wró-
+cić do niej po scenie Mortimusa z duchami oraz początku spotkania z kapitan
+von Schatten (tutaj warto urwać tuż przed otworzeniem drzwi do starej części
+katakumb i walką).
+Gdy sekwencja w komnacie pana zamku dobiegnie końca, rozpocznie się wal-
+ka w podziemiach.
+31
+XVii: Zdrada Pani kaPitan
+Muzyka: X-Ray Dog: WICKED THINGS, później Two Steps From Hell: SUMMONING
+Czas i miejsce: Godzinę przed świtem, katakumby pod kaplicą Sigmara
+Postaci: Siegrid, Ordo, Mortimus, Schatten i jej przyjaciele
+Godzinę przed świtem Schatten zabiera bohaterów do podziemi pod kaplicą.
+Otwiera pierwsze drzwi, za którymi znajdują się groby władców. Nigdzie nie
+ma grobu Gardiusa.
+Schatten zatrzymuje się przed kolejnymi, ciężkim drzwiami. Informuje, że za
+nimi znajduje się tajemnica zamku. Otwiera je.
+Za drzwiami, w nisko sklepionym pomieszczeniu, po lewej stronie znajduje
+się wnęka, w której zgromadzono ogromny stos kości i czaszek. Schatten
+informuje, że to szczątki obrońców, którzy polegli tutaj 60 lat temu. Po prawej
+stronie znajduje się marmurowy sarkofag, w którym spoczywa dziad kapitan
+von Schatten, kapitan, który zginął 60 lat temu.
+Nieznacznie rozszerzający i wznoszący się tunel – obok siebie mogą stać dwie
+osoby – ciągnie się dalej w mrok.
+Schatten zatrzymuje się na chwilę i pyta, czy są gotowi uciec. Taka jest bowiem ta-
+jemnica zamku: ukryta droga ucieczki z niego. Pani kapitan odwraca się
+do Bohaterów, rzuca pochodnię na ziemię i stwierdza, że oto znaleźli się
+w swoim grobie.
+W tym momencie na sklepieniu błyskają ślepia demonów. Rozpoczyna
+się walka.
+W niskim tunelu nie ma za wiele miejsca, obok siebie mogą stać dwie oso-
+by.
+Ze względu na te warunki, walczący zweihanderem Ordo otrzymuje
++1 Misfortune do każdego testu w walce.
+Ze względu na panujący półmrok, wszyscy Bohaterowie otrzymują
++1 Misfortune do wszystkich testów w walce.
+Przebieg walki
+Przeciwnikami drużyny są kapitan von Schatten oraz Koszmary,
+demony Tzeentcha, znane też jako strachulce (Horror of Tzeentch,
+Winds of Magic: Liber Mutatis, s. 22). Zdjęcie figurek można znaleźć w
+rozdziale Pomoce.
+Duchy Mortimusa
+W nocy kapłana budzi szczęk broni. Gdy wyjdzie przed świątynię, widzi, jak
+jeden ze strażników zmaga się na murze z jakimś cieniem. Wyraźnie toczy się
+walka!
+Pozostali strażnicy na murach zdają się nic sobie nie robić z zamieszania. Gdy
+Mortimus ich zaalarmuje i znowu spojrzy w miejsce, gdzie toczy się walka, po
+strażniku i jego wrogu nie będzie już śladu.
+Pozostali strażnicy wymienią porozumiewawcze pobłażliwe spojrzenia i wy-
+śmieją starego kapłana.
+Koszmar
+Mniejszy Demon Tzeentcha
+• St 4
+• To 4
+• Ag 4
+• Int 2
+• WP 3
+• Fel 2
+Reckless stance: 1
+Wounds: 14
+Damage: 5
+Soak: 2
+Defence: 1
+Aggression: 5
+Cunning: 2
+Expertise: 1
+W pierwszej rundzie walki z Koszma-
+rami Tzeentcha należy wykonać test
+Strachu 2.
+Koszmary Tzeentcha dysponują spe-
+cjalnym atakiem, Horrific Assault, któ-
+ry może powodować spaczenie tra-
+fionego przeciwnika. Gdyby do tego
+doszło, Bohater musi wykonać test
+Resilience (3d). Jeśli test się nie powie-
+dzie, BG otrzymuje 1 punkt zepsucia.
+Walka nie będzie raczej trwać na tyle
+długo, by Bohater mógł odczuć po-
+ważne efekty zepsucia (ich ilość mu-
+siałaby przekroczyć Toughness +5)
+i doświadczyć efektów jakiejś muta-
+cji. MG powinien jednak wykorzy-
+stać otrzymanie nawet pojedynczego
+punktu zepsucia, by podnieść napię-
+cie w nadchodzących scenach.
+Szczególnie w kontekście ponure-
+go losu skażonych żołnierzy i pana
+zamku nawet cień zepsucia powinien
+mocno ciążyć Bohaterom.
+Mechaniczne
+zasady
+korzystania
+z punktów zepsucia są opisane
+w Winds of Magic: Liber Mutatis.
+32
+Schatten całkowicie odrzuciła pozory. Nie ma na sobie zbroi, a pokrywające
+ramię i obojczyk krwawe piętno Khorna błyszczy w mroku własnym świa-
+tłem. W tej walce kapitan nie hamuje swojej żądzy krwi i MG powinien o tym
+pamiętać podczas opisu. Statystki kapitan von Schatten można znaleźć w Sce-
+nie XII: Pojedynek Ordo. W trakcie walki Schatten jako przeciwnika upatruje
+sobie oczywiście Ordo. Tym razem jednak walka toczy się „na serio” i każdy
+cios ma zadanie poważnie zranić przeciwnika.
+W trakcie jednego z ciosów kapitan von Schatten mówi również do Ordo: „Mój
+pan ma wobec ciebie wielkie plany. Twoje miejsce jest wśród nas, prawdzi-
+wych wojowników”.
+Koszmary są równie groteskowe, co straszne. To chaotyczne kłębowiska dłu-
+gich macek i paszcz wypełnionych zębami. Sam ich dotyk zdaje się wypaczać
+wszystko, czego dotykają. W walce przeciwnik nigdy nie jest pewien, co stwór
+za chwilę zrobi.
+Koszmary są trzy. Dwa z nich, niebieskie, spadają ze sklepienia i rzucają się na
+Siegrid. Trzeci, mieniący się barwami różu i fioletu, czai się z tyłu, za plecami
+Schatten i czeka na odpowiedni moment, by zaatakować.
+Dobór Koszmarów Tzeentcha pozwoli MG w trakcie walki dostosować się do sytuacji.
+Dwa niebieskie demony należy traktować jako henchmanów (dzielą wspólną pulę ran).
+Dodatkowo ze względu na niewielką przestrzeń MG może uznać, że tylko jeden jest w
+stanie atakować.
+Jeżeli graczka prowadząca Siegrid (przy wsparciu pozostałych Bohaterów) sobie spraw-
+nie poradzi – MG może rzucić na nią trzeciego, „normalnego” demona. Ten, gdy zgi-
+nie, przepoczwarza się i rozdziela na dwóch kolejnych henchmanów. Jeśli MG uzna
+jednak, że walka trwa za długo lub Bohaterowie są zbyt poobijani, może zrezygnować
+z tej opcji.
+Gdyby Bohaterowie już wcześniej rozprawili się z panią Kapitan, atakują ich
+wszystkie trzy koszmary.
+Albo cztery, jeśli uznasz, że wyzwanie byłoby za proste.
+Mortimus musi stawić czoła zupełnie innemu zagrożeniu. Na kapła-
+na suną bowiem zjawy wyłaniające się ze stosu kości. Każde trafienie
+takiego widmowego przeciwnika sprawia, że duch znika tak, jakby
+go w ogóle nie było.
+MG powinien pozwolić graczowi wykonywać normalne rzuty i używać swo-
+ich mocy (stopień trudności wynosi 1d). Każde trafienie niszczy zjawę. Jeśli
+Mortimus spudłuje, duch przenika przez niego, ale nie czyni mu żadnej fizycz-
+nej szkody. Bohater otrzymuje jedynie 1 stress.
+W istocie Mortimusowi nic nie grozi. Duchy dręczą jego sumienie i tylko on
+je widzi.
+Kapłan może pojąć, że to tylko duchy (lub po prostu zignorować zagrożenie)
+i nie bronić się. Otrzymuje wówczas w każdej turze 1 stress za widmowe
+ciosy. Jeżeli się na to zdecyduje, jest w stanie pomóc w walce towarzyszom.
+Koniec walki
+W chwili, gdy walka dobiega końca, kapitan von Schatten w swoich ostat-
+nich słowach obiecuje, że jej pan, „Nazgar, niebawem powróci, by dokończyć
+dzieła”.
+Tajne przejście
+Bohaterowie mogą się zdecydować na wyprawę mrocznymi tunelami pro-
+wadzącymi poza twierdzę. Korytarze ciągną się bardzo długo i wielokrotnie
+rozwidlają. Osoba nie znająca trasy będzie musiała poświęcić wiele czasu, by
+znaleźć wyjście. Nic nie stoi na przeszkodzie, by Bohaterowie, błądząc i wciąż
+się cofając, wydostali się z podziemi. Wędrówka po podziemiach zaj-
+mie im wówczas około dwóch godzin.
+Możesz wydłużyć ten czas, aby zniechęcić graczy do opuszczenia zamku.
+Nie jest to jednak konieczne. Wręcz przeciwnie: gracze poznają dzięki temu
+prawdę, a ich ostateczna decyzja nabierze dodatkowej wagi.
+Powrót kapitana von Schattena
+Miejsce „unicestwionych” przez Mortimusa zjaw zajmują nowe, ich zastępy
+są nieskończone. Jedna z nich nie wygląda jednak jak zwykły żołnierz. Mor-
+timus zobaczy w pewnym momencie, jak z sarkofagu Schattena wynurza się
+duch dziada obecnej pani kapitan. Wymawia imię Magnus i z nienawiścią
+w martwych oczach atakuje kapłana. Jeżeli zostanie trafiony, znika jak pozo-
+stałe duchy.
+33
+Oczywiście, gracz prowadzący Mortimusa może zadeklarować, że zna dro-
+gę (bo tak jest w istocie, właśnie tędy uciekł z Helmburga 60 lat wcześniej).
+W takim wypadku należy przyznać drużynie 1 punkt szczęścia do puli oraz
+podnieść Tension o 2. Znający drogę Bohaterowie są w stanie pokonać całą
+trasę w mniej więcej godzinę.
+W tej scenie Bohaterowie powinni jednak przede wszystkim zrozumieć, że ist-
+nieje droga ucieczki z zamku.
+Prawda o Helmburgu
+Gracze mogą wreszcie dojść do słusznego wniosku, że 60 lat wcześniej bitwa
+wcale nie zakończyła się zwycięstwem obrońców Helmburga. Jeśli którykol-
+wiek z graczy powie to na głos, należy nagrodzić drużynę 2 punktami szczę-
+ścia do puli drużyny i podnieść Tension o 2.
+Powrót do zamku
+Jeżeli Bohaterowie opuszczą katakumby natychmiast po walce lub eksploracji
+podziemi, na zewnątrz jest już po świcie. Słońce jednak nie wzeszło i niebo
+kryją ciemności.
+Słońce już tego dnia nie wzejdzie. MG powinien pamiętać o tym podczas opi-
+sywania poszczególnych scen i przy budowaniu napięcia poprzedzającego
+zbliżającą się bitwę.
+Przedwczesny epilog
+Jeżeli BG postanowią natychmiast wydostać się z twierdzy podziemną
+drogą i nie wracać, przygoda dobiega końca. Na prawdziwą epicką
+bitwę zasługują tylko prawdziwi herosi.
+Jeżeli zdecydowałeś się prowadzić ten scenariusz znanym sobie graczom, zapewne
+wiesz, co lubią i nie ryzykowałeś, że zostawią obrońców zamku samym sobie. Gdyby
+tak się jednak stało, warto zachować spójność fabuły.
+Jeżeli Bohaterowie zdradzą obrońców Helmburga, Legenda kończy się nastę-
+pującym epilogiem.
+Altdorf. Pół roku później. Stolica Imperium jest otoczona ze wszystkich stron,
+bez szans na zwycięstwo. Na murach stoją Bohaterowie i patrzą na nieprze-
+brane zastępy wroga.
+W tym momencie pozwól graczom, by każdy z nich powiedział, co robi. Jeżeli ostatni
+z nich wymyśli dobrą, satysfakcjonującą puentę, możesz zakończyć sesję. Jeżeli chcesz
+mieć ostatnie słowo i podkreślić wydźwięk historii, zakończ opowieść w sposób, który
+ci pasuje. Na przykład ostatecznym upadkiem Imperium.
+Najważniejsze informacje:
+• Kapitan von Schatten zabiera wszystkich do katakumb pod kaplicą Sigmara
+• W katakumbach znajdują się groby władców Helmburga, ale brakuje grobu
+Gardiusa
+• Na końcu krypty znajdują się szczątki obrońców Helmburga i sarkofag Ka-
+pitana Schattena, dziada obecnej komendantki załogi
+• Drużyna zostaje zaatakowana przez panią kapitan von Schatten i demony
+Tzeentcha
+• Mortimusa podczas walki nękają duchy
+• Umierająca Schatten zapowiada powrót Nazgara
+• W podziemiach pod zamkiem znajduje się tajne przejście poza mury
+Ostatni list cesarski
+Ordo otrzymał od cesarza trzy listy z rozkazami. Ostatni z nich powinien
+otworzyć, „gdy nie będzie szans na zwycięstwo”. To, czy i kiedy otworzyć ten
+list, zależy jednak wyłącznie od gracza. MG nie powinien wywierać na gracza
+w tej kwestii żadnej presji.
+34
+trZeci dZień na Zamku
+XViii: OświadcZyny i śłub
+Muzyka: Ordo Funebris: LYCANTHIA, Two Steps From Hell: MERCY IN DARKNESS
+Czas i miejsce: ranek, mury zamku, kaplica
+Postaci: Einar, Siegrid, pozostali bohaterowie
+Ta scena lub sekwencja scen może nastąpić wcześniej – poprzedniego dnia lub w innym
+momencie, który pasuje graczce prowadzącej Siegrid. Decyzja o oświadczynach nie
+należy jednak zazwyczaj do łatwych, dlatego scena ta ma największe szanse pojawienia
+się na tym etapie fabuły. W tym momencie jej siła byłaby też największa, gdyż gracze
+mieliby już większą świadomość jej znaczenia.
+Nad ranem wszyscy dowiadują się, że pan zamku nie żyje. Rozlega się żałob-
+ny dzwon. Ciało władcy zostaje złożone na marach i przeniesione na mury
+zamku. Tak, aby pan Helmburga mógł po raz ostatni spojrzeć na zamek i zie-
+mie, których bronił.
+Morale obrońców gwałtownie spada, zwłaszcza, że kapitan von Schatten na
+dobre przepadła. Bohaterowie mogą próbować wpływać na nastrój i morale
+garnizonu, podobnie jak czynili to poprzedniego dnia.
+Einara można spotkać na murach przy ciele ojca. Nosi na szyi łańcuch symbo-
+lizujący władzę nad zamkiem.
+W tym momencie fabuła może rozwinąć się na trzy podstawowe sposoby.
+Siegrid, świadoma tego, że zamku jako dowódca ma prawo bronić tylko pra-
+wowity władca, może oświadczyć się Einarowi. W zależności od tego, jak
+toczył się wcześniej wątek między parą, scena może być romantyczna lub
+całkowicie racjonalna, pozbawiona emocji. Książę przyjmie oświadczyny bez
+względu na to, czy we wcześniejszych scenach między Bohaterką a nim „za-
+iskrzyło”. Kieruje się przede wszystkim dobrem zamku i swoich ludzi, więc
+nie pozwoli uczuciom wejść w drogę obowiązkowi.
+Z powyższego powodu, jeżeli graczka nie podejmie decyzji o
+oświadczynach, uczyni to Einar. Najlepiej, by scena ta odbyła się
+przy ciele nieżyjącego ojca. Pan zamku uklęknie i ofiaruje Siegrid
+swoją rękę oraz Helmburg.
+35
+Jeżeli Siegrid sama się oświadczy lub przyjmie oświadczyny, otrzyma łańcuch
+symbolizujący władzę nad zamkiem – Einar sam nałoży jej go na szyję. Ob-
+serwujący scenę zebrani pod murami żołnierze przywitają to pomrukiem ak-
+ceptacji. Jeżeli graczka wykorzysta okazję i zwróci się do nich odpowiednimi
+słowami, aprobata przejdzie w entuzjazm i wojownicze okrzyki.
+Trzecia opcja oznacza, że Siegrid nie przyjęła oświadczyn Einara. Ta de-
+cyzja pociągnie ze sobą trzy zasadnicze konsekwencje.
+Przede wszystkim straci u mężczyzny resztki szacunku (o ile jakiekolwiek po-
+siadała), a u obrońców zamku wszelki autorytet. Wciąż może walczyć w jego
+obronie, ale będzie traktowana na równi ze zwykłymi żołnierzami. Jej pocho-
+dzenie w tej jednej chwili i w obliczu ostatecznej bitwy przestaje kogokolwiek
+obchodzić.
+Po drugie, nie będzie mogła przywdziać zbroi vum Turmów. A nawet gdyby
+to uczyniła, nie dostarczy jej ona ani walczącym razem z nią ludziom żadnych
+premii (w tym premii do pancerza).
+Po trzecie wreszcie, decyzja ta odbije się bardzo negatywnie na morale żoł-
+nierzy. Jeżeli dzięki wysiłkom Bohaterów w puli szczęścia załogi Helmburga
+znalazły się już jakieś punkty, należy odjąć z niej 3.
+„Tak”
+Jeżeli scena oświadczyn wypadła przekonująco i graczka prowadząca Siegrid była
+z niej zadowolona, nie trać czasu na dublowanie jej rozbudowaną sekwencją ślubu.
+Zamiast tego możesz od razu przejść do momentu, w którym nowa władczyni nakłada
+rodową zbroję.
+Skoro są oświadczyny, to po co zwlekać ze ślubem? W istocie jest on niezbęd-
+ny, by przypieczętować układ oraz zatwierdzić pozycję nowej pani zamku.
+Ślubu może udzielić kapłan Sigmara, co da graczowi prowadzącemu Morti-
+musa okazję do opisania sceny.
+Ceremonia odbywa się w kaplicy Sigmara, a jej integralną częścią jest
+nałożenie przez nową władczynię rodowej zbroi i przyjęcie tarczy.
+W rytuale pomaga oczywiście Einar, który – pomimo utraty wzroku –
+sprawnie nakłada kolejne części pancerza. Opisując tę scenę, możesz
+spróbować zasugerować intymny charakter całego procesu.
+Scena stanowi też niemal ostatnią okazję, by zwrócić się do obrońców Helm-
+burga i podnieść ich na duchu wśród przygnębiających ciemności.
+Nagradzaj szczególnie efektowne i epickie deklaracje Bohaterów, przyznając punkty do
+Puli szczęścia obrońców Helmburga.
+W momencie gdy nastroje są podniosłe i padają ważne słowa, przerwij tę sce-
+nę. Z oddali wszystkich dobiega pomruk, przypominający przetaczający się
+po niebie grzmot. Pomruk, który przechodzi w wojenny ryk.
+Najważniejsze informacje:
+• Wszyscy dowiadują się, że Ulrich nie żyje
+• Jeżeli Siegrid oświadczy się Einarowi, otrzyma łańcuch symbolizujący wła-
+dzę nad zamkiem i zbroję
+• Jeśli Siegrid się nie oświadczy, zrobi to Einar
+• Jeżeli nie dojdzie do zaślubin, Bohaterowie muszą bronić zamku bez zbroi
+• Istotną częścią ślubu jest ceremonia nałożenia rodowej zbroi von Turm
+scena XiX: ciemnOść nadciąga
+Muzyka: X-Ray Dog: REIGN OF HELL
+Czas i miejsce: Helmburg, mury zamku
+Postaci: Siegrid, Ordo, Mortimus, załoga Helmburga
+Ciemności kryją ziemię. Niebo nie jest jednak czarne, jak w nocy, ale
+raczej zasnute smolistymi chmurami, przez które nie przenika świa-
+tło księżyca ani gwiazd. Zamek oświetlany jest ogniem pochodni
+i latarni.
+Ostatni pogrzeb
+Jeżeli pan zamku zginął wcześniej, jego pogrzeb można połączyć z ceremonią
+spalenia ciał spaczonych, zabitych przez Bohaterów żołnierzy. Jeżeli jednak
+zginął dopiero ostatniej nocy z ręki Siegrid lub Einara, lepiej nie tracić czasu na
+powtarzanie takiej samej sceny i rozwlekanie fabuły.
+Byłoby dobrze, gdyby to gracze podjęli decyzję o tym, co uczynić z ciałem.
+Dobrym, nastrojowym i nie spowalniającym akcji rozwiązaniem byłoby pod-
+palenie stosu na zamkowych murach.
+36
+Zgromadzeni na murach Bohaterowie i żołnierze słyszą z oddali wrzaski i ryki
+zbliżającej się armii. Powietrze jest ciężkie od napięcia.
+Czas decyzji
+W tym momencie gracze muszą podjąć decyzję o rozstawieniu oddziałów bro-
+niących twierdzy. Szczegółowe zasady rozgrywania bitwy znajdują się w Sce-
+nie XXI: Bitwa.
+Zastanów się, czy chcesz od razu opisać graczom pełne zasady rozegrania bitwy. Nie
+są one skomplikowane, ale nadmiar informacji może spowodować małe zamieszanie.
+Zamiast tego możesz objaśniać reguły stopniowo, wraz z rozwojem sytuacji.
+Na początku istotne jest jedynie, żebyś wyjaśnił, jak mierzona będzie siła i żywotność
+oddziałów oraz z jakich kostek będą korzystać. Pozwól graczom spędzić chwilę na za-
+planowaniu obrony. Jak to z bitwami bywa, plany często biorą w łeb w wirze walki, ale
+gracze powinni poczuć, że choć trochę panują nad sytuacją.
+Daj im na opracowanie obrony maksymalnie 15 minut. Jeżeli gracze nie będą w stanie
+dojść do porozumienia, ostatnie słowo należy do osoby prowadzącej Siegrid, co oddaje
+jej aktualną pozycję.
+Czas oczekiwania na ostateczną bitwę urozmaica kilka wydarzeń.
+Skażona woda
+To wydarzenie jest opcjonalne. Wprowadź je, jeśli uznasz, że urozmaici twoją sesję.
+W pewnym momencie do Bohaterów podbiega jeden z żołnierzy, krzycząc
+„Zdrada!” W rękach taszczy ciężkie wiadro z wodą ze studni. W cuchnącej
+wodzie pływa czyjeś ucięte w łokciu ramię. Bliższy oględziny pozwalają do-
+strzec, że skóra pokryta jest licznymi fioletowymi i purpurowymi naroślami.
+Oto pożegnalny prezent od kapitan von Schatten, który Bohaterowie otrzyma-
+li zza grobu.
+Skrzydlate demony
+Najgorsze jest oczekiwanie. Minuty wleką się jak godziny, napięcie
+wśród żołnierzy sięga zenitu. Wydaje się, że wróg znajduje się tuż
+-tuż, ale ciemności są nieprzeniknione.
+W pewnym momencie do pomruków i ryków dołączają upiorne wrzaski do-
+biegające z przestworzy, sponad głów stojących na murach żołnierzy. Niejeden
+z nich kuli się mimowolnie, jakby poczuł podmuch skrzydeł.
+Krążące wysoko furie przyglądają się obrońcom. Dowodzący wojskami
+Bohater musi wykonać test Strachu (2d). Jeśli test się nie powiedzie, nale-
+ży odjąć 1 punkt szczęścia z Puli załogi Helmburga. Testu nie trzeba wykony-
+wać, jeśli Siegrid stoi wśród żołnierzy w zbroi rodu von Turm.
+Wschód Morrslieba
+W panujących ciemnościach nie sposób określić pory dnia, ale na pew-
+no nie zapadł jeszcze zmierzch. Tymczasem chmury się rozsuwają
+i przebija przez nie słabiutkie światło Mannslieba. Na ten widok wśród żołnie-
+rzy Helmburga przebiega szmer ulgi, jakby w ich sercach pojawiła się iskierka
+nadziei.
+Jej płomień szybko gaśnie, gdy zza chmur wynurza się Morrslieb – w pełni
+swojej upiornej, uśmiechniętej chwały. Jego blade światło zalewa zamek, roz-
+ległe pole przed nim i wreszcie pada na hordy stworów Chaosu, który dotarły
+pod Helmburg.
+Z gardeł wojowników i demonów wydobywa się prawdziwa kakofo-
+nia wrzasków i skowytów.
+Zaczyna się bitwa o Helmburg.
+Brak dowództwa
+Jeżeli Siegrid i Einar się nie pobrali, a córka cesarza nie została władczy-
+nią Helmburga, nikt jej nie będzie słuchał. Żołnierze jednak nie panikują
+i szykują się do walki. Einar nie może w pełni dowodzić, ale postara się pod-
+nieść żołnierzy na duchu.
+Gracze prowadzący Ordo i Mortimusa mogą spróbować zdobyć posłuch wśród
+załogi. Muszą w tym celu zdać test Leadership (3d). Obaj otrzymują +2 Misfor-
+tune za, nomen omen, niefortunne okoliczności.
+Jeżeli test się powiedzie, to ten z nich, który osiągnął lepszy wynik, ma ostatnie
+słowo przy rozmieszczeniu oddziałów.
+37
+Dowodzący wojskami Bohater musi wykonać test Strachu (3d). Jeśli test
+się nie powiedzie, należy odjąć 1 punkt szczęścia z Puli Szczęścia załogi
+Helmburga. Testu nie trzeba wykonywać, jeśli Siegrid stoi wśród żołnierzy
+w zbroi rodu von Turm.
+Najważniejsze informacje:
+• Do Helmburga zbliża się armia Chaosu
+• Studnia zamku zostaje zatruta (opcjonalne)
+• Rosnący mrok i strach, potęgowany przybyciem latających demonów
+• Wschód Morrslieba zbiega się z przybyciem pod Helmburg hordy Chaosu
+scena XX: kawaleria PrZybywa
+Muzyka: Two Steps From Hell: FROM TH E ABYSS
+Czas i miejsce: tuż przed bitwą
+Postaci: Siegrid, Ordo, Mortimus, niedobitki kawalerii Siegfrieda
+Wszyscy czekają w napięciu na pierwszy sygnał zwiastujący natarcie sił Cha-
+osu. Obrońcy mogą już wyczuć w powietrzu smród bijący od chmary nur-
+glingów. Niespokojnie patrzą w niebo w poszukiwaniu furii i słyszą
+bojowe okrzyki wojowników Khorna.
+Nagle wzrok wszystkich przykuwa niezwykły widok. Spomiędzy
+drzew na wzgórzach wypada oddział kawalerii i pędzi w stronę bra-
+my zamku. W chwili gdy kawalerzyści pojawiają się na otwartej prze-
+strzeni, ich śladem rzuca się kilka ogarów Chaosu (Flesh hounds).
+Udany test Observation (2d) +1 Misfortune pozwoli dostrzec, że oddział
+liczy około 30 ludzi. Wiele koni jest rannych, a część niesie po dwóch jeźdź-
+ców.
+Jeżeli test uda się Siegrid lub któryś z Bohaterów uzyska 2 boony, zorientują
+się, że to niedobitki oddziału Siegfrieda.
+Sytuacja może w tej chwili rozwinąć się na kilka sposobów. Oto przykładowe
+warianty rozwoju wypadków.
+Masakra
+Bohaterowie, nie chcąc zmienić swoich planów obronnych, mogą nie przyjść
+niedobitkom z odsieczą. W takim wypadku obserwujący z murów zostaną
+uraczeni sceną brutalnej rzezi. Ogary wpadną pomiędzy uciekających w po-
+płochu konnych i wybiją, a raczej wygryzą ich do nogi. Z Puli Szczęścia załogi
+należy odjąć 1 punkt.
+Bitwa
+Przygotowując się do obrony, Bohaterowie mogli rozstawić część wojska
+w polu (np. w lesie na wzgórzach lub pod murami). Jeśli tak się stało, należy
+od razu rozpocząć bitwę (parz Scena XXI: Bitwa) i ustalić Inicjatywę.
+W takim wypadku Kawaleria Siegfrieda otrzymuje figurkę kawalerii z 2 że-
+tonami żywotności. Oddział przechodzi pod dowodzenie graczy w chwili,
+w której dotrze do niego dowolny inny oddział obrońców lub jeden z Bohate-
+rów. Zanim to nastąpi – kieruje się wprost ku bramie zamku.
+Odsiecz
+Gracze mogą postanowić pomóc oddziałowi, nie ruszając przy tym oddziałów
+z zajętych pozycji. W tym celu muszą dołączyć do uciekającej kawalerii i za-
+atakować ogary Chaosu.
+Rozpoczęcie walki powinno nastąpić szybko – Bohaterowie muszą
+opuścić zamek lub ruszyć się ze swoich pozycji poza murami.
+Aby opanować uciekający oddział i uratować go, Bohaterowie mu-
+szą w ciągu trzech tur walki pokonać przynajmniej jednego ogara
+spośród trzech, które już dopędziły oddział.
+Epicka skala epickości
+Gdy bohaterowie staną na murach, gotowi do wzięcia udziału w bitwie,
+każdy z nich otrzymuje kartę do swojego arsenału.
+• Mortimus otrzymuje błogosławieństwo Soulfire.
+• Ordo otrzymuje kartę akcji Not Done Yet.
+• Siegrid otrzymuje talent Legendary.
+38
+Charakterystyki ogarów Chaosu znajdują się w dziale Pomoce.
+Gdy tylko pierwszy ogar padnie, kawalerzyści opanowują spłoszone konie
+i pomagają zabić pozostałe demony. Od tej chwili Bohaterowie mogą decydo-
+wać o tym, jak zachowuje się oddział – czy ma się wycofać do twierdzy czy
+pozostać na polu bitwy.
+Udany test Leadership (2d) pozwoli ocenić, że żołnierze są zmęczeni, ale
+stanowią doborowy oddział, który może brać udział w walce. Gorzej jest
+z wyczerpanymi wierzchowcami. Szybka zmiana koni pozwoliłaby jednak
+Kawalerii Siegfrieda zaprezentować pełnię swojego potencjału.
+Jeżeli oddział nie zmieni wierzchowców i pozostanie na polu bitwy,
+Kawaleria Siegfrieda otrzymuje figurkę kawalerii z 2 żetonami żywotności.
+Jeżeli Bohaterowie zdecydują się odesłać oddział za mury i pozwolić mu
+zmienić konie, Kawaleria Siegfrieda otrzymuje figurkę kawalerii z 3 żeto-
+nami żywotności.
+scena XXi: bitwa
+Muzyka: Two Steps From Hell: REING OF HELL, BLOODLUST
+Czas i miejsce: wieczór, mury i przedpole Helmburga
+Postaci: Siegrid, Ordo, Mortimus, Nazgar, armia Chaosu i obrońcy Helmburga
+Scena bitwy opiera się na dodatkowej mechanice. Jeśli nie chcesz z niej korzystać, mo-
+żesz rozegrać bitwę w inny sposób (np. jako szereg starć oddziałów dowodzonych przez
+Bohaterów Graczy z potworami). W opisie tej sceny znajdziesz proponowany przebieg
+bitwy i wydarzeń, które mogą nastąpić w jej trakcie.
+Bitwa o Helmburg to kulminacyjna scena całej przygody. Jej rozegranie powin-
+no zająć około dwóch godzin.
+Zaproponowane zasady bitwy mają dostarczyć graczom frajdy zwią-
+zanej z dowodzeniem wojskiem, a także z udziału w walce na pierw-
+szej linii. MG powinien jednak pamiętać, że nie są to reguły gry bi-
+tewnej, przetestowane w tysiącu pojedynków. Pod koniec starcia siły
+obrońców mogą być mocno przetrzebione, ale jednak przewaga po-
+winna być po ich stronie.
+Jeżeli jakaś zasada nie będzie się sprawdzać, zrezygnuj z niej lub ją zmodyfi-
+kuj.
+Bitwa o Helmburg ma być możliwie dynamicznym i krwawym wstępem do
+ostatecznego pojedynku Bohaterów z wojownikiem Chaosu, Nazgarem.
+Zasady rozegrania bitwy o Helmburg
+Skrót zasad do wydrukowania znajdziesz w dziale Pomoce.
+Reguły rozegrania bitwy warto przeczytać przed sesją i spróbować rozegrać ją
+próbnie, wykonując kilka przykładowych rzutów.
+Dodatkowo już przed sesją należy przygotować figurki i żetony.
+Do rozegrania bitwy potrzebne będą:
+• Figurki oddziałów obrońców
+• Figurki oddziałów Chaosu
+• Tor inicjatywy o długości przynajmniej 8 elementów
+• Żetony do oznaczenia inicjatywy Bohaterów, oddziałów obrońców
+i oddziałów Chaosu
+• Żetony do oznaczenia żywotności oddziałów obrońców (około 20) i oddzia-
+łów Chaosu (około 40)
+• Żetony dla oznaczenia Puli Szczęścia załogi Helmburga
+• Mapa Helmburga
+W dziale Pomoce znajdują się zdjęcia prezentujące proponowane figurki.
+Rozmieszczenie oddziałów obrony
+Bitwa powinna rozegrać się na obszarze w rogu mapy, położonym naprzeciw
+bramy zamku. Gracze mogą rozstawić swoje jednostki w dowolnym miejscu,
+ale to w to miejsce zostanie skierowane natarcie wroga. Helmburg nie jest zbyt
+dobrze umocnioną twierdzą, ale zaatakowanie jej od przeciwnej stro-
+ny – dzięki ukształtowaniu terenu – byłoby bardzo trudne.
+39
+W Scenie XIX: Ciemność nadciąga gracze muszą podjąć decyzję o tym, jak roz-
+stawić jednostki obrony.
+W zamku stacjonuje:
+• 60 piechurów
+• 20 kuszników
+• 20 łuczników
+• 50 kawalerzystów (w tym 30 można wyposażyć w pistolety)
+Do tych oddziałów mogą również dołączyć niedobitki Kawalerii Siegfrieda.
+Liczą one 30 ludzi.
+Formowanie oddziałów:
+• Oddziały oznaczane są figurkami.
+• W skład oddziału musi wchodzić na początku bitwy przynajmniej 20 żołnierzy.
+• Przy figurce oddziału należy położyć 1 żeton żywotności za każdych 10 żoł-
+nierzy wchodzących w jego skład.
+• Różne rodzaje formacji nie mogą wchodzić w skład jednego oddziału (np.
+piechurzy z łucznikami lub kawaleria z kusznikami).
+Przykład: Na początku bitwy siły Helmburga składają się z 1 od-
+działu kuszników (2 żetony żywotności) i 1 oddziału łuczników
+(2 żetony).
+Poza tym gracze mogą uformować 3 oddziały piechurów (po 2 żetony), 2 od-
+działy piechurów (po 3 żetony) lub 2 oddziały piechurów (po 4 i 2 żetony).
+Kawaleria może zostać uformowana na kilka różnych sposobów, w zależności
+od tego, czy udało się uratować Kawalerię Siegfrieda.
+Maksymalnie 30 kawalerzystów może zostać wyposażonych w pistolety.
+Muszą wówczas stanowić osobny oddział. Jeżeli w trakcie bitwy połączą się
+z innym oddziałem kawalerii, tracą możliwość używania broni palnej.
+Każdego Bohatera należy dołączyć do jednego z oddziałów. W trakcie
+bitwy porusza się razem z nim.
+Armia Chaosu
+Armia Chaosu jest większa od sił obrońców, ale nie ma w swoich szeregach Bohate-
+rów. W jej skład wchodzi kilka rodzajów jednostek, których charakterystyki znajdziesz
+w dziale Pomoce.
+Sugerowany początek bitwy znajdziesz w punkcie Przebieg bitwy. Oczywiście możesz
+go zmienić, a następnie elastycznie reagować na wydarzenia na polu walki.
+Wszystkie oddziały, które nie wkroczyły na pole bitwy, znajdują się poza
+mapą Helmburga, ukryte w mrocznych „mgłach wojny”. Za każdym razem,
+gdy wprowadzisz nową figurkę na stół, wykonaj dla niej test inicjatywy za
+pomocą 3 characteristic dice i oznacz wynik na torze inicjatywy.
+Pamiętaj, że bitwa ma być przede wszystkim emocjonująca i stanowić mocny
+wstęp do walki z Nazgarem. Nie musisz w tym celu wykorzystać wszystkich
+figurek. Jeżeli szala zwycięstwa przechyli się na jedną ze stron, przejdź do po-
+jedynku z Rycerzem Chaosu.
+W skład armii Chaosu wchodzą następujące jednostki:
+• 9 figurek nurglingów – każda posiada 1 punkt żywotności
+• 3 figurki ogarów Chaosu – 2 punkty żywotności
+• 2 figurki furii – 2 punkty żywotności
+• 3 figurki wojowników Khorna – 2 punkty żywotności
+• 2 figurki maruderów – 2 punkty żywotności
+• 1 figurka Molocha – 4 punkty żywotności
+Karty armii Chaosu
+Przed walką warto przygotować sobie wszystkie karty przeciwników oraz ak-
+cje, którymi dysponują. Charakterystyki potworów oraz spis wszystkich zwią-
+zanych z nimi kart znajdują się w dziale Pomoce.
+Początek bitwy
+Bitwa rozpoczyna się od rzutu na Inicjatywę. Należy go wykonać
+w chwili, w której Bohaterowie zdecydują się wkroczyć do walki –
+śpiesząc z odsieczą Kawalerii Siegmunda albo po raz pierwszy de-
+klarując chęć zaatakowania armii Chaosu.
+40
+Gracze wykonują test dla każdej ze swoich postaci i kładą żetony Bohaterów
+na torze inicjatywy.
+Gracze wykonują dla każdego oddziału obrońców test inicjatywy za pomocą
+3 characteristic dice. Uzyskane wyniki oznaczają żetonami (innymi niż Boha-
+terów) na torze inicjatywy.
+MG wykonuje test inicjatywy dla każdej figurki oddziału, która pojawia się na
+polu bitwy za pomocą 3 characteristic dice. Uzyskane wyniki oznacza żetona-
+mi na torze inicjatywy.
+W trakcie bitwy Bohaterowie dzielą między siebie uzyskaną inicjatywę – tak
+samo jak ma to miejsce w normalnym starciu.
+Identycznie postępują oddziały obrońców Helmburga i armii Chaosu. Ruchy
+lub zadawanie obrażeń wykonuje się zgodnie z najwyższą wartością inicjaty-
+wy.
+Przy równej inicjatywie zawsze najpierw działają Bohaterowie, następnie od-
+działy obrońców, a na końcu jednostki Chaosu.
+Jeżeli jakiś oddział zostanie zniszczony, z toru inicjatywy należy usunąć jeden
+z żetonów o najniższej wartości.
+Atak
+Na początku każdej tury bitwy gracze i MG wykonują rzut 1 kostką za każdy
+oddział, który:
+• znajduje się w zwarciu z oddziałem przeciwnika,
+• ma cel w zasięgu strzału i nie znajduje się w zwarciu z oddziałem przeciwnika.
+Przykład: Jednostka kuszników nie atakowana przez nikogo, może strzelać
+do zbliżających się oddziałów wojowników Chaosu. Gracze otrzymują za nią
+wybraną kostkę. Ta sama jednostka, zaatakowana z powietrza przez
+furie, nie może strzelać do innego oddziału. Gracze wciąż jednak
+otrzymują za ten oddział kostkę, gdyż kusznicy znajdują się w zwar-
+ciu z oddziałem.
+Ustalanie puli kości opiera się na rodzajach jednostek. Punkty żywotności od-
+działów nie mają wpływu na ilość kostek, które gracze i MG otrzymują do
+puli.
+Obrońcy Helmburga otrzymują:
+• za każdy walczący oddział lub mający cel w zasięgu strzału: 1 conservative
+lub reckless dice (wybór graczy),
+• każdy oddział kawalerii walczący z piechotą pozwala rzucić 1 dodatkową
+characteristic dice. Jako piechota traktowane są: nurglingi, maruderzy i wo-
+jownicy Chaosu.
+Pula szczęścia załogi Helmburga
+Gracze mogą korzystać w trakcie bitwy z punktów zgromadzonych w Puli
+Szczęścia załogi Helmburga. Każdy z nich mogą wydać – nawet po rzucie Ata-
+ku – aby dodać do puli Ataku 1 fortune dice.
+Obliczanie obrażeń zadanych przez obrońców Helmburga:
+• Boon = 1 obrażenie
+• Sukces (Młot) = 0,5 obrażenia (zaokrąglane w dół, nie przechodzą na kolejną
+turę bitwy)
+• Bane = MG może przerzucić 1 kostkę ze swojej puli
+Armia Chaosu otrzymuje:
+• za każdego walczącego nurglinga: 1 misfortune dice
+• za każdą walczącą furię i marudera: 1 characteristic dice
+• za każdego walczącego wojownika Chaosu, ogara Chaosu i Molocha: 1 chal-
+lenge dice
+Uwaga: Jeśli jednostki piechoty Chaosu atakują jednostki na murach, MG
+otrzymuje do puli kostki za połowę z nich (zaokrąglając w górę i wybierając
+najlepsze rodzaje). Przykładowo, jeśli pod mury podeszło 7 jednostek nurglin-
+gów i 2 jednostki wojowników Chaosu, to MG ma do dyspozycji 5 kostek.
+Wybiera 2 challenge dice za wojowników i 3 za nurglingi.
+Obliczanie obrażeń zadanych przez armię Chaosu:
+•
+Bane = 1 obrażenie
+•
+Sukces (Młot) lub Porażka (Miecze) = 0,5 obrażenia (zaokrągla-
+ne w dół, nie przechodzą na kolejną turę bitwy)
+•
+Gwiazda Chaosu = 1 obrażenie i dodatkowy rzut tą samą kostką
+•
+Boon = gracze mogą przerzucić jedną kostkę ze swojej puli
+41
+Po wykonaniu rzutu Ataku, gracze i MG zapamiętują (lub oznaczają żetona-
+mi) ilość obrażeń, które będą mogli zadać w tej turze bitwy.
+Aktywowanie jednostek: zadawanie obrażeń i ruch
+Po wykonaniu rzutu Ataku i obliczeniu ilości obrażeń, które będzie można za-
+dać w tej turze, następuje główna część tury bitwy. Gracze i MG kolejno, zgod-
+nie z wartościami na torze inicjatywy, aktywują swoich Bohaterów i jednostki.
+Każdą jednostkę i Bohatera można aktywować w turze bitwy tylko raz.
+Po aktywowaniu jednostka lub Bohater mogą zrobić jedną z dwóch rzeczy:
+zadać obrażenia lub wykonać ruch.
+Zadawanie obrażeń przez jednostki
+Aby wykorzystać uzyskane w rzucie Ataku obrażenia, gracze lub MG muszą
+posiadać jednostkę, która może je zadać. Może być to wyłącznie oddział znaj-
+dujący się z zwarciu z inną jednostką lub strzelcy mający cel w zasięgu (strzel-
+ców posiadają tylko obrońcy Helmburga).
+W celu zadania obrażenia gracze lub MG aktywują jedną ze swoich
+jednostek i zadają 1 obrażenie z posiadanej puli dozwolonemu celowi.
+1 obrażenie obniża żywotność oddziału o 1 punkt.
+Następnie inicjatywa przechodzi na kolejnego Bohatera lub jednostkę.
+Zadawanie obrażeń przez Bohaterów
+Ten element bitwy jest szczególnie istotny, jeśli gracze chcą zwyciężyć. Ma
+również pokazać ich wyjątkową, epicką rolę na polu walki. Jeżeli Bohater jest
+w jednostce, która znajduje się w zwarciu z jednostką wroga, może
+zaatakować przeciwnika z wrogiego oddziału.
+Uwaga: Podczas pierwszego starcia ze stworem Chaosu Bohater po-
+winien wykonać test Strachu lub Grozy o odpowiednim dla potwora
+poziomie. Nie dotyczy to Bohaterów, którzy znajdują się w odległo-
+ści medium od Bohatera noszącego zbroję rodu von Turm (o ile ta
+Strach i Groza
+Zasada opcjonalna, której warto użyć, jeśli chce się podkreślić wyjątkową rolę osoby
+noszącej zbroję rodu von Turm.
+Niektóre jednostki Chaosu wywołują Strach lub Grozę (zaznaczono to w ich
+opisach w dziale Pomoce).
+Za każdym razem, gdy oddział obrońców znajdujący się w zwarciu z taką jed-
+nostką chce po raz pierwszy zadać jej obrażenia, należy przeprowadzić test
+Strachu lub Grozy.
+•
+Jeśli w jednostce nie znajduje się Bohater, należy rzucić 3 characteristic dice.
+•
+Jeśli w jednostce znajduje się Bohater, wykonuje on test Leadership od trud-
+ności zależnej od rodzaju przeciwnika.
+•
+Oddział, w którym znajduje się nosząca zbroję von Turm Siegrid, oraz od-
+działy znajdujące się w odległości medium (na potrzeby mechaniki: długość du-
+żej figurki), nie muszą wykonywać testu.
+•
+Jednostka, która nie zdała testu, nie może w tej turze zadać obrażenia.
+W kolejnej turze, o ile jednostka przeciwnika wciąż znajduje się w zwarciu
+z oddziałem obrońców, test należy powtórzyć.
+•
+Bohaterowie wykonują swoje własne testy Strachu lub Grozy i mogą za-
+dawać obrażenia jednostce Chaosu (patrz Zadawanie obrażeń przez Bohaterów).
+Jeżeli jednak walczą w jednostce, która nie zdała testu Strachu lub Grozy, otrzy-
+mują +1d do trudności testu.
+Strzał do jednostki wroga w zwarciu z przyjaznym oddziałem
+Gracze mogą zaryzykować ostrzał wrogiej jednostki, która walczy z obrońca-
+mi Helmburga. W takim przypadku należy wykonać rzut 1 kością misfortune.
+Jeśli wypadnie na niej porażka (Miecze) lub Bane, zamiast wroga obrażenie
+otrzymuje przyjazna jednostka.
+Zasięg strzału
+Jeżeli graczom bardzo zależy na precyzyjnej ocenie zasięgu strzału, możesz
+zaproponować następujące wartości:
+• Pistolet: 1 długość dużej figurki
+• Kusza: 2 długości dużej figurki
+• Łuk: 3 długości dużej figurki
+42
+odzyskała już swoją moc). Na potrzeby mechaniki walki odległość medium jest
+równa długości dużej figurki.
+Atak przeprowadza się normalnie, biorąc pod uwagę obronę przeciwnika.
+MG nie powinien jednak korzystać z puli A/C/E, by dodatkowo podnosić po-
+ziom trudności. Gracz powinien wprowadzić w życie wszystkie efekty wyni-
+kające z przeprowadzonego ataku lub użytej karty Akcji (np. otrzymane punk-
+ty fatigue i stress).
+Dodatkowo każdy taki atak posiada następujący efekt:
+Kometa Sigmara: Za każdą uzyskaną Kometę Sigmara gracz może usunąć
+1 punkt żywotności z jednostki, którą zaatakował.
+Z atakiem wiąże się jednak pewne ryzyko. Każdy atak Bohatera na jed-
+nostkę posiada również następujący efekt:
+Gwiazda Chaosu: MG może przywrócić 1 punkt żywotności dowolnej jedno-
+stce na polu bitwy.
+Ataki stworów na Bohaterów
+Jeżeli aktywowana jednostka Chaosu znajduje się w starciu z oddziałem,
+w którym znajduje się Bohater Gracza to – oprócz zadania obrażenia
+jednostce (o jeszcze jakieś są dostępne w puli Ataku armii Chaosu) –
+jeden ze stworów może również zaatakować BG.
+Atak przeprowadza się na normalnych zasadach. MG korzysta z charaktery-
+styki stwora należącego do danego oddziału, a gracz może bronić się przed
+tym atakiem. Po ataku przeciwnika – udanym bądź nie – gracz nie wyprowa-
+dza już swojego ataku. Bitwa toczy się dalej, a inicjatywa przechodzi na kolej-
+nego Bohatera lub jednostkę.
+Zniszczenie jednostki Bohatera
+Jeżeli w trakcie bitwy zdarzy się, że Bohater Gracza pozostanie sam, bez od-
+działu, nie może się ruszać. Zamiast tego musi w każdej turze walczyć z grupą
+3 henchmanów z wrogiej jednostki. Walka odbywa się z wykorzysta-
+niem normalnych zasad pojedynku.
+Bohaterowi na pomoc może przyjść inna jednostka. Będzie on mógł
+wówczas ponownie poruszać się z oddziałem i atakować jednostkę
+z wykorzystaniem alternatywnych zasad.
+Bohaterem być
+W trakcie bitwy gracze mają poczuć, że naprawdę są bohaterami godnymi le-
+gendy. Alternatywny system obrażeń ma w tym pomagać. Spójrz na ich karty
+przed bitwą, by wiedzieć, na co ich stać. Jeśli się pogubią, zawsze możesz im
+podsunąć małą wskazówkę, jakiej umiejętności lub błogosławieństwa używać.
+Kometa Sigmara pojawia się wyłącznie na żółtych kostkach za wytrenowanie.
+Charakterystyki postaci zostały opracowane w ten sposób, by najwięcej takich
+kostek posiadał Ordo (co oddaje jego umiejętności bojowe). Jednak również
+Siegrid i Mortimus są w stanie samodzielnie zadać straty jednostkom.
+To, jak to opiszesz, zależy od ciebie. Przykładowo, usunięcie 1 lub 2 punktów
+żywotności z oddziału jednym atakiem nie musi oznaczać, że Bohater sam wy-
+ciął wszystkich wrogów w pień. Możesz zamiast tego zasugerować, że obec-
+ność Bohatera inspiruje żołnierzy, którzy dają z siebie wszystko i gromią prze-
+ciwników.
+Nadmiarowe obrażenia
+Może się zdarzyć, że gracze lub MG nie będą w stanie wykorzystać wszystkich
+obrażeń, które uzyskali w rzucie Ataku na początku tury. Takie obrażenia prze-
+padają i nie mogą zostać użyte ponownie przez aktywowaną już jednostkę lub
+w kolejnej turze bitwy.
+Przykład: Początek bitwy. Gracze otrzymują kostki za dwa oddziały strzel-
+ców (po 2 punkty żywotności) oraz jeden oddział piechoty (2 PŻ z Bohaterem
+w swoich szeregach), który znajduje się w zwarciu z nurglingami (1 PŻ). MG
+otrzymuje dwie kostki: 1 za nurglingi oraz 1 za furie (2 PŻ) atakujące z góry
+jedną z jednostek strzelców.
+Gracze uzyskują na kostkach 3 obrażenia, a MG 2. Gracz najpierw aktywu-
+je swojego Bohatera i w teście ataku wyrzuca Kometę Sigmara. Po nurglin-
+gach pozostaje smrodliwe wspomnienie. Kolejne są furie, które odbierają
+1 punkt żywotności broniącym się strzelcom, ale po chwili otrzymują obraże-
+nie od swoich bezpośrednich przeciwników. Następnie drugi oddział strzel-
+ców ryzykuje i strzela do furii będących w zwarciu z przyjaznym oddziałem.
+Na szczęście na kostce misfortune nie wypada negatywny rezultat i furie tracą
+ostatni PŻ.
+W efekcie graczom i MG pozostaje po 1 niewykorzystanym obrażeniu. Od-
+dział, w którym znajduje się Bohater, wciąż może się ruszyć (bo aktywowany
+był Bohater, a nie oddział). Ale nawet jeśli wejdzie w zwarcie z inną jednostką
+wroga, nie będzie już mógł w tej turze zadać jej obrażeń.
+43
+Jeżeli Bohater wytrwa trzy tury LUB zabije przynajmniej 6 henchmanów, MG
+powinien pozwolić graczowi na odrobinę satysfakcji. Taki obrót spraw ozna-
+cza, że Bohater w pojedynkę wybił resztę oddziału lub zmusił ją do ucieczki.
+Ruch
+Każda aktywowana jednostka, o ile nie znajduje się w zwarciu z innym od-
+działem, może wykonać ruch.
+Oddział, który w wyniku ruchu zetknie się z wrogim oddziałem, musi się na-
+tychmiast zatrzymać.
+MG może zaproponować dwa sposoby wykonywania ruchu.
+Pierwszy jest bardziej umowny. Oddział może poruszyć się naprzód do mo-
+mentu, aż zetrze się z innym oddziałem. Musi wówczas się zatrzymać. W ko-
+lejnej turze bitwy, o ile wciąż będzie w zwarciu, gracze lub MG otrzymają za
+niego kostkę do Ataku.
+Stosując to rozwiązanie należy wykazać się dużą dozą zdrowego rozsądku
+i – przykładowo – nie wykonywać piechotą ruchu przez pół mapy.
+Druga opcja jest bardziej „bitewniakowa”. Jeśli MG przyjmie to rozwiązanie,
+zasięg ruchu wygląda następująco:
+• Oddziały piechoty mogą poruszyć się na odległość równą długości dużej
+figurki.
+• Oddziały kawalerii (konnica, ogary i Moloch) oraz latające furie mogą poru-
+szyć się na odległość równą dwóm długościom dużych figurek.
+Jeśli dwa oddziały tego samego rodzaju (np. piechoty Helmburga lub wojow-
+ników Khorna) wykonają ruch, który zetknie je ze sobą, gracze lub MG mogą
+połączyć oba oddziały. W tym celu należy usunąć jedną z figurek i zsumować
+Punkty Żywotności obu jednostek.
+MG nigdy nie może połączyć w ten sposób jednostek nurglingów. No,
+chyba że jest bardzo wredny.
+Przebieg bitwy
+Nie sposób przewidzieć, jak dokładnie potoczy się bitwa. MG może jednak za-
+planować jej początek oraz mieć przygotowanych kilka wydarzeń, które będą
+miały miejsce w jej trakcie. Poza tym powinien reagować na pomysły graczy
+i stawiać przed nimi wyzwania.
+Należy pamiętać, że celem bitwy nie jest zabicie Bohaterów. Powinni otrzymać
+okazję do wykazania się, a przy okazji odnieść rany. Są wystarczająco potężni,
+by utrzymać się przy życiu, ale MG nie może zapomnieć, że czeka ich jeszcze
+ostateczne starcie z głównym przeciwnikiem.
+Prowadzący nie powinien natomiast w ogóle się wahać, gdy może zniszczyć
+jakiś oddział obrońców. Gracze powinni poczuć, że ludzie, którymi dowodzą,
+nie są nieśmiertelni.
+Pierwsza fala: Demoniczna horda
+Muzyka: Two Steps From Hell: REIGN OF HELL
+Na początku bitwy Bohaterowie widzą awangardę armii Chaosu. Na polu
+walki pojawiają się też niedobitki kawalerii Siegmunda. Muszą stawić czoła
+trzem rodzajom przeciwników.
+• Nurglingi
+Nurglingi pełzną przez pole bitwy ku głównej bramie. Gdy pod nią podejdą,
+wspinają się na mury. Należy wówczas pamiętać, że MG otrzymuje kostkę
+ataku za co drugiego z nich. Jeżeli jednak wcześniej w zasięgu ruchu pojawi
+się jakiś wrogi oddział, część z nich może skierować się w jego stronę.
+• Furie
+Gracze prawdopodobnie ustawią strzelców na murach. Aby nie
+poczuli się za pewnie, na samym początku bitwy z czarnego nieba
+spadną na nich dwie jednostki furii. Dla równowagi bitwy byłoby
+dobrze, gdyby demony zdołały zniszczyć przynajmniej jedną jed-
+nostkę strzelców.
+44
+• Ogary
+Ogary Chaosu należy traktować jako kawalerię. Dzielą się na trzy jednostki,
+z których jedna rzuci się na niedobitki kawalerii Siegfrieda. Pozostałe ruszą się
+w stronę dowolnej jednostki obrońców, która znajdzie się poza murami.
+• Cios w plecy
+Jeżeli Bohaterowie nie uśmiercili spaczonej załogi, MG może w dowolnym mo-
+mencie bitwy wprowadzić do walki oddział Wojowników Khorna z 1 punk-
+tem żywotności. Jednostka pojawia się na dziedzińcu przy wejściu do lochów.
+Druga fala: Krew dla Boga Krwi
+Muzyka: Two Steps From Hell: BLOODLUST
+Gdy gracze wysieką już część oddziałów przeciwnika, MG może zacząć stop-
+niowo wprowadzać do bitwy kolejne oddziały. Do dyspozycji ma 5 jednostek
+– 2 maruderów i 3 wojowników Chaosu.
+Użycie tych sił jest ściśle uzależnione od sytuacji na polu bitwy. Nowe oddzia-
+ły najlepiej wprowadzać stopniowo, np. 2 w jednej turze, a 3 w kolejnej. MG
+może też zrezygnować z wykorzystania wszystkich jednostek, jeśli uzna, że
+bitwa nadmiernie się przeciąga.
+Trzecia fala: Żelazny Wilk
+Moloch (ang. Juggernaught) poprzedza pojawienie się na placu boju samego
+Nazgara. Tę wielką, opancerzoną, na poły magiczną, na poły mechaniczną be-
+stię warto rzucić do walki przeciwko komuś z Bohaterów, najlepiej Siegrid.
+Scena, w której Moloch szarżuje przez pole bitwy na samotnego Bohatera, po-
+winna podkreślić epicki charakter całego starcia. Do momentu, gdy Moloch
+wpadnie na Bohatera, może zostać zniszczony przy użyciu normal-
+nych zasad bitwy (np. zastrzelony przez jeden z oddziałów). Gdy
+zetrze się z Bohaterem (lub Bohaterami), MG powinien przejść na
+normalne zasady pojedynku (zadając Molochowi wcześniej 3 rany za
+każdy punkt żywotności utracony w trakcie bitwy).
+Kulminacja: Powrót Rycerza Chaosu
+Starcie z rycerzem Chaosu, Nazgarem, stanowi finałowy punkt przygody.
+Jego pojawienie powinno nastąpić w momencie, gdy nadarzy się okazja do
+przeprowadzenia pojedynku Bohaterów z championem Khorna.
+scena XXii: POjedynek Z naZgarem
+Muzyka: Two Steps From Hell: LORD OF CHAOS
+Gdzie i kiedy: Koniec bitwy, pod murami zamku
+Postaci: Siegrid, Mortimus, Ordo, Nazgar
+Prowadząc tę sekwencję, powinieneś zasugerować, że Nazgar przybył tutaj w tyl-
+ko jednym celu: stawić czoła nowym władcom Helmburga. Wynik samej bitwy na
+dobrą sprawę go nie interesuje. Bardziej zależy mu na złamaniu ducha obrońców
+i ponownym odebraniu nadziei. Krew cieszy bogów Chaosu, ale jeszcze większą przy-
+jemność sprawia im dręczenie śmiertelnych.
+Jeżeli gracze dobrze wyczują konwencję tej chwili, zmierzą się z przeciwni-
+kiem w otwartym starciu – historia rozpoczęta 60 lat temu ma szansę się za-
+kończyć. Dla samej decyzji nie powinno mieć znaczenia, czy szala zwycięstwa
+przechylała się na ich stronę czy też znajdowali się w opałach. W tym pierw-
+szym przypadku wiele zależy od wyczucia konwencji u graczy. W drugim –
+Nazgar może zaoferować Bohaterom szansę na zwycięstwo, jeśli pokonają go
+w pojedynku.
+Zmieniają się zatem okoliczności i wydźwięk finałowej walki. Mamy do czy-
+nienia albo z wymierzeniem sprawiedliwości, albo z pojedynkiem stanowią-
+cym ostatnią deskę ratunku dla przypartych do murów Bohaterów.
+Przebieg starcia z Nazgarem
+Gdy rycerz wkracza na pole bitwy, walka niemalże zamiera (wartości
+inicjatywy dla oddziałów nie mają już znaczenia, liczy się tylko inicja-
+tywa BG i Nazgara). Obrońcy Helmburga patrzą z grozą na jeźdźca,
+a jego poplecznicy wznoszą triumfalne okrzyki. Z gardeł demonów
+dobywa się skowyt. Nazgar kieruje się wprost na Bohaterów.
+45
+Nazgar posiada kilka kart akcji, które mogą stanowić dobre wprowadzenie
+do starcia. Warto na początku opisać, jak Rycerz podnosi z ziemi jedną z głów
+poległych wojowników i zagrać kartę Skulltaker. Kolejnym ruchem może być
+rytualny okrzyk „Krew dla Boga Krwi” i skorzystanie z karty Blood for the Blo-
+od God.
+Gdy Nazgar zbliży się do przeciwników koniecznie pozwól na wymianę zdań. Cham-
+pion Chaosu szydzi z przeciwników i pyta się, jak poszło im odkrywanie legendy niepo-
+konanej twierdzy. Powinieneś poprowadzić ten dialog szybko, opierając się na tym, co
+gracze robili podczas sesji. Miłą pogawędkę można zakończyć zagraniem karty Bellow
+of Rage.
+W trakcie walki do zadawania morderczych ciosów należy używać Axe of
+Khorne Strike i Wounded Frenzy. Melee Strike można zostawić na tury, w
+których Rycerz nie będzie miał innych opcji lub nie będziesz chciał za
+szybko zakończyć starcia.
+Inne proponowane akcje Nazgara
+W trakcie starcia Nazgar powinien poświęcić przynajmniej jedną turę walki
+każdemu z przeciwników.
+Siegrid
+Córka cesarza może być pierwszym celem ataku, najlepiej przy wykorzysta-
+niu akcji Scourging Lash. Jeśli Nazgarowi uda się ją oślepić, zadrwi, że „oszczę-
+dza jej widoku klęski”. Rycerz Chaosu najchętniej zostawiłby ją przy życiu
+– złamaną i upokorzoną.
+Siegrid ma najmniejsze szanse zadać krytyczny cios Nazgarowi, ale
+posiada akcje, które są w stanie znacznie pomóc jej towarzyszom.
+Rycerz Chaosu jak z obrazka
+Myśląc o tym, jak wygląda Nazgar, spójrz na okładkę Tredycji lub dodatku He-
+ro’s Call albo na trzecioedycyjny ekran Mistrza Gry. Weź do ręki kartę Chaos
+Knight. To właśnie on. Wielki wojownik w potężnej czarnej zbroi i rogatym
+hełmie, jadący na demonicznym rumaku. Uosobienie zagrożenia, z jakim mie-
+rzy się Stary Świat.
+W walce posługuje się biczem i wielkim jednoręcznym toporem. Od ciosów
+osłania się tarczą, ale nie należy do przeciwników, którzy liczą się z otrzyma-
+nymi obrażeniami. Jeśli zwycięży, Khorne i tak uleczy jego rany oraz nagrodzi
+nowymi mocami.
+W tym pojedynku nie musisz się hamować. Możesz śmiało zabijać Bohate-
+rów Graczy. Im bardziej zaciekłe, krwawe i epickie będzie to starcie, tym le-
+piej. Aby walka przebiegała sprawnie, zapoznaj się wcześniej z umiejętnościa-
+mi i kartami, którymi dysponuje ten przeciwnik. Możesz również skorzystać
+z kilku zaproponowanych akcji.
+Ta scena będzie składać się z wymiany ciosów, ale powinno się w niej znaleźć
+także miejsce na ostateczne decyzje. Zarówno Ordo jak i Mortimus mogą mieć
+tutaj swoją chwilę chwały.
+Nazgar, Rycerz Chaosu
+Champion Khorna
+Nazgar korzysta z karty Rycerza Cha-
+osu, do której należy dołączyć tem-
+plate Lorda (jest to uwzględnione
+w charakterystykach).
+Atrybuty
+St 8 +4 Fortune
+To 8 +2 Fortune
+Ag 5 +1 Fortune
+Int 5 +1 Fortune
+WP 7 +1 Fortune
+Fel 5 +1 Fortune
+Reckless stance: 5
+Wounds: 30
+Damage: 8
+Soak: 6
+Defence: 4
+Aggression: 10
+Cunning: 6
+Expertise: 4
+W pierwszej rundzie walki z Nazga-
+rem należy wykonać test Strachu 3.
+Poziom testu spada do 1, jeśli zbroja
+rodu von Turm odzyskała swoją moc.
+Zdolności: Swift, Mounted, Epic, Mark
+of Khorne
+Master of Warfare: 1 poziom wytre-
+nowania w Weapon Skill i Resilience
+Akcje: Melee Strike, Bellow of Rage, Wo-
+unded Frenzy, Blood for the Blood God,
+Skulltaker, Axe of Khorne Strike, Scour-
+ging Lash
+Możliwe efekty akcji: Overwhelmed,
+Blinded, Demoralised, Frenzied, Rattled
+46
+Mortimus
+Nazgar może zwrócić się do kapłana i poddać w wątpliwość jego odwagę.
+Następnie może ostentacyjnie lekceważyć ataki Mortimusa, opędzając się od
+niego tarczą jak od muchy. Jeżeli już zaatakuje, uczyni to bez litości.
+O ile Mortimus jeszcze nie odkupił swojej winy, walka jest dobrą okazją, by
+poświęcić swoje życie lub w inny sposób spłacić dług wobec Helmburga.
+W opisie pojedynku szczególną uwagę powinno się zwrócić na użycie karty
+Soulfire. Jej efekt powinien być maksymalnie efektowny.
+Ordo
+Weteran stanowi prawdopodobnie największe zagrożenie dla Rycerza. Wy-
+miana ciosów pomiędzy nimi powinna być szczególnie bezlitosna i krwawa.
+W chwili, w której Ordo trafi przeciwnika, krew Rycerza chluśnie mu na twarz
+i wleje się do ust. Ordo usłyszy szept w swojej głowie, składający mu propo-
+zycję dołączenia do armii prawdziwych, nieśmiertelnych wojowników. Ordo
+będzie go słyszał również po śmierci. Od gracza zależy, czy podąży za tym
+podszeptem.
+MG, jeśli zależy mu na sprawieniu przyjemności graczowi, powinien dążyć
+do… zabicia postaci Ordo. Dzięki temu da graczowi możliwość skorzystania
+z epickiej karty Not Done Yet!
+Śmierć Nazgara
+Kolejne ciosy zadawane Rycerzowi odłupują fragmenty jego czarnego pance-
+rza i odsłaniają skrywające się pod zbroją przegniłe ciało. Pod hełmem znajdu-
+je się odarta ze skóry czaszka, a w oczodołach płonie krwawy ogień.
+Swoją śmierć Nazgar przyjmuje z szyderczym śmiechem, w którym pobrzmie-
+wa echo głosu jego pana. Od graczy zależy, czy ten śmiech uwięźnie
+mu w gardle.
+Rycerz nie pozostawia im jednak złudzeń: to tylko początek. Praw-
+dziwa wojna dopiero zbliża się do Imperium.
+Zwycięstwo…
+Muzyka: Two Steps From Hell: HORRORS AND ENCHANTMENTS
+Jeżeli Nazgar zginie, bitwa kończy się zwycięstwem. Jego armia wycofuje się,
+a nad polem bitwy powoli rozwiewają się mroczne chmury. Na gładkim, noc-
+nym niebie widać gwiazdy. A wśród nich błyszczącą kometę o dwóch ogo-
+nach, której światło odbija się w oczach Bohaterów.
+…czy porażka?
+Jeżeli wszyscy Bohaterowie zginęli, starcie kończy się porażką. Tyl-
+ko od inwencji i wyobraźni graczy zależy, czy ich śmierć da się przekuć
+w triumf. Jeżeli gracze mają ochotę podjąć narrację i – na przykład – opisać, że
+zainspirowana bohaterską śmiercią załoga zamku rzuca się do szalonej szarży
+i rozbija wroga, pozwól na to.
+Zwycięstwem może być też sam fakt, że stanęli do walki, by podtrzymać le-
+gendę Helmburga.
+Nic na siłę. Ostateczny wydźwięk zależy od graczy i tego, jak toczyła się sesja.
+Czas na puentę przyjdzie w ostatniej scenie.
+scena XXii: ePilOg
+Muzyka: Two Steps From Hell: BORN OF ASH
+Gdzie i kiedy: Helmburg, pół roku później
+Postaci: Siegrid, Mortimus, Ordo
+Zacznij od słów: Helmburg, pół roku później.
+Zgodnie z obietnicą Nazgara, pod murami Helmburga stoi ogromna armia,
+wielokrotnie przewyższająca tą, z którą mierzyli się Bohaterowie Graczy. Bo-
+gowie Chaosu, idąc na Imperium, postanowili ostatecznie wymazać z
+pamięci legendę niezdobytej twierdzy.
+47
+A co się dzieje z Bohaterami?
+Zapytaj się każdego z graczy, co dzieje się z każdym z ich Bohaterów. Gracz ma tutaj
+całkowitą dowolność w opisaniu tego, jak kończy się historia jego postaci. Dotyczy to
+również tych graczy, których postaci zginęły w bitwie.
+Możesz
+też
+zrezygnować
+z
+motywu
+powracającej
+armii
+Chaosu,
+a
+jedynie
+skupić
+się
+na
+tym,
+co
+robią
+Bohaterowie
+w
+przyszłości
+i jaką drogą poszli. Być może sami uznają, że armia Chaosu – zgodnie z obietnicą
+i prawami Warhammerowej konwencji – powróci.
+Również sam, jeśli chcesz, możesz dodać krótką puentę od siebie.
+Możliwości jest tyle, ilu jest graczy i sesji. Epilogi pokazują to, co dla gracza
+było ważne w opowieści i co chciałby zaakcentować na koniec. Poniżej opisano
+tylko i wyłącznie propozycje, które mają pokazać, jakie pomysły – oczywiście
+rozwinięte przez graczy – mogą znaleźć się w scenie epilogu.
+Ważne, by te epilogi nie były za długie, lecz złożyły się w spójne zamknięcie
+wspólnej opowieści.
+Einar stoi przed zbroją rodu von Turm i przesuwa po niej dłonią. Siegrid
+ujmuje jego dłoń i kładzie na swoim wyraźnie już zaokrąglonym brzuchu.
+Za chwilę rozpocznie się bitwa. Mały Helmburg wydaje się bez szans
+w starciu z ogromną armią. Nagle słychać huk dział i moździerzy. Ze sto-
+licy przybyła odsiecz. Na czele imperialnych oddziałów jedzie Siegfried.
+Pałac cesarski w Altdorfie. Na tronie siedzi mężczyzna o surowym, lecz
+szlachetnym obliczu, idealnym do kucia na monetach. Wstaje, gdy sługa
+podaje mu wielki dwuręczny miecz, zwany Ordnung. Cesarz uśmiecha się do
+wspomnienia o swoim przyjacielu.
+Pole pod Helmburgiem, ostatnią przyjazną twierdzą Imperium. Grupa
+poszukiwaczy przygód, wyruszających na północ, by szukać wyzwań
+w walce w siłami Chaosu, zatrzymuje się przed samotnym kurhanem. Wszy-
+scy składają pokłon poległemu bohaterowi i wbitemu w kamień wielkiemu,
+dwuręcznemu mieczowi.
+Imperialny kawalerzysta szarżuje na wojownika Chaosu i obala go na zie-
+mię. Figurka strąca figurę. Mortimus usuwa ją z planszy i uśmiecha się do
+swojego przyjaciela. Gardius odwzajemnia uśmiech i wykonuje swój ruch.
+Wielka Biblioteka w Altdorfie. Nad ogromną kroniką dziejów Imperium
+ślęczy stary kapłan Sigmara. Gdyby spojrzeć mu przez ramię, można by
+przeczytać te słowa: „Co zaś się tyczy legendy Helmburga, to naprawdę było
+to tak…”
+Gospoda, jakich wiele w Imperium. Przy stole siedzi zakapturzony męż-
+czyzna, przed nim kilka opróżnionych kufli piwa. Odrzuca kaptur z gło-
+wy, ukazując łysa czaszkę i brodatą szczękę.
+- Może i tak właśnie było, ale jeśli o mnie chodzi, to wolę polegać na swoim
+szczęściu…
+Gdy ostatni z uczestników sesji opowie swój epilog, legenda zostaje opowie-
+dziana i sesja się kończy.
+wtedy dO śrOdka wPada różOwy POmiOt slaanesha Z rOgiem
+ZakOńcZOnym świecącą gwiaZdką i macha kOPytkami w POwie-
+trZu krZesZąc świetliste mOtylki. „ha ha i ha” – Zarżał POmiO-
+cik, a gracZe POkłócili się, ktO gO ZatrZyma i będZie głaskał.
+48
+POmOce
+charakterystyki bOhaterów gracZy
+Siegrid/Siegmund
+Aktualna profesja: Noble Lord
+Poprzednie profesje: Courtier,
+Ambassador
+Atrybuty
+• St 3
+• To 3
+• Ag 3
+• Int 3 +2 Fortune
+• WP 3 +1 Fortune
+• Fel 4 +3 Fortune
+Umiejętności (Wytrenowanie)
+• Intimidate 1
+• Charm 1
+• Discipline 2
+• Guile 2
+• Intuition 1 (Specjalizacja: Emocje +
+1 Fortune)
+• Leadership 1
+• Observation 1
+Wounds 13
+Stance: Reckless 5, Conservative 5
+Wyuczone zdolności profesji:
+Ambassador, Noble Lord
+Talenty: Roll With It, Armoured in
+Speed, Sharp Wits, Strong Willed,
+Charismatic, Connected
+Akcje: Melee Strike, Dodge, Per-
+form a Stunt, Assess the Situation,
+Block, Parry, Guarded Position,
+Riposte, Counterblow, Sword & Bo-
+ard, We Must Work Together!, Do It
+Now!, Lead from the Front, Fluster,
+Exploit Opening, Inspiring Words,
+Reckless Cleave
+Przydatna karta stanu: Inspired
+Początkowe wyposażenie
+• Miecz: Damage 5, Critical 3
+• Zbroja: Defence 1, Soak 2
+Ordo/Arda
+Aktualna profesja: Champion
+Poprzednie profesje: Smuggler,
+Duelist, Judicial Champion
+Atrybuty
+• St 4 +2 Fortune
+• To 4 +1 Fortune
+• Ag 3 +1 Fortune
+• Int 3
+• WP 3
+• Fel 3
+Umiejętności (Wytrenowanie)
+• Coordination 1
+• Intimidate 2
+• Resilience 2
+• Ride 1
+• Skulduggery 1
+• Weapon Skill 3 (Specjalizacja:
+Zweihander +1 Fortune)
+• Discipline 1
+Wounds 21 (+ karta rany Deep Wound
+z Severity 5)
+Stance: Reckless 7, Conservative 4
+Wyuczone zdolności profesji:
+Duelist, Champion
+Talenty: Tireless, Unflinching, Com-
+bat Alertness, Flanking Maneouvre,
+Foresight
+Akcje: Assess the Situation, Perform
+a Stunt, Improved Parry, Improved
+Guarded Position, Combat Focus,
+Mine’s Bigger, Patron’s Champion,
+Duelist’s Strike, Final Strike, De-
+vious Maneouvre, Mighty Swing,
+Who’s Next?
+Początkowe wyposażenie
+• Miecz dwuręczny Ordnung:
+Damage 7, Critical 2
+• Zbroja: Defence 1, Soak 2
+49
+Mortimus/Mortianna
+Aktualna profesja: Warrior Priest
+Poprzednie profesje: Initiate,
+Disciple, Priest
+Atrybuty
+• St 3 +1 Fortune
+• To 3
+• Ag 2
+• Int 3
+• WP 4 +1 Fortune
+• Fel 4 +3 Fortune
+Umiejętności (Wytrenowanie)
+• Weapon Skill 1 (Specjalizacja: Młot
+bojowy +1 Fortune)
+• Discipline 1
+• Intuition 1
+• Leadership 1
+• Medicine 2
+• Education 1
+• Invocation 3 (Specjalizacja: Chaos
++1 Fortune)
+• Piety 3 (Specjalizacja: Reckless +1
+Fortune)
+Wounds: 15 (+ karta insanity Lack of
+Confidence)
+Stance: Reckless 6, Conservative 4
+Wyuczone zdolności profesji:
+Priest, Warrior Priest
+Wiara: karta Sigmar, The Helden-
+hammer
+Talenty: Tough As Nails, Confident,
+I’ve Seen Worse…, Ascetic Upbrin-
+ging, Steadfast
+Akcje: Melee Strike, Assess the
+Situation, Guarded Position, Parry,
+Perform a Stunt, Unbending Ri-
+ghteousness, Hammer of God, Twin
+-Tailed Comet, Curry Favor, Armour
+of Contempt, My Life For Yours,
+Sermon, Healing Hand, Sigmar’s
+Light (opcjonalnie)
+Początkowe wyposażenie
+• Młot bojowy: Damage 5, Critical
+3
+• Zbroja: Defence 1, Soak 2
+PrOPOnOwane figurki: Siegmund/Siegrid, Ordo/Arda,
+Mortimus/Mortianna, Kapitan von Schatten
+50
+armia chaOsu
+W opisie podane są tylko te cechy, które powinny być istotne w trakcie bitwy. W trak-
+cie bitwy nie korzysta się również z puli A/C/E.
+Nurgling
+• St 3
+• To 3 +1 Fortune
+• Ag 3 +1 Fortune
+Reckless stance: 1
+Wounds: 7
+Damage: 3
+Soak: 2
+Defence: 2
+Maruder
+• St 4 +1 Fortune
+• To 4 +1 Fortune
+• Ag 4
+Reckless stance: 1
+Wounds: 10
+Damage: 4
+Soak: 2
+Defence: 1
+Furia
+• St 3 +1 Fortune
+• To 4
+• Ag 4
+Conservative stance: 1
+Wounds: 12
+Damage: 3
+Soak: 1
+Defence: 1
+Wojownik Chaosu Khorna
+• St 6 +1 Fortune
+• To 6 +1 Fortune
+• Ag 3
+Reckless stance: 4
+Wounds: 18
+Damage: 6
+Soak: 5
+Defence: 1
+Strach 2
+Umiejętności (Wytrenowa-
+nie): Weapon Skill 1, Resilience
+Ogar Chaosu
+• St 6
+• To 5
+• Ag 2
+Reckless stance: 2
+Wounds: 16
+Damage: 5
+Soak: 3
+Defence: 1
+Groza 1
+Akcje: Tear Out The Throat
+Mosiężna obroża: Każdy czar
+rzucany na Ogara otrzymuje 3
+Misfortune do puli.
+Moloch (Juggernaught)
+• St 6
+• To 5 +1 Fortune
+• Ag 2
+• Int 1
+• WP 3
+• Fel 1
+Reckless stance: 2
+Wounds: 12
+Damage: 5
+Soak: 5
+Defence: 1
+Groza 1
+Akcje: Tear Out The Throat,
+Unstoppable Rush
+51
+PrOPOnOwane figurki armii chaOsu
+52
+bitwa: skrót najważniejsZych Zasad
+Inicjatywa
+Początek bitwy: test inicjatywy dla każdej jednostki i Bohatera, oznaczenie
+inicjatywy na torze
+Przebieg tury Bitwy:
+1.
+Rzuty Ataku graczy i MG
+2.
+Obliczenie zadanych obrażeń
+3.
+Aktywowanie Bohatera, obrońcy Helmburga lub jednostki Chaosu:
+4.
+Zadanie obrażenia lub wykonanie ruchu przez aktywowanego Boha-
+tera lub jednostkę.
+5.
+Wprowadzenie nowych jednostek na pole bitwy i ustalenie ich inicja-
+tywy
+Pula ataku obrońców Helmburga
+• 1 conservative lub reckless dice za każdą walczącą jednostkę lub mającą cel
+w zasięgu strzału
+• 1 dodatkowa characteristic dice za każdy oddział kawalerii walczący
+z piechotą
+• 1 kostka fortune za 1 punkt z Puli Szczęścia załogi Helmburga
+Obrażenia obrońców Helmburga
+• Boon = 1 obrażenie
+• Sukces (Młot) = 0,5 obrażenia (zaokrąglane w dół, nie przechodzą na kolej-
+ną turę bitwy)
+• Bane = MG może przerzucić 1 kostkę ze swojej puli
+Pula ataku armii Chaosu:
+• za każdego walczącego nurglinga: 1 misfortune dice
+• za każdą walczącą furię i marudera: 1 characteristic dice
+• za każdego walczącego wojownika Chaosu, ogara Chaosu i Molocha:
+1 challenge dice
+Obrażenia armii Chaosu
+• Bane = 1 obrażenie
+• Sukces (Młot) lub Porażka (Miecze) = 0,5 obrażenia (zaokrąglane w dół, nie
+przechodzą na kolejną turę bitwy)
+• Gwiazda Chaosu = 1 obrażenie i dodatkowy rzut tą samą kostką
+• Boon = gracze mogą przerzucić jedną kostkę ze swojej puli
+Atak Bohatera na jednostkę Chaosu
+• Kometa Sigmara: 1 obrażenie za każdą Kometę Sigmara uzyskaną w tym
+teście
+• Gwiazda Chaosu: MG może przywrócić 1 punkt żywotności dowolnej jed-
+nostce Chaosu na polu bitwy
+Kolejność aktywowania przy tej samej inicjatywie
+• Bohaterowie
+• Jednostki obrońców Helmburga
+• Jednostki Chaosu
+Zniszczenie jednostki
+• Jednostka zostaje zniszczona, gdy straci ostatni punkt żywotności
+• Gracze lub MG usuwają z toru inicjatywy żeton o najniższej wartości
+Zasięg strzału
+• Pistolet: 1 długość dużej figurki
+• Kusza: 2 długości dużej figurki
+• Łuk: 3 długości dużej figurki
+Zasięg ruchu
+• Jednostka w zwarciu nie może się ruszyć
+• Jednostka musi się zatrzymać, gdy zetknie się z wrogą figurką
+• Piechota: 1 długość dużej figurki
+• Kawaleria (konnica, ogary, Moloch): 2 długości dużej figurki
+• Furie (latające): 2 długości dużej figurki
+53
+PrOPOnOwane
+figurki ObrOńców helmburga
+PrZykładOwy tOr inicjatywy
+3 bOhaterów, 5 jednOstek ObrOńców, 11 jednOstek chaOsu
+54
+PrZykładOwe figurki ObrOńców helmburga
+OPisy bOhaterów gracZy
+tłO bOhaterów gracZy
+tłO bOhaterów gracZy
+list cesarski
+listy Z rOZkaZami cesarskimi - kOPerta
+listy Z rOZkaZami cesarskimi - treść
+ZbrOja rOdu VOn turm
+walka Z naZgarem

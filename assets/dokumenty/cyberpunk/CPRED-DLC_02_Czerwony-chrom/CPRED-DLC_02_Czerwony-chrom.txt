@@ -1,0 +1,222 @@
+﻿ILUSTRACJA: SANTIAGO BETANCUR
+1
+EDYCJA ANGIELSKA
+EDYCJA POLSKA
+Projekt i autorzy: Cody Pondsmith
+Kierownictwo artystyczne: Jaye Kovach
+Zarządzanie przedsiębiorstwem: Lisa Pondsmith • Skład: J Gray
+Redaktor naczelny: Andrzej Ross
+Redakcja: Andrzej Ross, Lidka Migalska
+Koordynatorka projektu: Daria Pilarczyk
+Wydawca: Michał Lisowski
+Tłumacz: Janek Sielicki
+Skład: Marcin Bieliński
+Korekta: Małgorzata Góraj-Ptak
+Copyright © 2020 by R. Talsorian Games, Inc., Cyberpunk is a registered trademark of CD Projekt Red S.A. All rights reserved under the Universal Copyrights Convention.
+Wszystkie opisane sytuacje, rządy i ludzie są fikcyjni. Wszelkie podobieństwa są przypadkowe i nie mają na celu satyry.
+Pociąg
+Czerwonego Chromu
+KANAŁ AKTUALNOŚCI DO CYBERPUNKA RED
+9:37
+Plotki
+OPINIE
+Pogoda
+TECHNOLOGIE
+STYL ŻYCIA
+wiadomości
+lokalne
+BIZNES
+Świat
+Wybuch wojny gangów
+w Strefie walki
+Jericho Hunt
+Chaos ogarnął dziś północną część Strefy walki, gdy
+narastający od jakiegoś czasu konflikt między Iron
+Sights i Red Chrome Legion przeobraził się w regularną
+wojnę. Świst kul i rozpruwaczy wypełnił powietrze, gdy
+dwa lubujące się w przemocy gangi wyzwalały tłu-
+mioną od miesięcy wrogość na sobie oraz pechowych
+mieszkańcach Night City, którzy przypadkiem znaleźli
+się na obszarze krwawych walk.
+Funkcjonariusze NCPD są już na miejscu, próbując
+stłumić bezsensowną przemoc, ale w obliczu licz-
+nych cyborgizacji zdecydowali się wezwać oddziały
+C-SWAT. Nie ma wątpliwości, że obszar wojny
+gangów z czasem rozszerzy się o tereny poza grani-
+cami Strefy walki.
+Co doprowadziło do tej krwawej łaźni? Czy za
+konfliktem stoi coś więcej niż płynne granice stref
+wpływów i wzajemne podżeganie się do walki?
+Może w cieniu działa trzeci gracz? Night City Today
+szczegółowo odpowiada na te pytania, z wszystkimi
+szokującymi szczegółami.
+Można z łatwością założyć, że u podstaw obecnego
+konfliktu leżą drobne utarczki graniczne pomiędzy Red
+Chrome Legion i Iron Sights, do których dochodziło
+regularnie od kilku lat. Powodem był fakt, że człon-
+kowie Red Chrome Legion zaczęli rekrutować ludzi
+na terytorium należącym do Iron Sights. Po upadku
+Arasaki w Czwartej Wojnie Korporacji, wspierany
+przez japońską Korporację Iron Sights stracił dużo
+wpływów i dlatego Red Chrome Legion oraz inne gangi
+wzięły go na celownik. Red Chrome Legion znany jest
+z tego, że miażdży rywali, przejmuje ich terytorium,
+a młodszych członków wrogiego gangu wciela w swe
+neofaszystowskie szeregi. Jednak ostatnie walki poka-
+zują, że Iron Sights nie tyle bronią swego terytorium, ale
+są głównymi agresorami w tej wojnie. Reporterzy Night
+City Today odkryli informacje, ujawniające niepokojący
+powód tej zmiany taktyki działania gangu.
+Jak wiedzą wszyscy mieszkańcy północnego Night
+City, niegdyś potężny Iron Sights w ostatnich latach
+wrócił do gry. Prawie każdy członek gangu jest
+w pełni zcyborgizowany i zadrutowany, jednocześnie
+będąc na skraju lub w objęciach cyberpsychozy.
+Z tego powodu w Czasie Czerwieni, bez funduszy
+Arasaki, gang stracił dużo wpływów i terytorium.
+Dopiero niedawno Iron Sights zaczął zdobywać
+nowych członków. Z początku myślano, że do gangu
+zaczęły dołączać osoby cierpiące na cyberpsychozę,
+którym nie udało się powrócić do życia w społe-
+czeństwie. Jednak niedawno nieustraszony reporter
+Jericho Hunt dokonał odkrycia, które wstrząśnie
+miastem i rzuci zupełnie inne światło na obecną
+wojnę gangów. Działający pod przykrywką Hunt był
+świadkiem wymiany, do której doszło na stacji kole-
+jowej Nomadów, pomiędzy znanymi przywódcami
+Iron Sights oraz tajemniczą grupą ludzi w czarnych
+garniturach. W wyniku transakcji gang otrzymał kilka
+skrzyń wyposażenia wojskowego, które według
+dziennikarza bez wątpienia zdobyto na Nocnym
+Północnym. Wygląda na to, że Iron Sights rzeczywi-
+ście otrzymują wsparcie nowego patrona.
+Kilka dni po wymianie NCPD doniosło o ataku Red
+Chrome Legion na nieoznakowaną ciężarówkę wjeż-
+dżającą do miasta. Pojazd niewątpliwie przewoził
+kolejną dostawę sprzętu od tajemniczej organizacji.
+Hunt twierdzi, że obecna eskalacja wojny między
+gangami to zemsta Iron Sights, który pragnie zniszczyć
+Red Chrome Legion i odebrać skradziony ładunek.
+Link: Iron Sights otrzymuje nowe spluwy
+Link: Gangi Night City — kto jest kim
+Link: Trzecie porwanie ciężarówki w tym tygodniu
+2
+POCIĄG CZERWONEGO CHROMU
+3
+▶ Informacje dla graczy ◀
+Znany Fixer Hornet (CPRED STR. 305) zwraca się do
+ekipy poprzez miejscowego Fixera z ofertą lukratywnej,
+ale i niebezpiecznej roboty. Hornet oferuje każdemu
+członkowi ekipy 2000 ed za odzyskanie ładunku
+skradzionego przez Red Chrome Legion (CPRED STR.
+309).
+Ładunek to cztery duże skrzynie zabezpieczone
+zamkami kodowanymi DNA. Hornet nie wyjaśnia, co
+zawierają skrzynie, wspomina jedynie, że przenosząc
+je należy zachować szczególną ostrożność.
+Ładunek ma zostać przewieziony do podmiejskiej bazy
+Red Chrome Legion za pomocą Hammerheada, czyli
+pancernego pociągu Militechu, który gang ostatnio
+sobie przywłaszczył. Nie wiadomo, co czeka ekipę
+wewnątrz pociągu, ale 2000 ed na głowę to konkretne
+wynagrodzenie. Na pewno nie będzie bardzo trudno…
+▶ Informacje dla Mistrza Gry ◀
+Trzy skrzynie, które trzeba odzyskać, zawierają
+wojskowe materiały wybuchowe oraz cyborgiza-
+cje, które pierwotnie miały trafić w ręce Iron Sights
+(CPRED STR. 308). W czwartej skrzyni znajduje
+się kilka pojemników zabójczej neurotoksyny, którą
+osobiście zaprojektował Hornet.
+Neurotoksynę kupiono okazyjnie i miała być asem
+w rękawie Iron Sights, jeśli Red Chrome Legion lub
+inny wrogi gang sprawiałby za dużo problemów.
+Red Chrome Legion ukradł skrzynie, ale zamki
+kodowe oraz solidna budowa pojemników okazały
+się zbyt dużą przeszkodą dla gangerów, którzy nie
+potrafili zdobyć łupu bez niszczenia skrzyń.
+Obecnie ładunek zmierza do opuszczonego mia-
+steczka na północnym obrzeżu Night City, gdzie
+Technik Red Chrome Legion otworzy skrzynie.
+Hornet załatwia dla Ekipy przejazd innym pocią-
+giem, który przez pewien czas będzie jechać po
+sąsiednim torze. Gdy zbliży się do Hammerheada,
+BG muszą przeskoczyć na pociąg Red Chrome
+Legion, co wymaga udanego rzutu na Atletykę
+o PT 13. Porażka oznacza, że skaczący źle wymie-
+rza skok i uderza o bok tylnego wagonu. Udaje
+mu się czegoś chwycić i nie spaść, ale uderzenie
+ostrzega znajdujących się w środku strażników.
+Gdy Ekipa znajdzie się już na Hammerheadzie,
+musi otworzyć umiejscowiony na dachu tylnego
+wagonu właz awaryjny, co wymaga udanego rzutu
+na Podstawowe naprawy o PT 13. W ten sposób
+można się dostać do wnętrza pociągu. W tylnym
+wagonie znajduje się dwóch strażników Red Chrome
+Legion (użyj cybergangera: CPRED STR. 412; dodaj
+strzelbę; zwiększ liczbę strażników o 1 jeśli Ekipa
+liczy 5 lub więcej postaci).
+Skrzynie w wagonie są na tyle wysokie, że zasła-
+niają właz awaryjny i BG mogą spróbować wkraść
+się do środka i zaskoczyć strażników.
+Środkowy wagon jest pusty. Znajduje się tu kilka
+skrzyń oraz port dostępu do Architektury Sieciowej,
+do którego może się podpiąć Netrunner (patrz Tabela
+Architektury Sieciowej Hammerheada). Plik z listą
+załadunkową zawiera informacje o wszystkim, co
+wiózł pociąg, gdy został porwany przez Red Chrome
+Legion. Sprytny MG może wykorzystać tę okazję, by
+dać BG nowy ekwipunek lub punkty zaczepienia do
+kolejnych przygód. Jeśli Netrunner przejmie kontrolę
+nad węzłem kontrolnym wieżyczki, nie tylko dowie
+się o jej istnieniu w kolejnym wagonie, ale także może
+przejąć kontrolę nad samą wieżyczką.
+W przednim wagonie znajduje się tylu członków
+Red Chrome Legion, ilu jest BG minus 1 (użyj cyber-
+gangerów: CPRED STR. 412; dodaj strzelbę) oraz
+jeden Oficer Red Chrome Legion (użyj korpogli-
+niarza: CPRED STR. 413). Jeśli strażnicy wiedzą
+o intruzach w pociągu, to umieszczona na środku
+pokoju automatyczna wieżyczka jest uruchomiona
+(użyj automatycznej wieżyczki: CPRED STR. 214).
+Jeśli wieżyczki jeszcze nie uruchomiono, jeden ze
+strażników w swojej pierwszej turze pobiegnie do
+panelu kontrolnego i ją aktywuje.
+Poszukiwane przez BG skrzynie znajdują się
+w pierwszym wagonie. Pojedyncza osoba może
+unieść skrzynię, ale potrzebuje do tego obu rąk.
+Hammerhead to pojazd automatyczny, ale BG
+mogą go zatrzymać za pomocą panelu kontrol-
+nego w kabinie maszynisty, co wymaga udanego
+rzutu na Prowadzenie pojazdów o PT 9. Można też
+wyjść przez właz awaryjny i przeskoczyć na pociąg
+Horneta, co wymaga rzutu na Atletykę o PT 15, jeśli
+skaczący niesie skrzynię. Przerzucenie skrzyni na
+drugi pociąg wymaga rzutu na Atletykę o PT 13.
+Gdy skrzynie znajdą się w pociągu Horneta, BG
+mogą przekazać je Fixerowi i otrzymać zapłatę. Pod
+koniec tygodnia wojna gangów na północy Strefy
+walki dobiega końca, bo Iron Sights wykorzystują
+materiały wybuchowe i truciznę do zmiażdżenia Red
+Chrome Legion.
+▶ ArchitekturA SieciowA hAmmerheAdA
+Piętro
+Po drugiej stronie „drzwi”
+PT
+1
+Hasło
+6
+2
+Plik z listą załadunkową Hammerheada
+8
+3
+Hasło
+8
+4
+Piekielny ogar
+Nd.
+5
+Węzeł kontrolny (automatyczna wieżyczka)
+8
+POCIĄG TOWAROWY HAMMERHEAD
+POCIĄG CZERWONEGO CHROMU
+4

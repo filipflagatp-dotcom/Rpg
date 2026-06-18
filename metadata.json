@@ -1,6 +1,8 @@
 {
-  "name": "RPG Role-Play Hub",
-  "description": "An RPG character and scenario management app with AI-powered role-playing chat.",
+  "name": "Nowa Warszawa 2031",
+  "description": "Flager's RPG Engine powered by Gemini",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
