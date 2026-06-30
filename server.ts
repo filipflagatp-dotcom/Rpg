@@ -29,25 +29,25 @@ async function startServer() {
   // API Route for chat
   app.post("/api/chat", async (req, res) => {
     try {
-      const { 
-        messages, 
-        character, 
-        scenario, 
-        diceRoll, 
-        gmSettings, 
-        campaignId, 
-        campaignTitle, 
+      const {
+        messages,
+        character,
+        scenario,
+        diceRoll,
+        gmSettings,
+        campaignId,
+        campaignTitle,
         campaignDescription,
         systemInstruction: campaignSystemInstruction,
         rpgSystem,
-        apiKey 
+        apiKey
       } = req.body;
-      
+
       const activeKey = apiKey || process.env.GEMINI_API_KEY || process.env.GEMINI_API_KEY1;
       if (!activeKey) {
         throw new Error("Brak klucza API Gemini. Wklej go w zakładce Ustawienia na stronie głównej!");
       }
-      
+
       const genAi = new GoogleGenAI({ apiKey: activeKey });
       const model = "gemini-2.5-flash";
 
@@ -65,8 +65,8 @@ async function startServer() {
       const defaultTone = campaignId === "warszawa"
         ? "Atmospheric, dark cyberpunk, futuristic Warsaw high-tech low-life, neon, rain, corporations."
         : campaignId === "dungeon"
-        ? "Classic old-school dungeon crawl, dark corridors, damp cellars, torchlight shadows, monsters, traps."
-        : "Epic classic high-fantasy, magic, medieval atmosphere, sword and sorcery, legends.";
+          ? "Classic old-school dungeon crawl, dark corridors, damp cellars, torchlight shadows, monsters, traps."
+          : "Epic classic high-fantasy, magic, medieval atmosphere, sword and sorcery, legends.";
 
       const toneMap = {
         cyberpunk: defaultTone,
@@ -102,7 +102,7 @@ Weź pod uwagę ten wynik, określając stopień sukcesu lub porażki obecnej ak
       const statsString = Object.entries(character.stats || {})
         .map(([k, v]) => {
           const val = v as number;
-          if (rpgSystem === 'dd35') {
+          if (rpgSystem === 'dd35' || rpgSystem === 'dd5' || rpgSystem === 'dnd5e' || rpgSystem === 'dnd5') {
             const mod = Math.floor((val - 10) / 2);
             return `${k.toUpperCase()}: ${val} (${mod >= 0 ? '+' : ''}${mod})`;
           }
@@ -120,6 +120,15 @@ Weź pod uwagę ten wynik, określając stopień sukcesu lub porażki obecnej ak
           }
         } catch (e) {
           console.error("Error loading D&D 3.5 rules:", e);
+        }
+      } else if (rpgSystem === "dd5" || rpgSystem === "dnd5e" || rpgSystem === "dnd5") {
+        try {
+          const filePath = path.join(process.cwd(), "assets", "dokumenty", "DD", "zasady", "5e-SRD_v1.0.txt");
+          if (fs.existsSync(filePath)) {
+            systemRulesBlock = `\n\n--- BEZWZGLĘDNE ZASADY I MECHANIKI SYSTEMU (D&D 5e) ---\n${fs.readFileSync(filePath, "utf-8")}\n---------------------------------------------------------`;
+          }
+        } catch (e) {
+          console.error("Error loading D&D 5e rules:", e);
         }
       } else if (rpgSystem === "cyberpunk") {
         try {
@@ -175,6 +184,10 @@ Background: ${character.bio}`;
         systemInstruction += systemRulesBlock;
       }
 
+      systemInstruction += `\n\n--- ZACHOWANIE MISTRZA GRY (EKWIPUNEK I KLASA) ---
+Pamiętaj, że masz pełny wgląd w ekwipunek postaci (${character.inventory}). 
+Na podstawie klasy/archetypu postaci (${character.class}) oraz posiadanych przez nią przedmiotów, w swoich opisach i odpowiedziach proaktywnie sugeruj graczowi możliwe do wykonania, odpowiednie dla jego postaci zagrania. Jeśli postać gracza natrafi na przeszkodę, podpowiedz (subtelnie lub wprost), jak może wykorzystać swój sprzęt lub atrybuty klasowe.`;
+
       // Convert messages to Gemini format, filtering out system messages to avoid model contamination
       const formattedMessages = messages
         .filter((msg: any) => msg.role !== "system")
@@ -182,7 +195,7 @@ Background: ${character.bio}`;
           role: msg.role === "user" ? "user" : "model",
           parts: [{ text: msg.content }]
         }));
-      
+
       const response = await genAi.models.generateContent({
         model,
         contents: formattedMessages,

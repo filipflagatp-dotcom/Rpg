@@ -78,6 +78,7 @@ export function SidebarLeft({
   const [newDesc, setNewDesc] = useState("");
   const [newSystem, setNewSystem] = useState<'dd35' | 'cyberpunk' | 'custom' | ''>('');
   const [newFiles, setNewFiles] = useState<File[]>([]);
+  const [mapPreview, setMapPreview] = useState<string | null>(null);
 
   if (!isOpen) return null;
 
@@ -674,28 +675,60 @@ export function SidebarLeft({
                       <span>{group.icon}</span> {group.label}
                     </h4>
                     <div className="space-y-2">
-                      {group.list.map(res => (
-                        <a 
-                          key={res.id} 
-                          href={res.url} 
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="block p-3 rounded border border-[#5c4028]/30 bg-[#1e130b]/40 text-[#c5a880] hover:border-[#ffd700]/40 hover:text-[#ffd700] hover:bg-[#5c4028]/10 transition-all duration-200"
-                        >
-                          <div className="font-bold text-xs flex items-center gap-1.5">
-                            <span className="text-sm">{res.icon || group.icon}</span>
-                            <span className="fantasy-title text-xs tracking-wider">{res.title}</span>
-                          </div>
-                          <p className="text-[10px] mt-1 text-[#c5a880]/70 leading-normal font-sans">
-                            {res.description}
-                          </p>
-                        </a>
-                      ))}
+                      {group.list.map(res => {
+                        const isMap = res.type === "map" || res.url.match(/\.(jpeg|jpg|gif|png)$/i);
+                        return (
+                          <a 
+                            key={res.id} 
+                            href={res.url} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            onClick={(e) => {
+                              if (isMap) {
+                                e.preventDefault();
+                                setMapPreview(res.url);
+                              }
+                            }}
+                            className="block p-3 rounded border border-[#5c4028]/30 bg-[#1e130b]/40 text-[#c5a880] hover:border-[#ffd700]/40 hover:text-[#ffd700] hover:bg-[#5c4028]/10 transition-all duration-200"
+                          >
+                            <div className="font-bold text-xs flex items-center gap-1.5">
+                              <span className="text-sm">{res.icon || group.icon}</span>
+                              <span className="fantasy-title text-xs tracking-wider">{res.title}</span>
+                            </div>
+                            <p className="text-[10px] mt-1 text-[#c5a880]/70 leading-normal font-sans">
+                              {res.description}
+                            </p>
+                          </a>
+                        );
+                      })}
                     </div>
                   </div>
                 );
               })
             )}
+          </div>
+        </div>
+      )}
+
+      {/* Map Preview Modal */}
+      {mapPreview && (
+        <div 
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 p-4"
+          onClick={() => setMapPreview(null)}
+        >
+          <div className="relative max-w-[95vw] max-h-[95vh] border-2 border-[#5c4028] rounded shadow-[0_0_50px_rgba(0,0,0,1)] bg-[#0f0a06]">
+            <button 
+              className="absolute -top-10 right-0 text-[#c5a880] hover:text-[#ffd700] bg-black/50 p-2 rounded-full"
+              onClick={() => setMapPreview(null)}
+            >
+              <X className="w-8 h-8" />
+            </button>
+            <img 
+              src={mapPreview} 
+              alt="Map Preview" 
+              className="max-w-full max-h-[90vh] object-contain rounded"
+              onClick={(e) => e.stopPropagation()} 
+            />
           </div>
         </div>
       )}

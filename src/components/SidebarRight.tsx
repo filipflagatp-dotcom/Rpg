@@ -72,7 +72,7 @@ export function SidebarRight({ isOpen, gmSettings, setGmSettings, onRollSelect, 
   };
 
   return (
-    <aside className="absolute md:relative right-0 top-0 w-full md:w-80 h-full flex-shrink-0 border-l-4 border-[#1a0f07] bg-gradient-to-b from-[#2c1e13] to-[#1e130b] flex flex-col transition-all duration-300 ease-in-out z-30 overflow-y-auto shadow-2xl">
+    <aside className="absolute right-4 md:right-8 bottom-32 md:bottom-28 w-11/12 md:w-80 max-h-[60vh] border-2 border-[#5c4028] rounded-xl bg-gradient-to-b from-[#2c1e13]/95 to-[#1e130b]/95 backdrop-blur flex flex-col transition-all duration-300 ease-in-out z-40 overflow-hidden shadow-[0_10px_30px_rgba(0,0,0,0.8)]">
       <div className="grid grid-cols-2 border-b-2 border-[#5c4028]/60 bg-[#140b05]">
         <button 
           onClick={() => setTab("dice")} 
@@ -93,7 +93,7 @@ export function SidebarRight({ isOpen, gmSettings, setGmSettings, onRollSelect, 
       </div>
 
       {tab === "dice" && (
-        <div className="p-4 space-y-4 flex-1 flex flex-col text-left">
+        <div className="p-4 space-y-4 flex-1 flex flex-col text-left overflow-y-auto">
           <div className="space-y-3">
             <h2 className="fantasy-title text-sm font-bold text-[#ffd700] tracking-wider uppercase flex items-center gap-2 border-b border-[#5c4028]/40 pb-2">
               <Dices className="w-4 h-4 text-amber-500" /> Generator Rzutów
@@ -175,7 +175,7 @@ export function SidebarRight({ isOpen, gmSettings, setGmSettings, onRollSelect, 
       )}
 
       {tab === "gm" && (
-        <div className="p-4 space-y-4 flex-1 flex flex-col text-left">
+        <div className="p-4 space-y-4 flex-1 flex flex-col text-left overflow-y-auto">
           <div className="flex items-center justify-between border-b border-[#5c4028]/40 pb-2">
             <span className="text-[10px] text-[#ffd700] uppercase font-bold tracking-wider font-mono">Ustawienia narratora</span>
             <span className="text-[9px] bg-[#5c4028]/40 text-[#c5a880] px-2 py-0.5 rounded border border-[#5c4028]/60 font-mono">Gemini GM</span>
