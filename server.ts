@@ -142,8 +142,28 @@ Weź pod uwagę ten wynik, określając stopień sukcesu lub porażki obecnej ak
       }
 
       // Use campaign-specific systemInstruction if provided, otherwise build generic one
-      let systemInstruction = campaignSystemInstruction
-        ? `${campaignSystemInstruction}
+      let systemInstruction = "";
+
+      if (rpgSystem.startsWith("dd") || rpgSystem.startsWith("dnd")) {
+        systemInstruction = `[Role:DM|System:D&D|Lang:PL]
+Campaign:"${campaignTitle || 'Custom'}"|Scenario:"${scenarioText || 'Sandbox'}"
+User:{Name:"${character.name}"|Class:"${character.class}"|Stats:"${statsString}"|Inv:"${character.inventory}"|Bio:"${character.bio}"}
+
+[SYSTEM_RULES]
+- Logic:D20+Mod vs DC(10/Easy|15/Med|20/Hard)|RAW
+- Combat:TurnBased|Action/Bonus/React|Damage-Mod
+- CombatFlow: ALWAYS strictly track Initiative. Execute and fully narrate the actions of ALL enemies whose initiative is higher than the player's BEFORE stopping and waiting for the player's input.
+- RefLink(Inv/Stats/Class)→ProactivelySuggestActions
+- NO_AutoPilot|No_GodModding|Only_Polish|Markdown_Format
+
+[BEHAVIOR]
+- Tone:${toneStyle}|Length:${lengthStyle}|Diff:${difficulty}/10
+- Format_Out: Narr:[Descriptive]|Act:[DM_Action]|Sys:[HP|AC|Inv|Dice]
+${customDirectives ? `Extra:${customDirectives}` : ""}
+${diceRollInstruction}`;
+      } else {
+        systemInstruction = campaignSystemInstruction
+          ? `${campaignSystemInstruction}
 
 --- AKTUALNE DANE SESJI ---
 Scenariusz: ${scenarioText || "Wolna eksploracja."}
@@ -158,7 +178,7 @@ Długość Odpowiedzi: ${lengthStyle}
 Poziom Trudności: ${difficulty}/10
 ${customDirectives ? `Dyrektywy Dodatkowe: ${customDirectives}` : ""}
 ${diceRollInstruction}`
-        : `You are an AI Game Master for a tabletop RPG campaign called "${campaignTitle || 'Custom Campaign'}".
+          : `You are an AI Game Master for a tabletop RPG campaign called "${campaignTitle || 'Custom Campaign'}".
 Setting description:
 ${campaignDescription || 'Immersive roleplaying sandbox.'}
 
@@ -180,13 +200,14 @@ Stats: ${statsString}
 Inventory: ${character.inventory}
 Background: ${character.bio}`;
 
-      if (systemRulesBlock) {
-        systemInstruction += systemRulesBlock;
-      }
+        if (systemRulesBlock) {
+          systemInstruction += systemRulesBlock;
+        }
 
-      systemInstruction += `\n\n--- ZACHOWANIE MISTRZA GRY (EKWIPUNEK I KLASA) ---
+        systemInstruction += `\n\n--- ZACHOWANIE MISTRZA GRY (EKWIPUNEK I KLASA) ---
 Pamiętaj, że masz pełny wgląd w ekwipunek postaci (${character.inventory}). 
 Na podstawie klasy/archetypu postaci (${character.class}) oraz posiadanych przez nią przedmiotów, w swoich opisach i odpowiedziach proaktywnie sugeruj graczowi możliwe do wykonania, odpowiednie dla jego postaci zagrania. Jeśli postać gracza natrafi na przeszkodę, podpowiedz (subtelnie lub wprost), jak może wykorzystać swój sprzęt lub atrybuty klasowe.`;
+      }
 
       // Convert messages to Gemini format, filtering out system messages to avoid model contamination
       const formattedMessages = messages
